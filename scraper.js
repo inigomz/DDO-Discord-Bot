@@ -1,42 +1,67 @@
-// Import the required modules
-const axios = require('axios');      // For making HTTP requests to the website
-const cheerio = require('cheerio');  // For parsing and querying the HTML like jQuery
-const fs = require('fs');            // For saving data to a file on your computer
+const axios = require('axios');      // For making HTTP requests
+const cheerio = require('cheerio');  // For parsing HTML
+const fs = require('fs');            // For saving JSON to disk
 
-// Define the main scraping function
-async function scrapeHandwraps() {
-  // The DDO Wiki category page that lists all handwraps
-  // TODO: use a var instead of a const and create a generator for different item types
-  const url = 'https://ddowiki.com/page/Category:Handwraps';
+// Main function to scrape a specific item category
+async function scrapeCategory(categoryName) {
+  // Construct the URL to the DDO Wiki Category page
+  const url = `https://ddowiki.com/page/Category:${encodeURIComponent(categoryName)}`;
 
   try {
-    // Fetch the raw HTML content of the page using axios
-    const { data } = await axios.get(url);
+    const { data } = await axios.get(url); // Download page HTML
+    const $ = cheerio.load(data);          // Load it into cheerio
+    const items = [];                      // Hold the final scraped results
 
-    // Load the HTML into cheerio so we can use jQuery-like selectors
-    const $ = cheerio.load(data);
+    // Go through each row of the first wikitable
+    $('table.wikitable tr').each((_, row) => {
+      const cols = $(row).find('td');
+      if (cols.length < 3) return; // Skip headers or malformed rows
 
-    // Create an empty array to store the scraped items
-    const items = [];
+      // Extract name and link
+      const anchor = $(cols[0]).find('a');
+      const name = anchor.text().trim();
+      const link = 'https://ddowiki.com' + anchor.attr('href');
 
-    // Select all <a> tags inside <li> elements under the .mw-category-group class
-    $('.mw-category-group ul li a').each((_, el) => {
-      const name = $(el).text().trim(); // Get the visible text (item name)
-      const link = 'https://ddowiki.com' + $(el).attr('href'); // Construct the full link
-      if (link.includes('/Category:')) return; //If the link leads to another index, skip the entry.
+      // Skip category redirects
+      if (link.includes('/Category:')) return;
 
-      // Push the item into the array
-      items.push({ name, link });
+      // Extract minimum level
+      const minLevel = $(cols[2]).text().trim();
+
+      // Extract enhancements from <href> tags inside column 2
+      
+      const enhancements = [];
+
+      $(cols[1]).find('li').each((_, li) => {
+        const a = $(li).find('a[href]').first();
+        const text = a.text().trim();
+
+        // Skip if no valid text or href
+        if (!a.length || !text) return;
+
+        // Skip anything with "Category:" in it
+        if (text.toLowerCase().includes('category:')) return;
+
+        enhancements.push(text);
+      });
+
+      // Save all info into the items list
+      items.push({ name, link, minLevel, enhancements });
     });
 
-    // Save the array to a file named handwraps.json
-    fs.writeFileSync('greataxes.json', JSON.stringify(items, null, 2));
-    console.log(' Saved handwraps.json with', items.length, 'items');
+    // Create a filename like 'handwraps.json'
+    const filename = `${categoryName.toLowerCase().replace(/\s+/g, '_')}.json`;
+
+    // Write the full item list to disk
+    fs.writeFileSync(filename, JSON.stringify(items, null, 2));
+    console.log(`SUCCESS: Saved ${filename} with ${items.length} items`);
+
+    // Return useful metadata
+    return { filename, count: items.length };
   } catch (err) {
-    // Print any error that occurs during the request or processing
-    console.error(' Error scraping category:', err.message);
+    throw new Error(`ERROR: Failed to scrape ${categoryName}: ${err.message}`);
   }
 }
 
-// Call the function to run the scraper once
-scrapeHandwraps();
+// Export the function so other files (like menu.js) can use it
+module.exports = { scrapeCategory };
