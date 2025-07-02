@@ -9,7 +9,7 @@ const rl = readline.createInterface({
 });
 
 // List of scrapeable DDO categories
-const categories = ['Handwraps', 'Great Axes', 'Daggers', 'Long Bows', 'Short Bows', 'Repeating Heavy Crossbows', 'Quarterstaffs'];
+const categories = ['Handwraps', 'Great Axes', 'Daggers', 'Long Bows', 'Short Bows', 'Repeating Heavy Crossbows', 'Quarterstaffs', 'wrist items'];
 
 // Display a numbered menu to the user
 console.log('Select a category to scrape:');

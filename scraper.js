@@ -2,6 +2,75 @@ const axios = require('axios');      // For making HTTP requests
 const cheerio = require('cheerio');  // For parsing HTML
 const fs = require('fs');            // For saving JSON to disk
 
+
+function cleanEnhancements(rawList) {
+  const cleaned = [];
+  let skipCount = 0;
+
+  for (let i = 0; i < rawList.length; i++) {
+    const entry = rawList[i];
+
+    // Handle Red Augment Slot
+    if (entry === 'Red Augment Slot') {
+      cleaned.push(entry);
+      skipCount = 6; // exactly 6 false entries follow
+      continue;
+    }
+
+    // Handle Orange Augment Slot
+    if (entry === 'Orange Augment Slot') {
+      cleaned.push(entry);
+      skipCount = 13; // exactly 13 false entries follow
+      continue;
+    }
+
+    // Handle Purple Augment Slot
+    if (entry === 'Purple Augment Slot'){
+      cleaned.push(entry);
+      skipCount = 17;
+      continue
+    }
+    
+    // Handle Yellow Augment Slot
+    if (entry === 'Yellow Augment Slot'){
+      cleaned.push(entry);
+      skipCount = 11;
+      continue
+    }
+
+    // Handle Green Augment Slot
+    if (entry === 'Green Augment Slot'){
+      cleaned.push(entry);
+      skipCount = 22;
+      continue
+    }
+
+    // Handle Colorless Augment Slot
+    if (entry === 'Colorless Augment Slot'){
+      cleaned.push(entry);
+      skipCount = 4;
+      continue
+    }
+
+    // Handle Blue Augment Slot
+    if (entry === 'Blue Augment Slot'){
+      cleaned.push(entry);
+      skipCount = 15;
+      continue
+    }
+
+    // Skip tooltip-generated junk
+    if (skipCount > 0) {
+      skipCount--;
+      continue;
+    }
+
+    // Everything else is valid
+    cleaned.push(entry);
+  }
+
+  return cleaned;
+}
 // Main function to scrape a specific item category
 async function scrapeCategory(categoryName) {
   // Construct the URL to the DDO Wiki Category page
@@ -14,11 +83,11 @@ async function scrapeCategory(categoryName) {
 
     // Go through each row of the first wikitable
     $('table.wikitable tr').each((_, row) => {
-      const cols = $(row).find('td');
+      const cols = $(row).find('td'); //find all data cells
       if (cols.length < 3) return; // Skip headers or malformed rows
 
       // Extract name and link
-      const anchor = $(cols[0]).find('a');
+      const anchor = $(cols[0]).find('a'); //look for anchor attributes
       const name = anchor.text().trim();
       const link = 'https://ddowiki.com' + anchor.attr('href');
 
@@ -46,7 +115,7 @@ async function scrapeCategory(categoryName) {
       });
 
       // Save all info into the items list
-      items.push({ name, link, minLevel, enhancements });
+      items.push({ name, link, minLevel, enhancements: cleanEnhancements(enhancements) });
     });
 
     // Create a filename like 'handwraps.json'

@@ -7,13 +7,7 @@
       "+1 Enhancement Bonus",
       "Fortitude Save +1",
       "Deception",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -24,13 +18,7 @@
       "+2 Enhancement Bonus",
       "Ghostbane 1",
       "Silver",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -40,13 +28,7 @@
     "enhancements": [
       "+2 Enhancement Bonus",
       "Slicing",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -55,13 +37,7 @@
     "minLevel": "2",
     "enhancements": [
       "+1 Enhancement Bonus",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -71,13 +47,7 @@
     "enhancements": [
       "+2 Enhancement Bonus",
       "Acid Touch",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -106,13 +76,7 @@
     "enhancements": [
       "+1 Enhancement Bonus",
       "Silver",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -122,13 +86,7 @@
     "enhancements": [
       "+1 Enhancement Bonus",
       "Ghost Touch",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -139,13 +97,7 @@
       "+3 Enhancement Bonus",
       "Vengeful",
       "Manslayer",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -157,13 +109,7 @@
       "Goldcurse",
       "Entropic 2",
       "Wounding 1",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -173,13 +119,7 @@
     "enhancements": [
       "+2 Enhancement Bonus",
       "Keen",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -191,13 +131,7 @@
       "Acidic 2",
       "Critical Weakening 1",
       "Deception +2",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -248,13 +182,7 @@
       "Bludgeoning 2",
       "Corrosive Salt",
       "Undead Bane 2",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -268,13 +196,7 @@
       "Combustion +55",
       "Glaciation +55",
       "Magnetism +55",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -287,13 +209,7 @@
       "Aligned",
       "Maiming 2",
       "Freezing 4",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -306,13 +222,7 @@
       "Destruction",
       "Maiming 2",
       "Crystal",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -325,13 +235,7 @@
       "Monstrous Humanoid Bane 2",
       "Weakening 1",
       "Flametouched Iron",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -341,13 +245,7 @@
     "enhancements": [
       "+3 Enhancement Bonus",
       "Enfeebling",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -357,13 +255,7 @@
     "enhancements": [
       "+3 Enhancement Bonus",
       "Puncturing",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -373,13 +265,7 @@
     "enhancements": [
       "+3 Enhancement Bonus",
       "Finesse",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -391,24 +277,7 @@
       "+3 Enhancement Bonus",
       "Void Lore +9%",
       "Nullification +63",
-      "Purple Augment Slot",
-      "DR",
-      "Spell Power",
-      "AC",
-      "ASF",
-      "Fortification",
-      "Good Luck",
-      "Hit points",
-      "Max Dex Bonus",
-      "PRR",
-      "Saves",
-      "Dodge",
-      "Accuracy",
-      "Healing Amplification",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -421,13 +290,7 @@
       "Weakening 1",
       "Polycurse",
       "Cold Iron",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -440,24 +303,7 @@
       "Corrosive Salt",
       "Bleeding 2",
       "Maiming 2",
-      "Purple Augment Slot",
-      "DR",
-      "Spell Power",
-      "AC",
-      "ASF",
-      "Fortification",
-      "Good Luck",
-      "Hit points",
-      "Max Dex Bonus",
-      "PRR",
-      "Saves",
-      "Dodge",
-      "Accuracy",
-      "Healing Amplification",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -470,24 +316,7 @@
       "Deception",
       "Greater Dispelling",
       "Assassinate +2",
-      "Purple Augment Slot",
-      "DR",
-      "Spell Power",
-      "AC",
-      "ASF",
-      "Fortification",
-      "Good Luck",
-      "Hit points",
-      "Max Dex Bonus",
-      "PRR",
-      "Saves",
-      "Dodge",
-      "Accuracy",
-      "Healing Amplification",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -501,13 +330,7 @@
       "Seeker +5",
       "Deception +3",
       "Crystal",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -520,13 +343,7 @@
       "Bleeding 2",
       "Tendon Slice +4",
       "The Dread Isle's Curse",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -547,26 +364,7 @@
     "enhancements": [
       "+5 Enhancement Bonus",
       "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills",
-      "Orange Augment Slot",
-      "Deathblock",
-      "Elemental Resistance",
-      "Fear",
-      "Feather Falling",
-      "Proof Against Disease",
-      "Spell Focus",
-      "Enhancement bonus",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Orange Augment Slot"
     ]
   },
   {
@@ -579,29 +377,7 @@
       "Deception",
       "Adamantine",
       "Hide +11",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
-    ]
-  },
-  {
-    "name": "Nightforge Stiletto",
-    "link": "https://ddowiki.com/page/Item:Nightforge_Stiletto",
-    "minLevel": "8",
-    "enhancements": [
-      "+5 Enhancement Bonus",
-      "Adamantine",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -611,13 +387,7 @@
     "enhancements": [
       "+4 Enhancement Bonus",
       "Keen",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -661,13 +431,7 @@
       "Fire Lore +10%",
       "Ice Lore +10%",
       "Lightning Lore +10%",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -680,13 +444,17 @@
       "Bludgeoning 2",
       "Corrosive Salt",
       "Undead Bane 2",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Nightforge Stiletto",
+    "link": "https://ddowiki.com/page/Item:Nightforge_Stiletto",
+    "minLevel": "8",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Adamantine",
+      "Red Augment Slot"
     ]
   },
   {
@@ -701,26 +469,7 @@
       "Lightning Lore +11%",
       "Magnetism +77",
       "Orange Augment Slot",
-      "Deathblock",
-      "Elemental Resistance",
-      "Fear",
-      "Feather Falling",
-      "Proof Against Disease",
-      "Spell Focus",
-      "Enhancement bonus",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills",
       "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills",
       "The Desert's Writhing Storm"
     ]
   },
@@ -736,30 +485,7 @@
       "Wounding 2",
       "Adamantine",
       "Purple Augment Slot",
-      "DR",
-      "Spell Power",
-      "AC",
-      "ASF",
-      "Fortification",
-      "Good Luck",
-      "Hit points",
-      "Max Dex Bonus",
-      "PRR",
-      "Saves",
-      "Dodge",
-      "Accuracy",
-      "Healing Amplification",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills",
       "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills",
       "Vulkoor's Chosen"
     ]
   },
@@ -775,12 +501,6 @@
       "Devotion +77",
       "Resonance +77",
       "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills",
       "Oasis of Morality"
     ]
   },
@@ -794,13 +514,7 @@
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -813,20 +527,7 @@
       "Human Bane 3",
       "Vampirism 1",
       "Chilling 3",
-      "Orange Augment Slot",
-      "Deathblock",
-      "Elemental Resistance",
-      "Fear",
-      "Feather Falling",
-      "Proof Against Disease",
-      "Spell Focus",
-      "Enhancement bonus",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Orange Augment Slot"
     ]
   },
   {
@@ -837,13 +538,7 @@
       "+5 Enhancement Bonus",
       "Bleed",
       "Heartseeker IV",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -891,13 +586,7 @@
       "Combustion +84",
       "Glaciation +84",
       "Magnetism +84",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -922,13 +611,7 @@
       "Bludgeoning 3",
       "Corrosive Salt",
       "Undead Bane 3",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -941,13 +624,7 @@
       "Anarchic 3",
       "Aligned",
       "Keen",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -960,13 +637,7 @@
       "Impactful 3",
       "Vorpal",
       "Entropic 3",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -979,13 +650,7 @@
       "Spell Lore VI",
       "Efficient Metamagic - Extend I",
       "Efficient Metamagic - Empower II",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -1008,13 +673,7 @@
     "enhancements": [
       "+1 Enhancement Bonus",
       "Improved Vorpal",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -1029,24 +688,7 @@
       "+5 Enhancement Bonus",
       "Slice 'n Dice Set",
       "The Devil's Handiwork",
-      "Purple Augment Slot",
-      "DR",
-      "Spell Power",
-      "AC",
-      "ASF",
-      "Fortification",
-      "Good Luck",
-      "Hit points",
-      "Max Dex Bonus",
-      "PRR",
-      "Saves",
-      "Dodge",
-      "Accuracy",
-      "Healing Amplification",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -1061,24 +703,7 @@
       "Improved Vorpal",
       "Slice 'n Dice Set",
       "The Devil's Handiwork",
-      "Purple Augment Slot",
-      "DR",
-      "Spell Power",
-      "AC",
-      "ASF",
-      "Fortification",
-      "Good Luck",
-      "Hit points",
-      "Max Dex Bonus",
-      "PRR",
-      "Saves",
-      "Dodge",
-      "Accuracy",
-      "Healing Amplification",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -1110,13 +735,7 @@
     "enhancements": [
       "+2 Enhancement Bonus",
       "Improved Vorpal",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -1129,13 +748,7 @@
       "Illusion Focus +3",
       "Insightful Illusion Focus +2",
       "Quality Spell Penetration +2",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -1148,13 +761,7 @@
       "Chilling 4",
       "Vorpal",
       "Quality Deception +1",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -1167,13 +774,7 @@
       "Fiery 4",
       "Banishing",
       "Insightful Deception +3",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -1186,13 +787,7 @@
       "Holy 4",
       "Construct Bane 4",
       "Adamantine",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -1219,13 +814,7 @@
     "enhancements": [
       "+2 Enhancement Bonus",
       "Improved Vorpal",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -1238,13 +827,7 @@
       "Bludgeoning 4",
       "Corrosive Salt",
       "Undead Bane 4",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -1257,13 +840,7 @@
       "Fire Lore +14%",
       "Ice Lore +14%",
       "Lightning Lore +14%",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -1290,13 +867,7 @@
       "Humanoid Bane 4",
       "Doublestrike 9%",
       "Seeker +8",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -1309,13 +880,7 @@
       "Coruscating 4",
       "Blazing 10",
       "Evil Outsider Bane 4",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -1328,13 +893,7 @@
       "Unholy 4",
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -1350,12 +909,6 @@
       "Magnetism +111",
       "Lightning Storm Guard",
       "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills",
       "The Epic Desert's Writhing Storm"
     ]
   },
@@ -1371,30 +924,7 @@
       "Wounding 2",
       "Adamantine",
       "Purple Augment Slot",
-      "DR",
-      "Spell Power",
-      "AC",
-      "ASF",
-      "Fortification",
-      "Good Luck",
-      "Hit points",
-      "Max Dex Bonus",
-      "PRR",
-      "Saves",
-      "Dodge",
-      "Accuracy",
-      "Healing Amplification",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills",
       "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills",
       "Epic Vulkoor's Chosen"
     ]
   },
@@ -1410,30 +940,7 @@
       "Critical Weakening 2",
       "Improved Paralyzing",
       "Purple Augment Slot",
-      "DR",
-      "Spell Power",
-      "AC",
-      "ASF",
-      "Fortification",
-      "Good Luck",
-      "Hit points",
-      "Max Dex Bonus",
-      "PRR",
-      "Saves",
-      "Dodge",
-      "Accuracy",
-      "Healing Amplification",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -1449,12 +956,6 @@
       "Resonance +111",
       "Efficient Metamagic - Empower Healing II",
       "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills",
       "Epic Oasis of Morality"
     ]
   },
@@ -1474,17 +975,6 @@
       "Spell Lore III",
       "Upgradeable - Tier 3",
       "Yellow Augment Slot",
-      "Deathblock",
-      "Elemental Resistance",
-      "Fear",
-      "Feather Falling",
-      "Proof Against Disease",
-      "Spell Focus",
-      "Enhancement bonus",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills",
       "Potency +48"
     ]
   },
@@ -1539,13 +1029,7 @@
       "Bludgeoning 4",
       "Corrosive Salt",
       "Undead Bane 4",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -1559,20 +1043,7 @@
       "Potency +73",
       "Spell Lore +8",
       "Lesser Maximize",
-      "Orange Augment Slot",
-      "Deathblock",
-      "Elemental Resistance",
-      "Fear",
-      "Feather Falling",
-      "Proof Against Disease",
-      "Spell Focus",
-      "Enhancement bonus",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Orange Augment Slot"
     ]
   },
   {
@@ -1585,13 +1056,7 @@
       "Unnatural Bane 4",
       "Destruction",
       "Righteous",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -1604,13 +1069,7 @@
       "Ghostbane 4",
       "Weaken Undead",
       "Adamantine",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -1624,17 +1083,7 @@
       "Wounding 2",
       "Destruction",
       "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills",
-      "Colorless Augment Slot",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1676,13 +1125,7 @@
       "Weakening 2",
       "Polycurse",
       "Cold Iron",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -1692,20 +1135,7 @@
     "enhancements": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)",
-      "Orange Augment Slot",
-      "Deathblock",
-      "Elemental Resistance",
-      "Fear",
-      "Feather Falling",
-      "Proof Against Disease",
-      "Spell Focus",
-      "Enhancement bonus",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Orange Augment Slot"
     ]
   },
   {
@@ -1732,13 +1162,7 @@
       "Unnatural Bane 5",
       "Ghostbane 5",
       "Silver",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -1758,20 +1182,7 @@
       "Spell Lore VII",
       "Upgradeable - Tier 3",
       "Potency +72",
-      "Orange Augment Slot",
-      "Deathblock",
-      "Elemental Resistance",
-      "Fear",
-      "Feather Falling",
-      "Proof Against Disease",
-      "Spell Focus",
-      "Enhancement bonus",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Orange Augment Slot"
     ]
   },
   {
@@ -1784,13 +1195,7 @@
       "Bludgeoning 5",
       "Corrosive Salt",
       "Undead Bane 5",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -1804,20 +1209,7 @@
       "Potency +84",
       "Spell Lore +10",
       "Lesser Maximize",
-      "Orange Augment Slot",
-      "Deathblock",
-      "Elemental Resistance",
-      "Fear",
-      "Feather Falling",
-      "Proof Against Disease",
-      "Spell Focus",
-      "Enhancement bonus",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Orange Augment Slot"
     ]
   },
   {
@@ -1864,13 +1256,7 @@
       "Shatter +10",
       "Tendon Slice 10%",
       "Vertigo +10",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -1884,24 +1270,7 @@
       "Nullification +128",
       "Profane Lifeforce +39",
       "Quality Negative Amplification +12",
-      "Purple Augment Slot",
-      "DR",
-      "Spell Power",
-      "AC",
-      "ASF",
-      "Fortification",
-      "Good Luck",
-      "Hit points",
-      "Max Dex Bonus",
-      "PRR",
-      "Saves",
-      "Dodge",
-      "Accuracy",
-      "Healing Amplification",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -1936,13 +1305,7 @@
       "Shatter +10",
       "Tendon Slice 10%",
       "Vertigo +10",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -1955,24 +1318,7 @@
       "Improved Deception",
       "Greater Dispelling",
       "Assassinate +6",
-      "Purple Augment Slot",
-      "DR",
-      "Spell Power",
-      "AC",
-      "ASF",
-      "Fortification",
-      "Good Luck",
-      "Hit points",
-      "Max Dex Bonus",
-      "PRR",
-      "Saves",
-      "Dodge",
-      "Accuracy",
-      "Healing Amplification",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -2016,13 +1362,7 @@
       "Shatter +10",
       "Tendon Slice 10%",
       "Vertigo +10",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -2035,24 +1375,7 @@
       "Corrosive Salt",
       "Bleeding 6",
       "Maiming 6",
-      "Purple Augment Slot",
-      "DR",
-      "Spell Power",
-      "AC",
-      "ASF",
-      "Fortification",
-      "Good Luck",
-      "Hit points",
-      "Max Dex Bonus",
-      "PRR",
-      "Saves",
-      "Dodge",
-      "Accuracy",
-      "Healing Amplification",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -2066,23 +1389,6 @@
       "Insightful Sneak Attack Bonus +6",
       "Sovereign Vorpal",
       "Purple Augment Slot",
-      "DR",
-      "Spell Power",
-      "AC",
-      "ASF",
-      "Fortification",
-      "Good Luck",
-      "Hit points",
-      "Max Dex Bonus",
-      "PRR",
-      "Saves",
-      "Dodge",
-      "Accuracy",
-      "Healing Amplification",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills",
       "Epic Slice 'n Dice Set",
       "Epic The Devil's Handiwork"
     ]
@@ -2099,24 +1405,7 @@
       "+12 Enhancement Bonus",
       "Epic Slice 'n Dice Set",
       "Epic The Devil's Handiwork",
-      "Purple Augment Slot",
-      "DR",
-      "Spell Power",
-      "AC",
-      "ASF",
-      "Fortification",
-      "Good Luck",
-      "Hit points",
-      "Max Dex Bonus",
-      "PRR",
-      "Saves",
-      "Dodge",
-      "Accuracy",
-      "Healing Amplification",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -2129,13 +1418,7 @@
       "Illusion Focus +5",
       "Insightful Illusion Focus +3",
       "Quality Spell Penetration +2",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -2149,30 +1432,7 @@
       "Sovereign Vorpal",
       "Deception +11",
       "Purple Augment Slot",
-      "DR",
-      "Spell Power",
-      "AC",
-      "ASF",
-      "Fortification",
-      "Good Luck",
-      "Hit points",
-      "Max Dex Bonus",
-      "PRR",
-      "Saves",
-      "Dodge",
-      "Accuracy",
-      "Healing Amplification",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills",
       "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills",
       "Pain and Suffering"
     ]
   },
@@ -2187,26 +1447,7 @@
       "Wounding 3",
       "Metalline",
       "Orange Augment Slot",
-      "Deathblock",
-      "Elemental Resistance",
-      "Fear",
-      "Feather Falling",
-      "Proof Against Disease",
-      "Spell Focus",
-      "Enhancement bonus",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills",
       "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills",
       "Pain and Suffering"
     ]
   },
@@ -2220,13 +1461,7 @@
       "Bludgeoning 6",
       "Corrosive Salt",
       "Undead Bane 6",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -2240,20 +1475,7 @@
       "Potency +95",
       "Spell Lore +11",
       "Lesser Maximize",
-      "Orange Augment Slot",
-      "Deathblock",
-      "Elemental Resistance",
-      "Fear",
-      "Feather Falling",
-      "Proof Against Disease",
-      "Spell Focus",
-      "Enhancement bonus",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Orange Augment Slot"
     ]
   },
   {
@@ -2278,13 +1500,7 @@
       "Chilling 6",
       "Sovereign Vorpal",
       "Quality Deception +2",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -2297,13 +1513,7 @@
       "Fiery 6",
       "Sovereign Banishing",
       "Insightful Deception +5",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -2317,26 +1527,7 @@
       "Follower of the Blood of Vol",
       "Lesser Favor of the Lady Vol",
       "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills",
-      "Orange Augment Slot",
-      "Deathblock",
-      "Elemental Resistance",
-      "Fear",
-      "Feather Falling",
-      "Proof Against Disease",
-      "Spell Focus",
-      "Enhancement bonus",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Orange Augment Slot"
     ]
   },
   {
@@ -2349,13 +1540,7 @@
       "Enhanced Bloodrage",
       "Blood Rage",
       "Sovereign Vorpal",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -2368,20 +1553,7 @@
       "Human Bane 6",
       "Vampirism 2",
       "Chilling 6",
-      "Orange Augment Slot",
-      "Deathblock",
-      "Elemental Resistance",
-      "Fear",
-      "Feather Falling",
-      "Proof Against Disease",
-      "Spell Focus",
-      "Enhancement bonus",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Orange Augment Slot"
     ]
   },
   {
@@ -2397,26 +1569,7 @@
       "Keen",
       "Cold Iron",
       "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills",
-      "Orange Augment Slot",
-      "Deathblock",
-      "Elemental Resistance",
-      "Fear",
-      "Feather Falling",
-      "Proof Against Disease",
-      "Spell Focus",
-      "Enhancement bonus",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Orange Augment Slot"
     ]
   },
   {
@@ -2432,26 +1585,7 @@
       "Legendary Freezing Ice",
       "Improved Destruction",
       "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills",
-      "Orange Augment Slot",
-      "Deathblock",
-      "Elemental Resistance",
-      "Fear",
-      "Feather Falling",
-      "Proof Against Disease",
-      "Spell Focus",
-      "Enhancement bonus",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Orange Augment Slot"
     ]
   },
   {
@@ -2464,13 +1598,7 @@
       "Holy 6",
       "Fiery 6",
       "Undead Bane 6",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -2483,13 +1611,7 @@
       "Holy 6",
       "Construct Bane 6",
       "Adamantine",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -2502,13 +1624,7 @@
       "Improved Destruction",
       "Maiming 6",
       "Crystal",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -2521,13 +1637,7 @@
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -2541,13 +1651,7 @@
       "Seeker +13",
       "Deception +10",
       "Crystal",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -2557,13 +1661,7 @@
     "enhancements": [
       "+15 Enhancement Bonus",
       "Legendary Alchemical Crafting (Prototype)",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -2578,37 +1676,7 @@
       "Critical Weakening 3",
       "Legendary Paralysis",
       "Purple Augment Slot",
-      "DR",
-      "Spell Power",
-      "AC",
-      "ASF",
-      "Fortification",
-      "Good Luck",
-      "Hit points",
-      "Max Dex Bonus",
-      "PRR",
-      "Saves",
-      "Dodge",
-      "Accuracy",
-      "Healing Amplification",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills",
-      "Orange Augment Slot",
-      "Deathblock",
-      "Elemental Resistance",
-      "Fear",
-      "Feather Falling",
-      "Proof Against Disease",
-      "Spell Focus",
-      "Enhancement bonus",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Orange Augment Slot"
     ]
   },
   {
@@ -2623,26 +1691,7 @@
       "Improved Destruction",
       "The Golden Curse",
       "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills",
-      "Orange Augment Slot",
-      "Deathblock",
-      "Elemental Resistance",
-      "Fear",
-      "Feather Falling",
-      "Proof Against Disease",
-      "Spell Focus",
-      "Enhancement bonus",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Orange Augment Slot"
     ]
   },
   {
@@ -2658,30 +1707,7 @@
       "Adamantine",
       "Legendary Vulkoor's Chosen",
       "Purple Augment Slot",
-      "DR",
-      "Spell Power",
-      "AC",
-      "ASF",
-      "Fortification",
-      "Good Luck",
-      "Hit points",
-      "Max Dex Bonus",
-      "PRR",
-      "Saves",
-      "Dodge",
-      "Accuracy",
-      "Healing Amplification",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -2697,13 +1723,7 @@
       "Resonance +146",
       "Efficient Metamagic - Empower Healing II",
       "Legendary Oasis of Morality",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -2719,13 +1739,7 @@
       "Magnetism +146",
       "Legendary Lightningstorm Guard",
       "The Legendary Desert's Writhing Storm",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -2739,12 +1753,6 @@
       "Tendon Slice +11",
       "Isle of Dread: Scale Slot (Weapon): Empty",
       "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills",
       "The Legendary Dread Isle's Curse"
     ]
   },
@@ -2759,37 +1767,7 @@
       "Isle of Dread: Claw Slot (Weapon): Empty",
       "Isle of Dread: Horn Slot (Weapon): Empty",
       "Orange Augment Slot",
-      "Deathblock",
-      "Elemental Resistance",
-      "Fear",
-      "Feather Falling",
-      "Proof Against Disease",
-      "Spell Focus",
-      "Enhancement bonus",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills",
-      "Purple Augment Slot",
-      "DR",
-      "Spell Power",
-      "AC",
-      "ASF",
-      "Fortification",
-      "Good Luck",
-      "Hit points",
-      "Max Dex Bonus",
-      "PRR",
-      "Saves",
-      "Dodge",
-      "Accuracy",
-      "Healing Amplification",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -2805,26 +1783,7 @@
       "Doublestrike 15%",
       "Seeker +14",
       "Orange Augment Slot",
-      "Deathblock",
-      "Elemental Resistance",
-      "Fear",
-      "Feather Falling",
-      "Proof Against Disease",
-      "Spell Focus",
-      "Enhancement bonus",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -2838,37 +1797,7 @@
       "Isle of Dread: Claw Slot (Weapon): Empty",
       "Isle of Dread: Horn Slot (Weapon): Empty",
       "Orange Augment Slot",
-      "Deathblock",
-      "Elemental Resistance",
-      "Fear",
-      "Feather Falling",
-      "Proof Against Disease",
-      "Spell Focus",
-      "Enhancement bonus",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills",
       "Purple Augment Slot",
-      "DR",
-      "Spell Power",
-      "AC",
-      "ASF",
-      "Fortification",
-      "Good Luck",
-      "Hit points",
-      "Max Dex Bonus",
-      "PRR",
-      "Saves",
-      "Dodge",
-      "Accuracy",
-      "Healing Amplification",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills",
       "The Legendary Dread Isle's Curse"
     ]
   },
@@ -2882,13 +1811,7 @@
       "Bludgeoning 6",
       "Corrosive Salt",
       "Undead Bane 6",
-      "Red Augment Slot",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Red Augment Slot"
     ]
   },
   {
@@ -2902,20 +1825,7 @@
       "Potency +106",
       "Spell Lore +12",
       "Lesser Maximize",
-      "Orange Augment Slot",
-      "Deathblock",
-      "Elemental Resistance",
-      "Fear",
-      "Feather Falling",
-      "Proof Against Disease",
-      "Spell Focus",
-      "Enhancement bonus",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Orange Augment Slot"
     ]
   },
   {
@@ -2941,37 +1851,7 @@
       "Blazing 15",
       "Evil Outsider Bane 6",
       "Orange Augment Slot",
-      "Deathblock",
-      "Elemental Resistance",
-      "Fear",
-      "Feather Falling",
-      "Proof Against Disease",
-      "Spell Focus",
-      "Enhancement bonus",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills",
-      "Purple Augment Slot",
-      "DR",
-      "Spell Power",
-      "AC",
-      "ASF",
-      "Fortification",
-      "Good Luck",
-      "Hit points",
-      "Max Dex Bonus",
-      "PRR",
-      "Saves",
-      "Dodge",
-      "Accuracy",
-      "Healing Amplification",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -2986,37 +1866,7 @@
       "Legendary Vile Grip of the Hidden Hand",
       "Taint of Evil",
       "Orange Augment Slot",
-      "Deathblock",
-      "Elemental Resistance",
-      "Fear",
-      "Feather Falling",
-      "Proof Against Disease",
-      "Spell Focus",
-      "Enhancement bonus",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills",
-      "Purple Augment Slot",
-      "DR",
-      "Spell Power",
-      "AC",
-      "ASF",
-      "Fortification",
-      "Good Luck",
-      "Hit points",
-      "Max Dex Bonus",
-      "PRR",
-      "Saves",
-      "Dodge",
-      "Accuracy",
-      "Healing Amplification",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -3030,37 +1880,7 @@
       "Aligned",
       "Keen",
       "Orange Augment Slot",
-      "Deathblock",
-      "Elemental Resistance",
-      "Fear",
-      "Feather Falling",
-      "Proof Against Disease",
-      "Spell Focus",
-      "Enhancement bonus",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills",
-      "Purple Augment Slot",
-      "DR",
-      "Spell Power",
-      "AC",
-      "ASF",
-      "Fortification",
-      "Good Luck",
-      "Hit points",
-      "Max Dex Bonus",
-      "PRR",
-      "Saves",
-      "Dodge",
-      "Accuracy",
-      "Healing Amplification",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -3074,37 +1894,7 @@
       "Sovereign Vorpal",
       "Entropic 7",
       "Orange Augment Slot",
-      "Deathblock",
-      "Elemental Resistance",
-      "Fear",
-      "Feather Falling",
-      "Proof Against Disease",
-      "Spell Focus",
-      "Enhancement bonus",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills",
-      "Purple Augment Slot",
-      "DR",
-      "Spell Power",
-      "AC",
-      "ASF",
-      "Fortification",
-      "Good Luck",
-      "Hit points",
-      "Max Dex Bonus",
-      "PRR",
-      "Saves",
-      "Dodge",
-      "Accuracy",
-      "Healing Amplification",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -3118,37 +1908,7 @@
       "Sovereign Vorpal",
       "Sealed in Fire",
       "Orange Augment Slot",
-      "Deathblock",
-      "Elemental Resistance",
-      "Fear",
-      "Feather Falling",
-      "Proof Against Disease",
-      "Spell Focus",
-      "Enhancement bonus",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills",
-      "Purple Augment Slot",
-      "DR",
-      "Spell Power",
-      "AC",
-      "ASF",
-      "Fortification",
-      "Good Luck",
-      "Hit points",
-      "Max Dex Bonus",
-      "PRR",
-      "Saves",
-      "Dodge",
-      "Accuracy",
-      "Healing Amplification",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -3162,37 +1922,7 @@
       "Maiming 7",
       "Legendary Freezing Ice",
       "Orange Augment Slot",
-      "Deathblock",
-      "Elemental Resistance",
-      "Fear",
-      "Feather Falling",
-      "Proof Against Disease",
-      "Spell Focus",
-      "Enhancement bonus",
-      "DR",
-      "Spell Power",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills",
-      "Purple Augment Slot",
-      "DR",
-      "Spell Power",
-      "AC",
-      "ASF",
-      "Fortification",
-      "Good Luck",
-      "Hit points",
-      "Max Dex Bonus",
-      "PRR",
-      "Saves",
-      "Dodge",
-      "Accuracy",
-      "Healing Amplification",
-      "Ability",
-      "Ability",
-      "Ability",
-      "Skills"
+      "Purple Augment Slot"
     ]
   }
 ]
