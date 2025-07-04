@@ -156,9 +156,7 @@
       "Combustion +36",
       "Glaciation +36",
       "Upgradeable - Tier 2",
-      "Glaciation +36",
-      "Upgradeable - Tier 3",
-      "Combustion +36"
+      "Upgradeable - Tier 3"
     ]
   },
   {
@@ -404,7 +402,6 @@
       "Magnetism +48",
       "Corrosion +48",
       "Upgradeable - Tier 2",
-      "Combustion +48",
       "Upgradeable - Tier 3",
       "Potency +32"
     ]
@@ -561,9 +558,7 @@
       "Concentration +11",
       "Potency +36",
       "Upgradeable - Tier 2",
-      "Potency +36",
-      "Upgradeable - Tier 3",
-      "Potency +36"
+      "Upgradeable - Tier 3"
     ]
   },
   {
@@ -974,8 +969,7 @@
       "Upgradeable - Tier 2",
       "Spell Lore III",
       "Upgradeable - Tier 3",
-      "Yellow Augment Slot",
-      "Potency +48"
+      "Yellow Augment Slot"
     ]
   },
   {
@@ -985,7 +979,6 @@
     "enhancements": [
       "+6 Enhancement Bonus",
       "Poison Burst",
-      "Constitution Poison, Virulent",
       "Constitution Poison, Virulent",
       "Dexterity Poison, Virulent",
       "Strength Poison, Virulent",
@@ -1108,7 +1101,6 @@
       "+6 Enhancement Bonus",
       "Maiming",
       "Insightful Combat Mastery +5",
-      "Insightful Combat Mastery +5",
       "Shatter +10",
       "Stunning +10",
       "Vertigo +10",
@@ -1179,9 +1171,7 @@
       "Spell Lore VII",
       "Lesser Maximize",
       "Upgradeable - Tier 2",
-      "Spell Lore VII",
       "Upgradeable - Tier 3",
-      "Potency +72",
       "Orange Augment Slot"
     ]
   },
@@ -1232,7 +1222,6 @@
       "+3 Enhancement Bonus",
       "Greater Vorpal",
       "Dazing VI",
-      "Dazing VI",
       "Deception VI",
       "Doublestrike 6%",
       "Draining VI",
@@ -1241,17 +1230,13 @@
       "Heartseeker VI",
       "Humanoid Bane VI",
       "Improved Disruption",
-      "Improved Disruption",
       "Improved Smiting",
       "Natural Bane VI",
-      "Riposte VI",
       "Riposte VI",
       "Stumbling VI",
       "Sundering VI",
       "Weakening",
-      "Weakening",
       "Enfeebling",
-      "Stunning +10",
       "Stunning +10",
       "Shatter +10",
       "Tendon Slice 10%",
@@ -1281,7 +1266,6 @@
       "+4 Enhancement Bonus",
       "Greater Vorpal",
       "Dazing VI",
-      "Dazing VI",
       "Deception VI",
       "Doublestrike 6%",
       "Draining VI",
@@ -1290,17 +1274,13 @@
       "Heartseeker VI",
       "Humanoid Bane VI",
       "Improved Disruption",
-      "Improved Disruption",
       "Improved Smiting",
       "Natural Bane VI",
-      "Riposte VI",
       "Riposte VI",
       "Stumbling VI",
       "Sundering VI",
       "Weakening",
-      "Weakening",
       "Enfeebling",
-      "Stunning +10",
       "Stunning +10",
       "Shatter +10",
       "Tendon Slice 10%",
@@ -1338,7 +1318,6 @@
       "+4 Enhancement Bonus",
       "Greater Vorpal",
       "Dazing VI",
-      "Dazing VI",
       "Deception VI",
       "Doublestrike 6%",
       "Draining VI",
@@ -1347,17 +1326,13 @@
       "Heartseeker VI",
       "Humanoid Bane VI",
       "Improved Disruption",
-      "Improved Disruption",
       "Improved Smiting",
       "Natural Bane VI",
-      "Riposte VI",
       "Riposte VI",
       "Stumbling VI",
       "Sundering VI",
       "Weakening",
-      "Weakening",
       "Enfeebling",
-      "Stunning +10",
       "Stunning +10",
       "Shatter +10",
       "Tendon Slice 10%",

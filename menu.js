@@ -9,7 +9,7 @@ const rl = readline.createInterface({
 });
 
 // List of scrapeable DDO categories
-const categories = ['Handwraps', 'Great Axes', 'Daggers', 'Long Bows', 'Short Bows', 'Repeating Heavy Crossbows', 'Quarterstaffs', 'wrist items'];
+const categories = ['cloth armor','Handwraps', 'Great Axes', 'Daggers', 'Long Bows', 'Short Bows', 'Repeating Heavy Crossbows', 'Quarterstaffs', 'wrist items', 'medium armor'];
 
 // Display a numbered menu to the user
 console.log('Select a category to scrape:');
@@ -20,11 +20,27 @@ rl.question('Enter a number: ', async (answer) => {
   const index = parseInt(answer, 10) - 1;     // Convert input to array index
   const selected = categories[index];         // Get the selected category
 
+  // If answer is 0, do all categories
+  if (answer === '0') {
+    for (const category of categories) {
+      try {
+        const {filename, count} = await scrapeCategory(category);
+        console.log(`${category}: ${count} items saved to ${filename}`);
+        await new Promise(res => setTimeout(res, 500));
+      } catch(err){
+        console.error(`${category}: ${err.message}`)
+      }
+    }
+    rl.close() // Exit input mode
+    return;
+  }
+
   if (!selected) {
     console.log('Invalid selection.');
     rl.close(); // Exit input mode
     return;
   }
+
 
   try {
     // Call the scrape function and wait for the result

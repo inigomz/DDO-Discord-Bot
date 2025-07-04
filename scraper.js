@@ -1,6 +1,7 @@
 const axios = require('axios');      // For making HTTP requests
 const cheerio = require('cheerio');  // For parsing HTML
 const fs = require('fs');            // For saving JSON to disk
+const path = require('path');        // For saving JSOn to itemlist
 
 
 function cleanEnhancements(rawList) {
@@ -58,6 +59,13 @@ function cleanEnhancements(rawList) {
       skipCount = 15;
       continue
     }
+    
+    // Handle Primary and secondary Augment slot (edge case)
+    if (entry === 'Fountain of Necrotic Might'){
+      cleaned.push('Upgradeable - Primary Augment', 'Upgradeable - Secondary Augment')
+      skipCount = 87
+      continue;
+    }
 
     // Skip tooltip-generated junk
     if (skipCount > 0) {
@@ -69,7 +77,7 @@ function cleanEnhancements(rawList) {
     cleaned.push(entry);
   }
 
-  return cleaned;
+  return [...new Set(cleaned)];
 }
 // Main function to scrape a specific item category
 async function scrapeCategory(categoryName) {
