@@ -9,7 +9,7 @@ const rl = readline.createInterface({
 });
 
 // List of scrapeable DDO categories
-const categories = ['cloth armor','Handwraps', 'Great Axes', 'Daggers', 'Long Bows', 'Short Bows', 'Repeating Heavy Crossbows', 'Quarterstaffs', 'wrist items', 'medium armor'];
+const categories = ['Cloth armor', 'Light armor', 'Medium armor', 'Heavy armor', 'Docents', 'Bucklers', 'Small shields', 'Large shields', 'Tower shields', 'Orbs', 'Head items', 'Hand items', 'Back items', 'Waist items', 'Feet items', 'Wrist items', 'Eye items', 'Neck items', 'Finger items', 'Trinket items', 'Clubs', 'Quarterstaffs', 'Daggers', 'Sickles', 'Light Maces', 'Heavy Maces', 'Morningstars', 'Heavy Crossbows', 'Light Crossbows', 'Hand Axes', 'Battle Axes', 'Great Axes', 'Kukris', 'Long Swords', 'Great Swords', 'Scimitars', 'Falchions', 'Long Bows', 'Short Swords', 'Rapiers', 'Heavy Picks', 'Light Picks', 'Light Hammers', 'War Hammers', 'Mauls', 'Great Clubs', 'Short Bows', 'Bastard Swords', 'Dwarven War Axes', 'Kamas', 'Khopeshes', 'Handwraps', 'Rune Arms', 'Great Crossbows', 'Repeating Heavy Crossbows', 'Repeating Light Crossbows', 'Throwing Axes', 'Throwing Daggers', 'Throwing Hammers', 'Darts', 'Shurikens', 'Collars' ];
 
 // Display a numbered menu to the user
 console.log('Select a category to scrape:');

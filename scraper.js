@@ -83,7 +83,8 @@ function cleanEnhancements(rawList) {
 async function scrapeCategory(categoryName) {
   // Construct the URL to the DDO Wiki Category page
   const url = `https://ddowiki.com/page/Category:${encodeURIComponent(categoryName)}`;
-
+  const outputDir = path.join(__dirname, 'itemlist');
+  
   try {
     const { data } = await axios.get(url); // Download page HTML
     const $ = cheerio.load(data);          // Load it into cheerio
@@ -126,11 +127,12 @@ async function scrapeCategory(categoryName) {
       items.push({ name, link, minLevel, enhancements: cleanEnhancements(enhancements) });
     });
 
-    // Create a filename like 'handwraps.json'
+    // Create a filename like 'handwraps.json' and direct it to itemlist
     const filename = `${categoryName.toLowerCase().replace(/\s+/g, '_')}.json`;
+    const filepath = path.join(outputDir, filename);
 
     // Write the full item list to disk
-    fs.writeFileSync(filename, JSON.stringify(items, null, 2));
+    fs.writeFileSync(filepath, JSON.stringify(items, null, 2));
     console.log(`SUCCESS: Saved ${filename} with ${items.length} items`);
 
     // Return useful metadata
