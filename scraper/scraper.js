@@ -83,7 +83,7 @@ function cleanEnhancements(rawList) {
 async function scrapeCategory(categoryName) {
   // Construct the URL to the DDO Wiki Category page
   const url = `https://ddowiki.com/page/Category:${encodeURIComponent(categoryName)}`;
-  const outputDir = path.join(__dirname, 'itemlist');
+  const outputDir = path.join(__dirname, '..', 'itemlist');
   
   try {
     const { data } = await axios.get(url); // Download page HTML
@@ -131,6 +131,10 @@ async function scrapeCategory(categoryName) {
     const filename = `${categoryName.toLowerCase().replace(/\s+/g, '_')}.json`;
     const filepath = path.join(outputDir, filename);
 
+    // If itemlist doesn't exist, create a new folder and call it itemlist.
+    if (!fs.existsSync(outputDir)) {
+      fs.mkdirSync(outputDir);
+    }
     // Write the full item list to disk
     fs.writeFileSync(filepath, JSON.stringify(items, null, 2));
     console.log(`SUCCESS: Saved ${filename} with ${items.length} items`);
