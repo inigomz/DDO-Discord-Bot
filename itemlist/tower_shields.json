@@ -47,8 +47,8 @@
     ]
   },
   {
-    "name": "Bastion (Level 16)",
-    "link": "https://ddowiki.com/page/Item:Bastion_(Level_16)",
+    "name": "Bastion (level 16)",
+    "link": "https://ddowiki.com/page/Item:Bastion_(level_16)",
     "minLevel": "16",
     "enhancements": [
       "+4 Enhancement Bonus",
@@ -59,8 +59,8 @@
     ]
   },
   {
-    "name": "Bastion (Level 17)",
-    "link": "https://ddowiki.com/page/Item:Bastion_(Level_17)",
+    "name": "Bastion (level 17)",
+    "link": "https://ddowiki.com/page/Item:Bastion_(level_17)",
     "minLevel": "17",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -71,8 +71,8 @@
     ]
   },
   {
-    "name": "Bastion (Level 18)",
-    "link": "https://ddowiki.com/page/Item:Bastion_(Level_18)",
+    "name": "Bastion (level 18)",
+    "link": "https://ddowiki.com/page/Item:Bastion_(level_18)",
     "minLevel": "18",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -83,8 +83,8 @@
     ]
   },
   {
-    "name": "Bastion (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Bastion_(Level_23)",
+    "name": "Bastion (level 23)",
+    "link": "https://ddowiki.com/page/Item:Bastion_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "+6 Enhancement Bonus",
@@ -95,8 +95,8 @@
     ]
   },
   {
-    "name": "Bastion (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Bastion_(Level_24)",
+    "name": "Bastion (level 24)",
+    "link": "https://ddowiki.com/page/Item:Bastion_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "+7 Enhancement Bonus",
@@ -107,8 +107,8 @@
     ]
   },
   {
-    "name": "Bastion (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Bastion_(Level_25)",
+    "name": "Bastion (level 25)",
+    "link": "https://ddowiki.com/page/Item:Bastion_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "+7 Enhancement Bonus",
@@ -230,6 +230,19 @@
     ]
   },
   {
+    "name": "Frostforged Tower Shield",
+    "link": "https://ddowiki.com/page/Item:Frostforged_Tower_Shield",
+    "minLevel": "8",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Quality  Incite +13",
+      "Insightful Physical Sheltering +8",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
     "name": "Guardian Mantle",
     "link": "https://ddowiki.com/page/Item:Guardian_Mantle",
     "minLevel": "6",
@@ -314,6 +327,20 @@
       "Insightful  Diversion +10%",
       "Taint of Evil",
       "Legendary Forbidden Knowledge",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Frostforged Tower Shield",
+    "link": "https://ddowiki.com/page/Item:Legendary_Frostforged_Tower_Shield",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Quality  Incite +29",
+      "Insightful Physical Sheltering +18",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
       "Purple Augment Slot",
       "Orange Augment Slot"
     ]
@@ -517,8 +544,8 @@
     ]
   },
   {
-    "name": "Skyvault Shield (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Skyvault_Shield_(Level_12)",
+    "name": "Skyvault Shield (level 12)",
+    "link": "https://ddowiki.com/page/Item:Skyvault_Shield_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "+4 Enhancement Bonus",
@@ -526,8 +553,8 @@
     ]
   },
   {
-    "name": "Skyvault Shield (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Skyvault_Shield_(Level_13)",
+    "name": "Skyvault Shield (level 13)",
+    "link": "https://ddowiki.com/page/Item:Skyvault_Shield_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -535,8 +562,8 @@
     ]
   },
   {
-    "name": "Skyvault Shield (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Skyvault_Shield_(Level_14)",
+    "name": "Skyvault Shield (level 14)",
+    "link": "https://ddowiki.com/page/Item:Skyvault_Shield_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -545,8 +572,8 @@
     ]
   },
   {
-    "name": "Skyvault Shield (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Skyvault_Shield_(Level_23)",
+    "name": "Skyvault Shield (level 23)",
+    "link": "https://ddowiki.com/page/Item:Skyvault_Shield_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "+6 Enhancement Bonus",
@@ -555,8 +582,8 @@
     ]
   },
   {
-    "name": "Skyvault Shield (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Skyvault_Shield_(Level_24)",
+    "name": "Skyvault Shield (level 24)",
+    "link": "https://ddowiki.com/page/Item:Skyvault_Shield_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "+7 Enhancement Bonus",
@@ -565,8 +592,8 @@
     ]
   },
   {
-    "name": "Skyvault Shield (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Skyvault_Shield_(Level_25)",
+    "name": "Skyvault Shield (level 25)",
+    "link": "https://ddowiki.com/page/Item:Skyvault_Shield_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "+7 Enhancement Bonus",

@@ -100,8 +100,8 @@
     ]
   },
   {
-    "name": "Calomel Studded Handwraps (Level 4)",
-    "link": "https://ddowiki.com/page/Item:Calomel_Studded_Handwraps_(Level_4)",
+    "name": "Calomel Studded Handwraps (level 4)",
+    "link": "https://ddowiki.com/page/Item:Calomel_Studded_Handwraps_(level_4)",
     "minLevel": "4",
     "enhancements": [
       "+1 Enhancement Bonus",
@@ -207,6 +207,19 @@
     "link": "https://ddowiki.com/page/Item:Calomel_Studded_Handwraps_(level_8)",
     "minLevel": "8",
     "enhancements": []
+  },
+  {
+    "name": "Calamitous Handwraps",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Handwraps",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
   },
   {
     "name": "Stonedust Handwraps",
@@ -420,8 +433,8 @@
     ]
   },
   {
-    "name": "Ivy Wraps (Level 15)",
-    "link": "https://ddowiki.com/page/Item:Ivy_Wraps_(Level_15)",
+    "name": "Ivy Wraps (level 15)",
+    "link": "https://ddowiki.com/page/Item:Ivy_Wraps_(level_15)",
     "minLevel": "15",
     "enhancements": [
       "Spiked",
@@ -509,8 +522,8 @@
     ]
   },
   {
-    "name": "Ivy Wraps (Level 16)",
-    "link": "https://ddowiki.com/page/Item:Ivy_Wraps_(Level_16)",
+    "name": "Ivy Wraps (level 16)",
+    "link": "https://ddowiki.com/page/Item:Ivy_Wraps_(level_16)",
     "minLevel": "16",
     "enhancements": [
       "Spiked",
@@ -540,8 +553,8 @@
     ]
   },
   {
-    "name": "Ivy Wraps (Level 17)",
-    "link": "https://ddowiki.com/page/Item:Ivy_Wraps_(Level_17)",
+    "name": "Ivy Wraps (level 17)",
+    "link": "https://ddowiki.com/page/Item:Ivy_Wraps_(level_17)",
     "minLevel": "17",
     "enhancements": [
       "Spiked",
@@ -552,8 +565,8 @@
     ]
   },
   {
-    "name": "Thunder and Lightning (Level 17)",
-    "link": "https://ddowiki.com/page/Item:Thunder_and_Lightning_(Level_17)",
+    "name": "Thunder and Lightning (level 17)",
+    "link": "https://ddowiki.com/page/Item:Thunder_and_Lightning_(level_17)",
     "minLevel": "17",
     "enhancements": [
       "+3 Enhancement Bonus",
@@ -591,8 +604,8 @@
     ]
   },
   {
-    "name": "Thunder and Lightning (Level 18)",
-    "link": "https://ddowiki.com/page/Item:Thunder_and_Lightning_(Level_18)",
+    "name": "Thunder and Lightning (level 18)",
+    "link": "https://ddowiki.com/page/Item:Thunder_and_Lightning_(level_18)",
     "minLevel": "18",
     "enhancements": [
       "+4 Enhancement Bonus",
@@ -629,8 +642,8 @@
     ]
   },
   {
-    "name": "Thunder and Lightning (Level 19)",
-    "link": "https://ddowiki.com/page/Item:Thunder_and_Lightning_(Level_19)",
+    "name": "Thunder and Lightning (level 19)",
+    "link": "https://ddowiki.com/page/Item:Thunder_and_Lightning_(level_19)",
     "minLevel": "19",
     "enhancements": [
       "+4 Enhancement Bonus",
@@ -711,8 +724,8 @@
     ]
   },
   {
-    "name": "Ivy Wraps (Level 22)",
-    "link": "https://ddowiki.com/page/Item:Ivy_Wraps_(Level_22)",
+    "name": "Ivy Wraps (level 22)",
+    "link": "https://ddowiki.com/page/Item:Ivy_Wraps_(level_22)",
     "minLevel": "22",
     "enhancements": [
       "Spiked",
@@ -746,8 +759,8 @@
     ]
   },
   {
-    "name": "Ivy Wraps (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Ivy_Wraps_(Level_23)",
+    "name": "Ivy Wraps (level 23)",
+    "link": "https://ddowiki.com/page/Item:Ivy_Wraps_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "Spiked",
@@ -795,8 +808,8 @@
     ]
   },
   {
-    "name": "Ivy Wraps (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Ivy_Wraps_(Level_24)",
+    "name": "Ivy Wraps (level 24)",
+    "link": "https://ddowiki.com/page/Item:Ivy_Wraps_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Spiked",
@@ -845,8 +858,8 @@
     ]
   },
   {
-    "name": "Thunder and Lightning (Level 26)",
-    "link": "https://ddowiki.com/page/Item:Thunder_and_Lightning_(Level_26)",
+    "name": "Thunder and Lightning (level 26)",
+    "link": "https://ddowiki.com/page/Item:Thunder_and_Lightning_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "+6 Enhancement Bonus",
@@ -882,8 +895,8 @@
     ]
   },
   {
-    "name": "Thunder and Lightning (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Thunder_and_Lightning_(Level_27)",
+    "name": "Thunder and Lightning (level 27)",
+    "link": "https://ddowiki.com/page/Item:Thunder_and_Lightning_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "+7 Enhancement Bonus",
@@ -906,8 +919,8 @@
     ]
   },
   {
-    "name": "Thunder and Lightning (Level 28)",
-    "link": "https://ddowiki.com/page/Item:Thunder_and_Lightning_(Level_28)",
+    "name": "Thunder and Lightning (level 28)",
+    "link": "https://ddowiki.com/page/Item:Thunder_and_Lightning_(level_28)",
     "minLevel": "28",
     "enhancements": [
       "+7 Enhancement Bonus",
@@ -1351,6 +1364,20 @@
       "Blunt Trauma",
       "Guardbreaking",
       "Sealed in Mist",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Handwraps",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Handwraps",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]

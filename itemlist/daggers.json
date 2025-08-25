@@ -455,6 +455,19 @@
     ]
   },
   {
+    "name": "Calamitous Dagger",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Dagger",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
     "name": "Flint",
     "link": "https://ddowiki.com/page/Item:Flint",
     "minLevel": "10",
@@ -662,8 +675,8 @@
     ]
   },
   {
-    "name": "Fell Shiv (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Fell_Shiv_(Level_14)",
+    "name": "Fell Shiv (level 14)",
+    "link": "https://ddowiki.com/page/Item:Fell_Shiv_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "+1 Enhancement Bonus",
@@ -724,8 +737,8 @@
     ]
   },
   {
-    "name": "Fell Shiv (Level 15)",
-    "link": "https://ddowiki.com/page/Item:Fell_Shiv_(Level_15)",
+    "name": "Fell Shiv (level 15)",
+    "link": "https://ddowiki.com/page/Item:Fell_Shiv_(level_15)",
     "minLevel": "15",
     "enhancements": [
       "+2 Enhancement Bonus",
@@ -803,8 +816,8 @@
     ]
   },
   {
-    "name": "Fell Shiv (Level 16)",
-    "link": "https://ddowiki.com/page/Item:Fell_Shiv_(Level_16)",
+    "name": "Fell Shiv (level 16)",
+    "link": "https://ddowiki.com/page/Item:Fell_Shiv_(level_16)",
     "minLevel": "16",
     "enhancements": [
       "+2 Enhancement Bonus",
@@ -1215,8 +1228,8 @@
     ]
   },
   {
-    "name": "Fell Shiv (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Fell_Shiv_(Level_25)",
+    "name": "Fell Shiv (level 25)",
+    "link": "https://ddowiki.com/page/Item:Fell_Shiv_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "+3 Enhancement Bonus",
@@ -1259,8 +1272,8 @@
     ]
   },
   {
-    "name": "Fell Shiv (Level 26)",
-    "link": "https://ddowiki.com/page/Item:Fell_Shiv_(Level_26)",
+    "name": "Fell Shiv (level 26)",
+    "link": "https://ddowiki.com/page/Item:Fell_Shiv_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "+4 Enhancement Bonus",
@@ -1311,8 +1324,8 @@
     ]
   },
   {
-    "name": "Fell Shiv (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Fell_Shiv_(Level_27)",
+    "name": "Fell Shiv (level 27)",
+    "link": "https://ddowiki.com/page/Item:Fell_Shiv_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "+4 Enhancement Bonus",
@@ -1896,6 +1909,20 @@
       "Aligned",
       "Maiming 7",
       "Legendary Freezing Ice",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Dagger",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Dagger",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]

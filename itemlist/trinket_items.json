@@ -180,36 +180,12 @@
     ]
   },
   {
-    "name": "Globe of Imperial Blood (historic)",
-    "link": "https://ddowiki.com/page/Item:Globe_of_Imperial_Blood_(historic)",
-    "minLevel": "13",
-    "enhancements": [
-      "Strength +2",
-      "Dexterity +2",
-      "Constitution +2",
-      "Wisdom +2",
-      "Intelligence +2",
-      "Charisma +2",
-      "Wizardry II"
-    ]
-  },
-  {
-    "name": "Kardin's Eye (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Kardin%27s_Eye_(Level_12)",
+    "name": "Kardin's Eye (level 12)",
+    "link": "https://ddowiki.com/page/Item:Kardin%27s_Eye_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "Resistance +5",
       "Heightened Awareness 2"
-    ]
-  },
-  {
-    "name": "Giantcraft Siberys Compass (historic)",
-    "link": "https://ddowiki.com/page/Item:Giantcraft_Siberys_Compass_(historic)",
-    "minLevel": "13",
-    "enhancements": [
-      "Search +13",
-      "Resistance +2",
-      "Will Save +4"
     ]
   },
   {
@@ -804,15 +780,6 @@
     ]
   },
   {
-    "name": "Beignin's Breath",
-    "link": "https://ddowiki.com/page/Item:Beignin%27s_Breath",
-    "minLevel": "11",
-    "enhancements": [
-      "Efficacy VI",
-      "Wizardry III"
-    ]
-  },
-  {
     "name": "Kaelth's Touch",
     "link": "https://ddowiki.com/page/Item:Kaelth%27s_Touch",
     "minLevel": "9",
@@ -830,21 +797,6 @@
       "Pirate Vitality",
       "Exceptional Fortification (+10%)",
       "Earthen Guard"
-    ]
-  },
-  {
-    "name": "Treasure Hunter's Spyglass (legacy) (level 12)",
-    "link": "https://ddowiki.com/page/Item:Treasure_Hunter%27s_Spyglass_(legacy)_(level_12)",
-    "minLevel": "12",
-    "enhancements": [
-      "Upgradeable - Tier 1",
-      "Detect Secret Doors",
-      "Spot +11",
-      "Search +11",
-      "Use Magic Device +1",
-      "Upgradeable - Tier 2",
-      "Upgradeable - Tier 3",
-      "Intelligence +5"
     ]
   },
   {
@@ -886,21 +838,6 @@
       "Upgradeable - Tier 2",
       "Attack Bonus +1",
       "Dodge +2%"
-    ]
-  },
-  {
-    "name": "Treasure Hunter's Spyglass (legacy) (level 16)",
-    "link": "https://ddowiki.com/page/Item:Treasure_Hunter%27s_Spyglass_(legacy)_(level_16)",
-    "minLevel": "16",
-    "enhancements": [
-      "Upgradeable - Tier 1",
-      "Spot +13",
-      "Search +13",
-      "True Seeing",
-      "Use Magic Device +3",
-      "Upgradeable - Tier 2",
-      "Upgradeable - Tier 3",
-      "Exceptional Intelligence +1"
     ]
   },
   {
@@ -962,35 +899,6 @@
     "enhancements": [
       "Upgradeable - Tier 1",
       "Pirate Vitality"
-    ]
-  },
-  {
-    "name": "Treasure Hunter's Spyglass (legacy) (level 4)",
-    "link": "https://ddowiki.com/page/Item:Treasure_Hunter%27s_Spyglass_(legacy)_(level_4)",
-    "minLevel": "4",
-    "enhancements": [
-      "Upgradeable - Tier 1",
-      "Detect Secret Doors",
-      "Spot +5",
-      "Search +5",
-      "Upgradeable - Tier 2",
-      "Upgradeable - Tier 3",
-      "Intelligence +3"
-    ]
-  },
-  {
-    "name": "Treasure Hunter's Spyglass (legacy) (level 8)",
-    "link": "https://ddowiki.com/page/Item:Treasure_Hunter%27s_Spyglass_(legacy)_(level_8)",
-    "minLevel": "8",
-    "enhancements": [
-      "Detect Secret Doors",
-      "Upgradeable - Tier 1",
-      "Spot +7",
-      "Search +7",
-      "Use Magic Device +1",
-      "Upgradeable - Tier 2",
-      "Upgradeable - Tier 3",
-      "Intelligence +4"
     ]
   },
   {
@@ -1182,22 +1090,6 @@
     ]
   },
   {
-    "name": "Epic Treasure Hunter's Spyglass (legacy) (level 20)",
-    "link": "https://ddowiki.com/page/Item:Epic_Treasure_Hunter%27s_Spyglass_(legacy)_(level_20)",
-    "minLevel": "20",
-    "enhancements": [
-      "Upgradeable - Tier 1",
-      "Spot +15",
-      "Search +15",
-      "True Seeing",
-      "Use Magic Device +3",
-      "Exceptional Intelligence +1",
-      "Upgradeable - Tier 2",
-      "Upgradeable - Tier 3",
-      "Green Augment Slot"
-    ]
-  },
-  {
     "name": "Mindfury Symbiont",
     "link": "https://ddowiki.com/page/Item:Mindfury_Symbiont",
     "minLevel": "15",
@@ -1301,8 +1193,8 @@
     ]
   },
   {
-    "name": "Blasting Chime (Level 7)",
-    "link": "https://ddowiki.com/page/Item:Blasting_Chime_(Level_7)",
+    "name": "Blasting Chime (level 7)",
+    "link": "https://ddowiki.com/page/Item:Blasting_Chime_(level_7)",
     "minLevel": "7",
     "enhancements": []
   },
@@ -1399,8 +1291,8 @@
     ]
   },
   {
-    "name": "Blasting Chime (Level 11)",
-    "link": "https://ddowiki.com/page/Item:Blasting_Chime_(Level_11)",
+    "name": "Blasting Chime (level 11)",
+    "link": "https://ddowiki.com/page/Item:Blasting_Chime_(level_11)",
     "minLevel": "11",
     "enhancements": []
   },
@@ -1413,8 +1305,8 @@
     ]
   },
   {
-    "name": "Giantcraft Siberys Compass (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Giantcraft_Siberys_Compass_(Level_25)",
+    "name": "Giantcraft Siberys Compass (level 25)",
+    "link": "https://ddowiki.com/page/Item:Giantcraft_Siberys_Compass_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Search +20",
@@ -1424,8 +1316,8 @@
     ]
   },
   {
-    "name": "Kardin's Eye (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Kardin%27s_Eye_(Level_25)",
+    "name": "Kardin's Eye (level 25)",
+    "link": "https://ddowiki.com/page/Item:Kardin%27s_Eye_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Resistance +8",
@@ -1434,8 +1326,8 @@
     ]
   },
   {
-    "name": "Shamanic Fetish (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Shamanic_Fetish_(Level_25)",
+    "name": "Shamanic Fetish (level 25)",
+    "link": "https://ddowiki.com/page/Item:Shamanic_Fetish_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Devotion +120",
@@ -1455,8 +1347,8 @@
     ]
   },
   {
-    "name": "Shamanic Fetish (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Shamanic_Fetish_(Level_24)",
+    "name": "Shamanic Fetish (level 24)",
+    "link": "https://ddowiki.com/page/Item:Shamanic_Fetish_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Devotion +114",
@@ -1476,8 +1368,8 @@
     ]
   },
   {
-    "name": "Giantcraft Siberys Compass (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Giantcraft_Siberys_Compass_(Level_24)",
+    "name": "Giantcraft Siberys Compass (level 24)",
+    "link": "https://ddowiki.com/page/Item:Giantcraft_Siberys_Compass_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Search +20",
@@ -1487,8 +1379,8 @@
     ]
   },
   {
-    "name": "Giantcraft Siberys Compass (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Giantcraft_Siberys_Compass_(Level_13)",
+    "name": "Giantcraft Siberys Compass (level 13)",
+    "link": "https://ddowiki.com/page/Item:Giantcraft_Siberys_Compass_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "Search +15",
@@ -1497,8 +1389,8 @@
     ]
   },
   {
-    "name": "Kardin's Eye (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Kardin%27s_Eye_(Level_23)",
+    "name": "Kardin's Eye (level 23)",
+    "link": "https://ddowiki.com/page/Item:Kardin%27s_Eye_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "Resistance +7",
@@ -1507,8 +1399,8 @@
     ]
   },
   {
-    "name": "Shamanic Fetish (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Shamanic_Fetish_(Level_23)",
+    "name": "Shamanic Fetish (level 23)",
+    "link": "https://ddowiki.com/page/Item:Shamanic_Fetish_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "Devotion +108",
@@ -1517,8 +1409,8 @@
     ]
   },
   {
-    "name": "Giantcraft Siberys Compass (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Giantcraft_Siberys_Compass_(Level_14)",
+    "name": "Giantcraft Siberys Compass (level 14)",
+    "link": "https://ddowiki.com/page/Item:Giantcraft_Siberys_Compass_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Search +15",
@@ -1527,8 +1419,8 @@
     ]
   },
   {
-    "name": "Kardin's Eye (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Kardin%27s_Eye_(Level_24)",
+    "name": "Kardin's Eye (level 24)",
+    "link": "https://ddowiki.com/page/Item:Kardin%27s_Eye_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Resistance +7",
@@ -1537,8 +1429,8 @@
     ]
   },
   {
-    "name": "Shamanic Fetish (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Shamanic_Fetish_(Level_14)",
+    "name": "Shamanic Fetish (level 14)",
+    "link": "https://ddowiki.com/page/Item:Shamanic_Fetish_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Devotion +72",
@@ -1547,8 +1439,8 @@
     ]
   },
   {
-    "name": "Giantcraft Siberys Compass (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Giantcraft_Siberys_Compass_(Level_23)",
+    "name": "Giantcraft Siberys Compass (level 23)",
+    "link": "https://ddowiki.com/page/Item:Giantcraft_Siberys_Compass_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "Search +17",
@@ -1557,8 +1449,8 @@
     ]
   },
   {
-    "name": "Kardin's Eye (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Kardin%27s_Eye_(Level_13)",
+    "name": "Kardin's Eye (level 13)",
+    "link": "https://ddowiki.com/page/Item:Kardin%27s_Eye_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "Resistance +5",
@@ -1566,8 +1458,8 @@
     ]
   },
   {
-    "name": "Shamanic Fetish (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Shamanic_Fetish_(Level_13)",
+    "name": "Shamanic Fetish (level 13)",
+    "link": "https://ddowiki.com/page/Item:Shamanic_Fetish_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "Devotion +66",
@@ -1576,8 +1468,8 @@
     ]
   },
   {
-    "name": "Kardin's Eye (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Kardin%27s_Eye_(Level_14)",
+    "name": "Kardin's Eye (level 14)",
+    "link": "https://ddowiki.com/page/Item:Kardin%27s_Eye_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Resistance +5",
@@ -1585,8 +1477,8 @@
     ]
   },
   {
-    "name": "Shamanic Fetish (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Shamanic_Fetish_(Level_12)",
+    "name": "Shamanic Fetish (level 12)",
+    "link": "https://ddowiki.com/page/Item:Shamanic_Fetish_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "Devotion +66",
@@ -1594,8 +1486,8 @@
     ]
   },
   {
-    "name": "Giantcraft Siberys Compass (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Giantcraft_Siberys_Compass_(Level_12)",
+    "name": "Giantcraft Siberys Compass (level 12)",
+    "link": "https://ddowiki.com/page/Item:Giantcraft_Siberys_Compass_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "Search +13",
@@ -1604,8 +1496,8 @@
     ]
   },
   {
-    "name": "Guidance of Shar (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Guidance_of_Shar_(Level_13)",
+    "name": "Guidance of Shar (level 13)",
+    "link": "https://ddowiki.com/page/Item:Guidance_of_Shar_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "Charisma +5",
@@ -1615,8 +1507,8 @@
     ]
   },
   {
-    "name": "Guidance of Shar (Level 15)",
-    "link": "https://ddowiki.com/page/Item:Guidance_of_Shar_(Level_15)",
+    "name": "Guidance of Shar (level 15)",
+    "link": "https://ddowiki.com/page/Item:Guidance_of_Shar_(level_15)",
     "minLevel": "15",
     "enhancements": [
       "Charisma +6",
@@ -1635,8 +1527,8 @@
     ]
   },
   {
-    "name": "Guidance of Shar (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Guidance_of_Shar_(Level_14)",
+    "name": "Guidance of Shar (level 14)",
+    "link": "https://ddowiki.com/page/Item:Guidance_of_Shar_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Charisma +5",
@@ -1698,8 +1590,8 @@
     ]
   },
   {
-    "name": "Blasting Chime (Level 3)",
-    "link": "https://ddowiki.com/page/Item:Blasting_Chime_(Level_3)",
+    "name": "Blasting Chime (level 3)",
+    "link": "https://ddowiki.com/page/Item:Blasting_Chime_(level_3)",
     "minLevel": "3",
     "enhancements": [
       "Weaken Construct",
@@ -1708,8 +1600,8 @@
     ]
   },
   {
-    "name": "Blasting Chime (Level 15)",
-    "link": "https://ddowiki.com/page/Item:Blasting_Chime_(Level_15)",
+    "name": "Blasting Chime (level 15)",
+    "link": "https://ddowiki.com/page/Item:Blasting_Chime_(level_15)",
     "minLevel": "15",
     "enhancements": []
   },
@@ -1768,31 +1660,6 @@
       "Light of Dawn",
       "Upgradeable - Primary Augment",
       "Upgradeable - Secondary Augment"
-    ]
-  },
-  {
-    "name": "Epic Treasure Hunter's Spyglass (legacy) (level 24)",
-    "link": "https://ddowiki.com/page/Item:Epic_Treasure_Hunter%27s_Spyglass_(legacy)_(level_24)",
-    "minLevel": "24",
-    "enhancements": [
-      "Upgradeable - Tier 1",
-      "Spot +20",
-      "Search +20",
-      "True Seeing",
-      "Use Magic Device +4",
-      "Insightful Intelligence +2",
-      "Upgradeable - Tier 2",
-      "Open Lock +15",
-      "Upgradeable - Tier 3",
-      "Green Augment Slot"
-    ]
-  },
-  {
-    "name": "Experienced Evil",
-    "link": "https://ddowiki.com/page/Item:Experienced_Evil",
-    "minLevel": "7",
-    "enhancements": [
-      "Heroic Inspiration"
     ]
   },
   {

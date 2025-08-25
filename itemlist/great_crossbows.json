@@ -104,6 +104,19 @@
     ]
   },
   {
+    "name": "Calamitous Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Great_Crossbow",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
     "name": "Barovian's Great Crossbow",
     "link": "https://ddowiki.com/page/Item:Barovian%27s_Great_Crossbow",
     "minLevel": "10",
@@ -602,6 +615,20 @@
       "Lingering Acidic Burn",
       "Sovereign Vorpal",
       "Sealed in Mist",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Great_Crossbow",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]

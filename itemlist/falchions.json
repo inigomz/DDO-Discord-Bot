@@ -20,8 +20,8 @@
     ]
   },
   {
-    "name": "Calomel Falchion (Level 4)",
-    "link": "https://ddowiki.com/page/Item:Calomel_Falchion_(Level_4)",
+    "name": "Calomel Falchion (level 4)",
+    "link": "https://ddowiki.com/page/Item:Calomel_Falchion_(level_4)",
     "minLevel": "4",
     "enhancements": [
       "+1 Enhancement Bonus",
@@ -104,6 +104,19 @@
       "Impactful 2",
       "Ghostbane 2",
       "Crippling",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Calamitous Falchion",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Falchion",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
       "Red Augment Slot"
     ]
   },
@@ -231,8 +244,8 @@
     ]
   },
   {
-    "name": "Windlasher (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Windlasher_(Level_12)",
+    "name": "Windlasher (level 12)",
+    "link": "https://ddowiki.com/page/Item:Windlasher_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "+4 Enhancement Bonus",
@@ -260,8 +273,8 @@
     ]
   },
   {
-    "name": "Windlasher (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Windlasher_(Level_13)",
+    "name": "Windlasher (level 13)",
+    "link": "https://ddowiki.com/page/Item:Windlasher_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -297,8 +310,8 @@
     ]
   },
   {
-    "name": "Windlasher (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Windlasher_(Level_14)",
+    "name": "Windlasher (level 14)",
+    "link": "https://ddowiki.com/page/Item:Windlasher_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -464,8 +477,8 @@
     ]
   },
   {
-    "name": "Windlasher (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Windlasher_(Level_23)",
+    "name": "Windlasher (level 23)",
+    "link": "https://ddowiki.com/page/Item:Windlasher_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "+6 Enhancement Bonus",
@@ -476,8 +489,8 @@
     ]
   },
   {
-    "name": "Windlasher (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Windlasher_(Level_24)",
+    "name": "Windlasher (level 24)",
+    "link": "https://ddowiki.com/page/Item:Windlasher_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "+7 Enhancement Bonus",
@@ -500,8 +513,8 @@
     ]
   },
   {
-    "name": "Windlasher (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Windlasher_(Level_25)",
+    "name": "Windlasher (level 25)",
+    "link": "https://ddowiki.com/page/Item:Windlasher_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "+7 Enhancement Bonus",
@@ -852,6 +865,20 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Falchion",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Falchion",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]

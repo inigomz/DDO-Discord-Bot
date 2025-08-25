@@ -128,6 +128,19 @@
     ]
   },
   {
+    "name": "Calamitous Greatclub",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Greatclub",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
     "name": "Barovian's Greatclub",
     "link": "https://ddowiki.com/page/Item:Barovian%27s_Greatclub",
     "minLevel": "10",
@@ -643,6 +656,20 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Greatclub",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Greatclub",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]

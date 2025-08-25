@@ -667,15 +667,6 @@
     ]
   },
   {
-    "name": "Ancient Band (historic)",
-    "link": "https://ddowiki.com/page/Item:Ancient_Band_(historic)",
-    "minLevel": "11",
-    "enhancements": [
-      "Fortification  +100%",
-      "Protection +3"
-    ]
-  },
-  {
     "name": "Chaos Band",
     "link": "https://ddowiki.com/page/Item:Chaos_Band",
     "minLevel": "9",
@@ -778,27 +769,8 @@
     ]
   },
   {
-    "name": "Ring of Shadows (historic)",
-    "link": "https://ddowiki.com/page/Item:Ring_of_Shadows_(historic)",
-    "minLevel": "11",
-    "enhancements": [
-      "Hide +10",
-      "Move Silently +10",
-      "Dusk"
-    ]
-  },
-  {
-    "name": "Ring of the Stormreaver Prophecy (historic)",
-    "link": "https://ddowiki.com/page/Item:Ring_of_the_Stormreaver_Prophecy_(historic)",
-    "minLevel": "13",
-    "enhancements": [
-      "Wisdom +5",
-      "Resistance +2"
-    ]
-  },
-  {
-    "name": "Ring of the Djinn (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Ring_of_the_Djinn_(Level_12)",
+    "name": "Ring of the Djinn (level 12)",
+    "link": "https://ddowiki.com/page/Item:Ring_of_the_Djinn_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "Electric Absorption +20%",
@@ -936,79 +908,6 @@
     ]
   },
   {
-    "name": "Ring of the Buccaneer (legacy) (level 16)",
-    "link": "https://ddowiki.com/page/Item:Ring_of_the_Buccaneer_(legacy)_(level_16)",
-    "minLevel": "16",
-    "enhancements": [
-      "Upgradeable - Tier 1",
-      "Swim +13",
-      "Dexterity +5",
-      "Underwater Action",
-      "Good Luck  +1",
-      "Upgradeable - Tier 2",
-      "Protection +4",
-      "Upgradeable - Tier 3"
-    ]
-  },
-  {
-    "name": "Ring of the Buccaneer (legacy) (level 8)",
-    "link": "https://ddowiki.com/page/Item:Ring_of_the_Buccaneer_(legacy)_(level_8)",
-    "minLevel": "8",
-    "enhancements": [
-      "Upgradeable - Tier 1",
-      "Swim +7",
-      "Dexterity +3",
-      "Underwater Action",
-      "Upgradeable - Tier 2",
-      "Protection +2",
-      "Upgradeable - Tier 3"
-    ]
-  },
-  {
-    "name": "Epic Ring of the Buccaneer (legacy) (level 20)",
-    "link": "https://ddowiki.com/page/Item:Epic_Ring_of_the_Buccaneer_(legacy)_(level_20)",
-    "minLevel": "20",
-    "enhancements": [
-      "Upgradeable - Tier 1",
-      "Dexterity +6",
-      "Swim +15",
-      "Underwater Action",
-      "Good Luck  +1",
-      "Protection +5",
-      "Upgradeable - Tier 2",
-      "Upgradeable - Tier 3",
-      "Green Augment Slot"
-    ]
-  },
-  {
-    "name": "Ring of the Buccaneer (legacy) (level 12)",
-    "link": "https://ddowiki.com/page/Item:Ring_of_the_Buccaneer_(legacy)_(level_12)",
-    "minLevel": "12",
-    "enhancements": [
-      "Upgradeable - Tier 1",
-      "Swim +11",
-      "Dexterity +4",
-      "Underwater Action",
-      "Good Luck  +1",
-      "Upgradeable - Tier 2",
-      "Protection +3",
-      "Upgradeable - Tier 3"
-    ]
-  },
-  {
-    "name": "Ring of the Buccaneer (legacy) (level 4)",
-    "link": "https://ddowiki.com/page/Item:Ring_of_the_Buccaneer_(legacy)_(level_4)",
-    "minLevel": "4",
-    "enhancements": [
-      "Upgradeable - Tier 1",
-      "Swim +5",
-      "Dexterity +2",
-      "Upgradeable - Tier 2",
-      "Protection +1",
-      "Upgradeable - Tier 3"
-    ]
-  },
-  {
     "name": "Kwan's Band",
     "link": "https://ddowiki.com/page/Item:Kwan%27s_Band",
     "minLevel": "2",
@@ -1136,14 +1035,14 @@
     ]
   },
   {
-    "name": "Ring of Master Artifice (Level 7)",
-    "link": "https://ddowiki.com/page/Item:Ring_of_Master_Artifice_(Level_7)",
+    "name": "Ring of Master Artifice (level 7)",
+    "link": "https://ddowiki.com/page/Item:Ring_of_Master_Artifice_(level_7)",
     "minLevel": "7",
     "enhancements": []
   },
   {
-    "name": "Ring of Master Artifice (Level 11)",
-    "link": "https://ddowiki.com/page/Item:Ring_of_Master_Artifice_(Level_11)",
+    "name": "Ring of Master Artifice (level 11)",
+    "link": "https://ddowiki.com/page/Item:Ring_of_Master_Artifice_(level_11)",
     "minLevel": "11",
     "enhancements": []
   },
@@ -1165,8 +1064,8 @@
     ]
   },
   {
-    "name": "Ring of the Stalker (Level 3)",
-    "link": "https://ddowiki.com/page/Item:Ring_of_the_Stalker_(Level_3)",
+    "name": "Ring of the Stalker (level 3)",
+    "link": "https://ddowiki.com/page/Item:Ring_of_the_Stalker_(level_3)",
     "minLevel": "3",
     "enhancements": [
       "Deception +2",
@@ -1174,8 +1073,8 @@
     ]
   },
   {
-    "name": "Ring of the Stormreaver Prophecy (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Ring_of_the_Stormreaver_Prophecy_(Level_25)",
+    "name": "Ring of the Stormreaver Prophecy (level 25)",
+    "link": "https://ddowiki.com/page/Item:Ring_of_the_Stormreaver_Prophecy_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Wisdom +8",
@@ -1184,8 +1083,8 @@
     ]
   },
   {
-    "name": "Ancient Band (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Ancient_Band_(Level_25)",
+    "name": "Ancient Band (level 25)",
+    "link": "https://ddowiki.com/page/Item:Ancient_Band_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Protection +7",
@@ -1194,8 +1093,8 @@
     ]
   },
   {
-    "name": "Ring of the Djinn (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Ring_of_the_Djinn_(Level_25)",
+    "name": "Ring of the Djinn (level 25)",
+    "link": "https://ddowiki.com/page/Item:Ring_of_the_Djinn_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Electric Absorption +33%",
@@ -1204,8 +1103,8 @@
     ]
   },
   {
-    "name": "Ring of Shadows (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Ring_of_Shadows_(Level_25)",
+    "name": "Ring of Shadows (level 25)",
+    "link": "https://ddowiki.com/page/Item:Ring_of_Shadows_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Hide +20",
@@ -1227,8 +1126,8 @@
     ]
   },
   {
-    "name": "Ring of Shadows (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Ring_of_Shadows_(Level_24)",
+    "name": "Ring of Shadows (level 24)",
+    "link": "https://ddowiki.com/page/Item:Ring_of_Shadows_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Hide +20",
@@ -1239,8 +1138,8 @@
     ]
   },
   {
-    "name": "Ancient Band (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Ancient_Band_(Level_24)",
+    "name": "Ancient Band (level 24)",
+    "link": "https://ddowiki.com/page/Item:Ancient_Band_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Protection +7",
@@ -1249,8 +1148,8 @@
     ]
   },
   {
-    "name": "Ancient Band (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Ancient_Band_(Level_23)",
+    "name": "Ancient Band (level 23)",
+    "link": "https://ddowiki.com/page/Item:Ancient_Band_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "Protection +6",
@@ -1259,8 +1158,8 @@
     ]
   },
   {
-    "name": "Ancient Band (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Ancient_Band_(Level_14)",
+    "name": "Ancient Band (level 14)",
+    "link": "https://ddowiki.com/page/Item:Ancient_Band_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Protection +5",
@@ -1269,8 +1168,8 @@
     ]
   },
   {
-    "name": "Ancient Band (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Ancient_Band_(Level_13)",
+    "name": "Ancient Band (level 13)",
+    "link": "https://ddowiki.com/page/Item:Ancient_Band_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "Protection +5",
@@ -1278,8 +1177,8 @@
     ]
   },
   {
-    "name": "Ancient Band (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Ancient_Band_(Level_12)",
+    "name": "Ancient Band (level 12)",
+    "link": "https://ddowiki.com/page/Item:Ancient_Band_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "Protection +4",
@@ -1287,8 +1186,8 @@
     ]
   },
   {
-    "name": "Ring of Shadows (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Ring_of_Shadows_(Level_23)",
+    "name": "Ring of Shadows (level 23)",
+    "link": "https://ddowiki.com/page/Item:Ring_of_Shadows_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "Hide +17",
@@ -1299,8 +1198,8 @@
     ]
   },
   {
-    "name": "Ring of the Djinn (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Ring_of_the_Djinn_(Level_23)",
+    "name": "Ring of the Djinn (level 23)",
+    "link": "https://ddowiki.com/page/Item:Ring_of_the_Djinn_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "Electric Absorption +33%",
@@ -1309,8 +1208,8 @@
     ]
   },
   {
-    "name": "Ring of the Djinn (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Ring_of_the_Djinn_(Level_24)",
+    "name": "Ring of the Djinn (level 24)",
+    "link": "https://ddowiki.com/page/Item:Ring_of_the_Djinn_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Electric Absorption +33%",
@@ -1319,8 +1218,8 @@
     ]
   },
   {
-    "name": "Ring of the Stormreaver Prophecy (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Ring_of_the_Stormreaver_Prophecy_(Level_13)",
+    "name": "Ring of the Stormreaver Prophecy (level 13)",
+    "link": "https://ddowiki.com/page/Item:Ring_of_the_Stormreaver_Prophecy_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "Wisdom +5",
@@ -1328,8 +1227,8 @@
     ]
   },
   {
-    "name": "Ring of the Stormreaver Prophecy (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Ring_of_the_Stormreaver_Prophecy_(Level_23)",
+    "name": "Ring of the Stormreaver Prophecy (level 23)",
+    "link": "https://ddowiki.com/page/Item:Ring_of_the_Stormreaver_Prophecy_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "Wisdom +7",
@@ -1337,8 +1236,8 @@
     ]
   },
   {
-    "name": "Ring of the Stormreaver Prophecy (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Ring_of_the_Stormreaver_Prophecy_(Level_24)",
+    "name": "Ring of the Stormreaver Prophecy (level 24)",
+    "link": "https://ddowiki.com/page/Item:Ring_of_the_Stormreaver_Prophecy_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Wisdom +8",
@@ -1347,8 +1246,8 @@
     ]
   },
   {
-    "name": "Ring of the Djinn (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Ring_of_the_Djinn_(Level_14)",
+    "name": "Ring of the Djinn (level 14)",
+    "link": "https://ddowiki.com/page/Item:Ring_of_the_Djinn_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Electric Absorption +20%",
@@ -1357,8 +1256,8 @@
     ]
   },
   {
-    "name": "Ring of Shadows (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Ring_of_Shadows_(Level_12)",
+    "name": "Ring of Shadows (level 12)",
+    "link": "https://ddowiki.com/page/Item:Ring_of_Shadows_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "Hide +10",
@@ -1367,8 +1266,8 @@
     ]
   },
   {
-    "name": "Ring of the Stormreaver Prophecy (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Ring_of_the_Stormreaver_Prophecy_(Level_12)",
+    "name": "Ring of the Stormreaver Prophecy (level 12)",
+    "link": "https://ddowiki.com/page/Item:Ring_of_the_Stormreaver_Prophecy_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "Wisdom +5",
@@ -1376,8 +1275,8 @@
     ]
   },
   {
-    "name": "Ring of Shadows (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Ring_of_Shadows_(Level_14)",
+    "name": "Ring of Shadows (level 14)",
+    "link": "https://ddowiki.com/page/Item:Ring_of_Shadows_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Hide +13",
@@ -1393,14 +1292,14 @@
     "enhancements": []
   },
   {
-    "name": "Ring of the Stalker (Level 11)",
-    "link": "https://ddowiki.com/page/Item:Ring_of_the_Stalker_(Level_11)",
+    "name": "Ring of the Stalker (level 11)",
+    "link": "https://ddowiki.com/page/Item:Ring_of_the_Stalker_(level_11)",
     "minLevel": "11",
     "enhancements": []
   },
   {
-    "name": "Ring of the Djinn (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Ring_of_the_Djinn_(Level_13)",
+    "name": "Ring of the Djinn (level 13)",
+    "link": "https://ddowiki.com/page/Item:Ring_of_the_Djinn_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "Electric Absorption +20%",
@@ -1409,8 +1308,8 @@
     ]
   },
   {
-    "name": "Ring of Shadows (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Ring_of_Shadows_(Level_13)",
+    "name": "Ring of Shadows (level 13)",
+    "link": "https://ddowiki.com/page/Item:Ring_of_Shadows_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "Hide +11",
@@ -1419,8 +1318,8 @@
     ]
   },
   {
-    "name": "Ring of the Stormreaver Prophecy (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Ring_of_the_Stormreaver_Prophecy_(Level_14)",
+    "name": "Ring of the Stormreaver Prophecy (level 14)",
+    "link": "https://ddowiki.com/page/Item:Ring_of_the_Stormreaver_Prophecy_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Wisdom +6",
@@ -1500,8 +1399,8 @@
     ]
   },
   {
-    "name": "Glorious Dawn (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Glorious_Dawn_(Level_25)",
+    "name": "Glorious Dawn (level 25)",
+    "link": "https://ddowiki.com/page/Item:Glorious_Dawn_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Deathblock VI",
@@ -1510,8 +1409,8 @@
     ]
   },
   {
-    "name": "Ring of Master Artifice (Level 3)",
-    "link": "https://ddowiki.com/page/Item:Ring_of_Master_Artifice_(Level_3)",
+    "name": "Ring of Master Artifice (level 3)",
+    "link": "https://ddowiki.com/page/Item:Ring_of_Master_Artifice_(level_3)",
     "minLevel": "3",
     "enhancements": [
       "Repair Light Damage",
@@ -1522,8 +1421,8 @@
     ]
   },
   {
-    "name": "Glorious Dawn (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Glorious_Dawn_(Level_14)",
+    "name": "Glorious Dawn (level 14)",
+    "link": "https://ddowiki.com/page/Item:Glorious_Dawn_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Deathblock IV",
@@ -1532,8 +1431,8 @@
     ]
   },
   {
-    "name": "Glorious Dawn (Level 16)",
-    "link": "https://ddowiki.com/page/Item:Glorious_Dawn_(Level_16)",
+    "name": "Glorious Dawn (level 16)",
+    "link": "https://ddowiki.com/page/Item:Glorious_Dawn_(level_16)",
     "minLevel": "16",
     "enhancements": [
       "Deathblock IV",
@@ -1542,8 +1441,8 @@
     ]
   },
   {
-    "name": "Glorious Dawn (Level 26)",
-    "link": "https://ddowiki.com/page/Item:Glorious_Dawn_(Level_26)",
+    "name": "Glorious Dawn (level 26)",
+    "link": "https://ddowiki.com/page/Item:Glorious_Dawn_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "Deathblock VI",
@@ -1552,14 +1451,14 @@
     ]
   },
   {
-    "name": "Ring of Master Artifice (Level 15)",
-    "link": "https://ddowiki.com/page/Item:Ring_of_Master_Artifice_(Level_15)",
+    "name": "Ring of Master Artifice (level 15)",
+    "link": "https://ddowiki.com/page/Item:Ring_of_Master_Artifice_(level_15)",
     "minLevel": "15",
     "enhancements": []
   },
   {
-    "name": "Glorious Dawn (Level 15)",
-    "link": "https://ddowiki.com/page/Item:Glorious_Dawn_(Level_15)",
+    "name": "Glorious Dawn (level 15)",
+    "link": "https://ddowiki.com/page/Item:Glorious_Dawn_(level_15)",
     "minLevel": "15",
     "enhancements": [
       "Deathblock IV",
@@ -1568,8 +1467,8 @@
     ]
   },
   {
-    "name": "Guardian's Ring (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Guardian%27s_Ring_(Level_27)",
+    "name": "Guardian's Ring (level 27)",
+    "link": "https://ddowiki.com/page/Item:Guardian%27s_Ring_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "Sheltering +24",
@@ -1578,8 +1477,8 @@
     ]
   },
   {
-    "name": "Sage's Ring (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Sage%27s_Ring_(Level_27)",
+    "name": "Sage's Ring (level 27)",
+    "link": "https://ddowiki.com/page/Item:Sage%27s_Ring_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "Potency +92",
@@ -1589,8 +1488,8 @@
     ]
   },
   {
-    "name": "Skirmisher's Ring (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Skirmisher%27s_Ring_(Level_27)",
+    "name": "Skirmisher's Ring (level 27)",
+    "link": "https://ddowiki.com/page/Item:Skirmisher%27s_Ring_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "Constitution +8",
@@ -1599,8 +1498,8 @@
     ]
   },
   {
-    "name": "Guardian's Ring (Level 19)",
-    "link": "https://ddowiki.com/page/Item:Guardian%27s_Ring_(Level_19)",
+    "name": "Guardian's Ring (level 19)",
+    "link": "https://ddowiki.com/page/Item:Guardian%27s_Ring_(level_19)",
     "minLevel": "19",
     "enhancements": [
       "Sheltering +24",
@@ -1608,8 +1507,8 @@
     ]
   },
   {
-    "name": "Sage's Ring (Level 19)",
-    "link": "https://ddowiki.com/page/Item:Sage%27s_Ring_(Level_19)",
+    "name": "Sage's Ring (level 19)",
+    "link": "https://ddowiki.com/page/Item:Sage%27s_Ring_(level_19)",
     "minLevel": "19",
     "enhancements": [
       "Potency +60",
@@ -1618,8 +1517,8 @@
     ]
   },
   {
-    "name": "Consuming Darkness (Level 26)",
-    "link": "https://ddowiki.com/page/Item:Consuming_Darkness_(Level_26)",
+    "name": "Consuming Darkness (level 26)",
+    "link": "https://ddowiki.com/page/Item:Consuming_Darkness_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "Seeker +10",
@@ -1628,8 +1527,8 @@
     ]
   },
   {
-    "name": "Consuming Darkness (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Consuming_Darkness_(Level_27)",
+    "name": "Consuming Darkness (level 27)",
+    "link": "https://ddowiki.com/page/Item:Consuming_Darkness_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "Seeker +11",
@@ -1638,8 +1537,8 @@
     ]
   },
   {
-    "name": "Consuming Darkness (Level 28)",
-    "link": "https://ddowiki.com/page/Item:Consuming_Darkness_(Level_28)",
+    "name": "Consuming Darkness (level 28)",
+    "link": "https://ddowiki.com/page/Item:Consuming_Darkness_(level_28)",
     "minLevel": "28",
     "enhancements": [
       "Seeker +12",
@@ -1648,8 +1547,8 @@
     ]
   },
   {
-    "name": "Glorious Dawn (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Glorious_Dawn_(Level_27)",
+    "name": "Glorious Dawn (level 27)",
+    "link": "https://ddowiki.com/page/Item:Glorious_Dawn_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "Deathblock VI",
@@ -1658,8 +1557,8 @@
     ]
   },
   {
-    "name": "Skirmisher's Ring (Level 19)",
-    "link": "https://ddowiki.com/page/Item:Skirmisher%27s_Ring_(Level_19)",
+    "name": "Skirmisher's Ring (level 19)",
+    "link": "https://ddowiki.com/page/Item:Skirmisher%27s_Ring_(level_19)",
     "minLevel": "19",
     "enhancements": [
       "Constitution +8",
@@ -1667,20 +1566,20 @@
     ]
   },
   {
-    "name": "Ring of the Stalker (Level 7)",
-    "link": "https://ddowiki.com/page/Item:Ring_of_the_Stalker_(Level_7)",
+    "name": "Ring of the Stalker (level 7)",
+    "link": "https://ddowiki.com/page/Item:Ring_of_the_Stalker_(level_7)",
     "minLevel": "7",
     "enhancements": []
   },
   {
-    "name": "Ring of the Stalker (Level 15)",
-    "link": "https://ddowiki.com/page/Item:Ring_of_the_Stalker_(Level_15)",
+    "name": "Ring of the Stalker (level 15)",
+    "link": "https://ddowiki.com/page/Item:Ring_of_the_Stalker_(level_15)",
     "minLevel": "15",
     "enhancements": []
   },
   {
-    "name": "Consuming Darkness (Level 19)",
-    "link": "https://ddowiki.com/page/Item:Consuming_Darkness_(Level_19)",
+    "name": "Consuming Darkness (level 19)",
+    "link": "https://ddowiki.com/page/Item:Consuming_Darkness_(level_19)",
     "minLevel": "19",
     "enhancements": [
       "Seeker +8",
@@ -1725,8 +1624,8 @@
     ]
   },
   {
-    "name": "Consuming Darkness (Level 17)",
-    "link": "https://ddowiki.com/page/Item:Consuming_Darkness_(Level_17)",
+    "name": "Consuming Darkness (level 17)",
+    "link": "https://ddowiki.com/page/Item:Consuming_Darkness_(level_17)",
     "minLevel": "17",
     "enhancements": [
       "Seeker +6",
@@ -1735,8 +1634,8 @@
     ]
   },
   {
-    "name": "Consuming Darkness (Level 18)",
-    "link": "https://ddowiki.com/page/Item:Consuming_Darkness_(Level_18)",
+    "name": "Consuming Darkness (level 18)",
+    "link": "https://ddowiki.com/page/Item:Consuming_Darkness_(level_18)",
     "minLevel": "18",
     "enhancements": [
       "Seeker +7",
@@ -1785,22 +1684,6 @@
       "Incite +120",
       "Upgradeable - Primary Augment",
       "Upgradeable - Secondary Augment"
-    ]
-  },
-  {
-    "name": "Epic Ring of the Buccaneer (legacy) (level 24)",
-    "link": "https://ddowiki.com/page/Item:Epic_Ring_of_the_Buccaneer_(legacy)_(level_24)",
-    "minLevel": "24",
-    "enhancements": [
-      "Upgradeable - Tier 1",
-      "Swim +17",
-      "Dexterity +7",
-      "Underwater Action",
-      "Good Luck  +1",
-      "Protection +6",
-      "Upgradeable - Tier 2",
-      "Upgradeable - Tier 3",
-      "Green Augment Slot"
     ]
   },
   {

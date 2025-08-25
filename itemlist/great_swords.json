@@ -176,6 +176,19 @@
     ]
   },
   {
+    "name": "Calamitous Greatsword",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Greatsword",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
     "name": "Echo of Blackrazor",
     "link": "https://ddowiki.com/page/Item:Echo_of_Blackrazor",
     "minLevel": "9",
@@ -534,8 +547,8 @@
     ]
   },
   {
-    "name": "Hunter's Slayer (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Hunter%27s_Slayer_(Level_24)",
+    "name": "Hunter's Slayer (level 24)",
+    "link": "https://ddowiki.com/page/Item:Hunter%27s_Slayer_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Silver",
@@ -558,8 +571,8 @@
     ]
   },
   {
-    "name": "Hunter's Slayer (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Hunter%27s_Slayer_(Level_25)",
+    "name": "Hunter's Slayer (level 25)",
+    "link": "https://ddowiki.com/page/Item:Hunter%27s_Slayer_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Silver",
@@ -571,8 +584,8 @@
     ]
   },
   {
-    "name": "Hunter's Slayer (Level 26)",
-    "link": "https://ddowiki.com/page/Item:Hunter%27s_Slayer_(Level_26)",
+    "name": "Hunter's Slayer (level 26)",
+    "link": "https://ddowiki.com/page/Item:Hunter%27s_Slayer_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "Silver",
@@ -1015,6 +1028,20 @@
       "Legendary Acid Torrent",
       "Acid Blast 7",
       "Sealed in Mist",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Greatsword",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Greatsword",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]

@@ -20,8 +20,8 @@
     ]
   },
   {
-    "name": "Mournlode Warhammer (Level 4)",
-    "link": "https://ddowiki.com/page/Item:Mournlode_Warhammer_(Level_4)",
+    "name": "Mournlode Warhammer (level 4)",
+    "link": "https://ddowiki.com/page/Item:Mournlode_Warhammer_(level_4)",
     "minLevel": "4",
     "enhancements": [
       "+1 Enhancement Bonus",
@@ -156,6 +156,19 @@
     ]
   },
   {
+    "name": "Calamitous Warhammer",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Warhammer",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
     "name": "Echo of Whelm",
     "link": "https://ddowiki.com/page/Item:Echo_of_Whelm",
     "minLevel": "9",
@@ -227,8 +240,8 @@
     ]
   },
   {
-    "name": "Hammer of the Leaden Clouds (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Hammer_of_the_Leaden_Clouds_(Level_12)",
+    "name": "Hammer of the Leaden Clouds (level 12)",
+    "link": "https://ddowiki.com/page/Item:Hammer_of_the_Leaden_Clouds_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "Spellcasting Implement +12",
@@ -270,8 +283,8 @@
     ]
   },
   {
-    "name": "Hammer of the Leaden Clouds (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Hammer_of_the_Leaden_Clouds_(Level_13)",
+    "name": "Hammer of the Leaden Clouds (level 13)",
+    "link": "https://ddowiki.com/page/Item:Hammer_of_the_Leaden_Clouds_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "Spellcasting Implement +15",
@@ -309,8 +322,8 @@
     ]
   },
   {
-    "name": "Hammer of the Leaden Clouds (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Hammer_of_the_Leaden_Clouds_(Level_14)",
+    "name": "Hammer of the Leaden Clouds (level 14)",
+    "link": "https://ddowiki.com/page/Item:Hammer_of_the_Leaden_Clouds_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Spellcasting Implement +15",
@@ -539,8 +552,8 @@
     ]
   },
   {
-    "name": "Hammer of the Leaden Clouds (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Hammer_of_the_Leaden_Clouds_(Level_23)",
+    "name": "Hammer of the Leaden Clouds (level 23)",
+    "link": "https://ddowiki.com/page/Item:Hammer_of_the_Leaden_Clouds_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "Spellcasting Implement +18",
@@ -552,8 +565,8 @@
     ]
   },
   {
-    "name": "Hammer of the Leaden Clouds (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Hammer_of_the_Leaden_Clouds_(Level_24)",
+    "name": "Hammer of the Leaden Clouds (level 24)",
+    "link": "https://ddowiki.com/page/Item:Hammer_of_the_Leaden_Clouds_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Spellcasting Implement +21",
@@ -589,8 +602,8 @@
     ]
   },
   {
-    "name": "Hammer of the Leaden Clouds (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Hammer_of_the_Leaden_Clouds_(Level_25)",
+    "name": "Hammer of the Leaden Clouds (level 25)",
+    "link": "https://ddowiki.com/page/Item:Hammer_of_the_Leaden_Clouds_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Spellcasting Implement +21",
@@ -931,6 +944,20 @@
       "Sonic Lore +24%",
       "Quality Spell Focus Mastery +2",
       "Sealed in Mist",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Warhammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Warhammer",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]

@@ -61,6 +61,20 @@
     ]
   },
   {
+    "name": "Calamitous Throwing Axe",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Throwing_Axe",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Returning",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
     "name": "Returning Axe of Embers",
     "link": "https://ddowiki.com/page/Item:Returning_Axe_of_Embers",
     "minLevel": "10",
@@ -408,6 +422,21 @@
       "Sovereign Vorpal",
       "Sealed in Fire",
       "Returning",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Throwing Axe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Throwing_Axe",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Returning",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]

@@ -245,22 +245,13 @@
     ]
   },
   {
-    "name": "Spiked Boots (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Spiked_Boots_(Level_12)",
+    "name": "Spiked Boots (level 12)",
+    "link": "https://ddowiki.com/page/Item:Spiked_Boots_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "Balance +10",
       "Immunity to Slippery Surfaces",
       "Colorless Augment Slot"
-    ]
-  },
-  {
-    "name": "Surefooted Boots (historic)",
-    "link": "https://ddowiki.com/page/Item:Surefooted_Boots_(historic)",
-    "minLevel": "11",
-    "enhancements": [
-      "Balance +10",
-      "Striding +20%"
     ]
   },
   {
@@ -424,8 +415,8 @@
     ]
   },
   {
-    "name": "Rock Boots (Level 15)",
-    "link": "https://ddowiki.com/page/Item:Rock_Boots_(Level_15)",
+    "name": "Rock Boots (level 15)",
+    "link": "https://ddowiki.com/page/Item:Rock_Boots_(level_15)",
     "minLevel": "15",
     "enhancements": []
   },
@@ -468,8 +459,8 @@
     "enhancements": []
   },
   {
-    "name": "Treads of Falling Shadow (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Treads_of_Falling_Shadow_(Level_23)",
+    "name": "Treads of Falling Shadow (level 23)",
+    "link": "https://ddowiki.com/page/Item:Treads_of_Falling_Shadow_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "Striding +30%",
@@ -479,8 +470,8 @@
     ]
   },
   {
-    "name": "Treads of Falling Shadow (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Treads_of_Falling_Shadow_(Level_24)",
+    "name": "Treads of Falling Shadow (level 24)",
+    "link": "https://ddowiki.com/page/Item:Treads_of_Falling_Shadow_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Striding +30%",
@@ -490,8 +481,8 @@
     ]
   },
   {
-    "name": "Treads of Falling Shadow (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Treads_of_Falling_Shadow_(Level_25)",
+    "name": "Treads of Falling Shadow (level 25)",
+    "link": "https://ddowiki.com/page/Item:Treads_of_Falling_Shadow_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Striding +30%",
@@ -501,8 +492,8 @@
     ]
   },
   {
-    "name": "Surefooted Boots (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Surefooted_Boots_(Level_25)",
+    "name": "Surefooted Boots (level 25)",
+    "link": "https://ddowiki.com/page/Item:Surefooted_Boots_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Balance +20",
@@ -512,8 +503,8 @@
     ]
   },
   {
-    "name": "Spiked Boots (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Spiked_Boots_(Level_25)",
+    "name": "Spiked Boots (level 25)",
+    "link": "https://ddowiki.com/page/Item:Spiked_Boots_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Balance +20",
@@ -535,8 +526,8 @@
     ]
   },
   {
-    "name": "Surefooted Boots (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Surefooted_Boots_(Level_24)",
+    "name": "Surefooted Boots (level 24)",
+    "link": "https://ddowiki.com/page/Item:Surefooted_Boots_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Balance +20",
@@ -546,8 +537,8 @@
     ]
   },
   {
-    "name": "Surefooted Boots (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Surefooted_Boots_(Level_23)",
+    "name": "Surefooted Boots (level 23)",
+    "link": "https://ddowiki.com/page/Item:Surefooted_Boots_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "Balance +17",
@@ -557,8 +548,8 @@
     ]
   },
   {
-    "name": "Spiked Boots (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Spiked_Boots_(Level_13)",
+    "name": "Spiked Boots (level 13)",
+    "link": "https://ddowiki.com/page/Item:Spiked_Boots_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "Balance +13",
@@ -567,8 +558,8 @@
     ]
   },
   {
-    "name": "Spiked Boots (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Spiked_Boots_(Level_23)",
+    "name": "Spiked Boots (level 23)",
+    "link": "https://ddowiki.com/page/Item:Spiked_Boots_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "Balance +17",
@@ -578,8 +569,8 @@
     ]
   },
   {
-    "name": "Spiked Boots (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Spiked_Boots_(Level_24)",
+    "name": "Spiked Boots (level 24)",
+    "link": "https://ddowiki.com/page/Item:Spiked_Boots_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Balance +20",
@@ -589,8 +580,8 @@
     ]
   },
   {
-    "name": "Surefooted Boots (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Surefooted_Boots_(Level_14)",
+    "name": "Surefooted Boots (level 14)",
+    "link": "https://ddowiki.com/page/Item:Surefooted_Boots_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Balance +13",
@@ -599,8 +590,8 @@
     ]
   },
   {
-    "name": "Spiked Boots (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Spiked_Boots_(Level_14)",
+    "name": "Spiked Boots (level 14)",
+    "link": "https://ddowiki.com/page/Item:Spiked_Boots_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Balance +15",
@@ -609,8 +600,8 @@
     ]
   },
   {
-    "name": "Surefooted Boots (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Surefooted_Boots_(Level_12)",
+    "name": "Surefooted Boots (level 12)",
+    "link": "https://ddowiki.com/page/Item:Surefooted_Boots_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "Balance +10",
@@ -625,28 +616,19 @@
     "enhancements": []
   },
   {
-    "name": "Rock Boots (Level 11)",
-    "link": "https://ddowiki.com/page/Item:Rock_Boots_(Level_11)",
+    "name": "Rock Boots (level 11)",
+    "link": "https://ddowiki.com/page/Item:Rock_Boots_(level_11)",
     "minLevel": "11",
     "enhancements": []
   },
   {
-    "name": "Surefooted Boots (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Surefooted_Boots_(Level_13)",
+    "name": "Surefooted Boots (level 13)",
+    "link": "https://ddowiki.com/page/Item:Surefooted_Boots_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "Balance +11",
       "Striding +25%",
       "Colorless Augment Slot"
-    ]
-  },
-  {
-    "name": "Spiked Boots (historic)",
-    "link": "https://ddowiki.com/page/Item:Spiked_Boots_(historic)",
-    "minLevel": "11",
-    "enhancements": [
-      "Balance +7",
-      "Immunity to Slippery Surfaces"
     ]
   },
   {
@@ -690,16 +672,16 @@
     ]
   },
   {
-    "name": "Guardian's Boots (Level 15)",
-    "link": "https://ddowiki.com/page/Item:Guardian%27s_Boots_(Level_15)",
+    "name": "Guardian's Boots (level 15)",
+    "link": "https://ddowiki.com/page/Item:Guardian%27s_Boots_(level_15)",
     "minLevel": "15",
     "enhancements": [
       "Protection +8"
     ]
   },
   {
-    "name": "Sage's Shoes (Level 19)",
-    "link": "https://ddowiki.com/page/Item:Sage%27s_Shoes_(Level_19)",
+    "name": "Sage's Shoes (level 19)",
+    "link": "https://ddowiki.com/page/Item:Sage%27s_Shoes_(level_19)",
     "minLevel": "19",
     "enhancements": [
       "Conjuration Focus III",
@@ -707,8 +689,8 @@
     ]
   },
   {
-    "name": "Skirmisher's Boots (Level 19)",
-    "link": "https://ddowiki.com/page/Item:Skirmisher%27s_Boots_(Level_19)",
+    "name": "Skirmisher's Boots (level 19)",
+    "link": "https://ddowiki.com/page/Item:Skirmisher%27s_Boots_(level_19)",
     "minLevel": "19",
     "enhancements": [
       "Cold Resistance +25",
@@ -716,8 +698,8 @@
     ]
   },
   {
-    "name": "Goatskin Boots (Level 28)",
-    "link": "https://ddowiki.com/page/Item:Goatskin_Boots_(Level_28)",
+    "name": "Goatskin Boots (level 28)",
+    "link": "https://ddowiki.com/page/Item:Goatskin_Boots_(level_28)",
     "minLevel": "28",
     "enhancements": [
       "Speed XV",
@@ -736,8 +718,8 @@
     ]
   },
   {
-    "name": "Guardian's Boots (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Guardian%27s_Boots_(Level_27)",
+    "name": "Guardian's Boots (level 27)",
+    "link": "https://ddowiki.com/page/Item:Guardian%27s_Boots_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "Protection +9",
@@ -745,8 +727,8 @@
     ]
   },
   {
-    "name": "Skirmisher's Boots (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Skirmisher%27s_Boots_(Level_27)",
+    "name": "Skirmisher's Boots (level 27)",
+    "link": "https://ddowiki.com/page/Item:Skirmisher%27s_Boots_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "Cold Resistance +45",
@@ -754,8 +736,8 @@
     ]
   },
   {
-    "name": "Sage's Shoes (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Sage%27s_Shoes_(Level_27)",
+    "name": "Sage's Shoes (level 27)",
+    "link": "https://ddowiki.com/page/Item:Sage%27s_Shoes_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "Conjuration Focus V",
@@ -763,8 +745,8 @@
     ]
   },
   {
-    "name": "Goatskin Boots (Level 26)",
-    "link": "https://ddowiki.com/page/Item:Goatskin_Boots_(Level_26)",
+    "name": "Goatskin Boots (level 26)",
+    "link": "https://ddowiki.com/page/Item:Goatskin_Boots_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "Speed XII",
@@ -782,8 +764,8 @@
     ]
   },
   {
-    "name": "Goatskin Boots (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Goatskin_Boots_(Level_27)",
+    "name": "Goatskin Boots (level 27)",
+    "link": "https://ddowiki.com/page/Item:Goatskin_Boots_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "Speed XIV",
@@ -801,8 +783,8 @@
     ]
   },
   {
-    "name": "Treads of Falling Shadow (Level 18)",
-    "link": "https://ddowiki.com/page/Item:Treads_of_Falling_Shadow_(Level_18)",
+    "name": "Treads of Falling Shadow (level 18)",
+    "link": "https://ddowiki.com/page/Item:Treads_of_Falling_Shadow_(level_18)",
     "minLevel": "18",
     "enhancements": [
       "Striding +30%",
@@ -822,8 +804,8 @@
     ]
   },
   {
-    "name": "Goatskin Boots (Level 18)",
-    "link": "https://ddowiki.com/page/Item:Goatskin_Boots_(Level_18)",
+    "name": "Goatskin Boots (level 18)",
+    "link": "https://ddowiki.com/page/Item:Goatskin_Boots_(level_18)",
     "minLevel": "18",
     "enhancements": [
       "Speed X",
@@ -843,8 +825,8 @@
     ]
   },
   {
-    "name": "Treads of Falling Shadow (Level 16)",
-    "link": "https://ddowiki.com/page/Item:Treads_of_Falling_Shadow_(Level_16)",
+    "name": "Treads of Falling Shadow (level 16)",
+    "link": "https://ddowiki.com/page/Item:Treads_of_Falling_Shadow_(level_16)",
     "minLevel": "16",
     "enhancements": [
       "Striding +25%",
@@ -854,8 +836,8 @@
     ]
   },
   {
-    "name": "Goatskin Boots (Level 19)",
-    "link": "https://ddowiki.com/page/Item:Goatskin_Boots_(Level_19)",
+    "name": "Goatskin Boots (level 19)",
+    "link": "https://ddowiki.com/page/Item:Goatskin_Boots_(level_19)",
     "minLevel": "19",
     "enhancements": [
       "Speed XI",
@@ -863,8 +845,8 @@
     ]
   },
   {
-    "name": "Treads of Falling Shadow (Level 17)",
-    "link": "https://ddowiki.com/page/Item:Treads_of_Falling_Shadow_(Level_17)",
+    "name": "Treads of Falling Shadow (level 17)",
+    "link": "https://ddowiki.com/page/Item:Treads_of_Falling_Shadow_(level_17)",
     "minLevel": "17",
     "enhancements": [
       "Striding +30%",
@@ -2384,6 +2366,33 @@
     "enhancements": [
       "Constitution +6",
       "Evocation Focus +1"
+    ]
+  },
+  {
+    "name": "Gravekeeper's Greaves",
+    "link": "https://ddowiki.com/page/Item:Gravekeeper%27s_Greaves",
+    "minLevel": "8",
+    "enhancements": [
+      "Quality Fortitude Save +1",
+      "Insightful Fortification  +35%",
+      "Lamordia: Melancholic Slot (Accessory): Empty",
+      "Lamordia: Dolorous Slot (Accessory): Empty",
+      "Blue Augment Slot",
+      "Moon Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Gravekeeper's Greaves",
+    "link": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Greaves",
+    "minLevel": "34",
+    "enhancements": [
+      "Quality Fortitude Save +3",
+      "Insightful Fortification  +79%",
+      "Lamordia: Melancholic Slot (Accessory): Empty",
+      "Lamordia: Dolorous Slot (Accessory): Empty",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Moon Augment Slot"
     ]
   }
 ]

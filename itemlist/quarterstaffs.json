@@ -418,6 +418,19 @@
     ]
   },
   {
+    "name": "Calamitous Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Quarterstaff",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
     "name": "Echo of Wave",
     "link": "https://ddowiki.com/page/Item:Echo_of_Wave",
     "minLevel": "9",
@@ -652,8 +665,8 @@
     ]
   },
   {
-    "name": "Silver Ingot Arcanum (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Silver_Ingot_Arcanum_(Level_12)",
+    "name": "Silver Ingot Arcanum (level 12)",
+    "link": "https://ddowiki.com/page/Item:Silver_Ingot_Arcanum_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "Spellcasting Implement +12",
@@ -665,8 +678,8 @@
     ]
   },
   {
-    "name": "Bronze Ingot Arcanum (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Bronze_Ingot_Arcanum_(Level_12)",
+    "name": "Bronze Ingot Arcanum (level 12)",
+    "link": "https://ddowiki.com/page/Item:Bronze_Ingot_Arcanum_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "Spellcasting Implement +12",
@@ -678,8 +691,8 @@
     ]
   },
   {
-    "name": "Copper Ingot Arcanum (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Copper_Ingot_Arcanum_(Level_12)",
+    "name": "Copper Ingot Arcanum (level 12)",
+    "link": "https://ddowiki.com/page/Item:Copper_Ingot_Arcanum_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "Spellcasting Implement +12",
@@ -1204,8 +1217,8 @@
     ]
   },
   {
-    "name": "Copper Ingot Arcanum (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Copper_Ingot_Arcanum_(Level_13)",
+    "name": "Copper Ingot Arcanum (level 13)",
+    "link": "https://ddowiki.com/page/Item:Copper_Ingot_Arcanum_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "Spellcasting Implement +15",
@@ -1217,8 +1230,8 @@
     ]
   },
   {
-    "name": "Silver Ingot Arcanum (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Silver_Ingot_Arcanum_(Level_13)",
+    "name": "Silver Ingot Arcanum (level 13)",
+    "link": "https://ddowiki.com/page/Item:Silver_Ingot_Arcanum_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "Spellcasting Implement +15",
@@ -1230,8 +1243,8 @@
     ]
   },
   {
-    "name": "Branch of Vile Curses (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Branch_of_Vile_Curses_(Level_13)",
+    "name": "Branch of Vile Curses (level 13)",
+    "link": "https://ddowiki.com/page/Item:Branch_of_Vile_Curses_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "Spellcasting Implement +12",
@@ -1244,8 +1257,8 @@
     ]
   },
   {
-    "name": "Bronze Ingot Arcanum (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Bronze_Ingot_Arcanum_(Level_13)",
+    "name": "Bronze Ingot Arcanum (level 13)",
+    "link": "https://ddowiki.com/page/Item:Bronze_Ingot_Arcanum_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "Spellcasting Implement +15",
@@ -1351,8 +1364,8 @@
     ]
   },
   {
-    "name": "Bronze Ingot Arcanum (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Bronze_Ingot_Arcanum_(Level_14)",
+    "name": "Bronze Ingot Arcanum (level 14)",
+    "link": "https://ddowiki.com/page/Item:Bronze_Ingot_Arcanum_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Spellcasting Implement +15",
@@ -1364,8 +1377,8 @@
     ]
   },
   {
-    "name": "Copper Ingot Arcanum (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Copper_Ingot_Arcanum_(Level_14)",
+    "name": "Copper Ingot Arcanum (level 14)",
+    "link": "https://ddowiki.com/page/Item:Copper_Ingot_Arcanum_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Spellcasting Implement +15",
@@ -1377,8 +1390,8 @@
     ]
   },
   {
-    "name": "Silver Ingot Arcanum (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Silver_Ingot_Arcanum_(Level_14)",
+    "name": "Silver Ingot Arcanum (level 14)",
+    "link": "https://ddowiki.com/page/Item:Silver_Ingot_Arcanum_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Spellcasting Implement +15",
@@ -1390,8 +1403,8 @@
     ]
   },
   {
-    "name": "Branch of Vile Curses (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Branch_of_Vile_Curses_(Level_14)",
+    "name": "Branch of Vile Curses (level 14)",
+    "link": "https://ddowiki.com/page/Item:Branch_of_Vile_Curses_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Spellcasting Implement +15",
@@ -1404,8 +1417,8 @@
     ]
   },
   {
-    "name": "Branch of Vile Curses (Level 15)",
-    "link": "https://ddowiki.com/page/Item:Branch_of_Vile_Curses_(Level_15)",
+    "name": "Branch of Vile Curses (level 15)",
+    "link": "https://ddowiki.com/page/Item:Branch_of_Vile_Curses_(level_15)",
     "minLevel": "15",
     "enhancements": [
       "Spellcasting Implement +15",
@@ -1876,8 +1889,8 @@
     ]
   },
   {
-    "name": "Silver Ingot Arcanum (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Silver_Ingot_Arcanum_(Level_23)",
+    "name": "Silver Ingot Arcanum (level 23)",
+    "link": "https://ddowiki.com/page/Item:Silver_Ingot_Arcanum_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "Spellcasting Implement +24",
@@ -1889,8 +1902,8 @@
     ]
   },
   {
-    "name": "Copper Ingot Arcanum (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Copper_Ingot_Arcanum_(Level_23)",
+    "name": "Copper Ingot Arcanum (level 23)",
+    "link": "https://ddowiki.com/page/Item:Copper_Ingot_Arcanum_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "Spellcasting Implement +24",
@@ -1902,8 +1915,8 @@
     ]
   },
   {
-    "name": "Bronze Ingot Arcanum (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Bronze_Ingot_Arcanum_(Level_23)",
+    "name": "Bronze Ingot Arcanum (level 23)",
+    "link": "https://ddowiki.com/page/Item:Bronze_Ingot_Arcanum_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "Spellcasting Implement +24",
@@ -1931,8 +1944,8 @@
     ]
   },
   {
-    "name": "Silver Ingot Arcanum (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Silver_Ingot_Arcanum_(Level_24)",
+    "name": "Silver Ingot Arcanum (level 24)",
+    "link": "https://ddowiki.com/page/Item:Silver_Ingot_Arcanum_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Spellcasting Implement +27",
@@ -1944,8 +1957,8 @@
     ]
   },
   {
-    "name": "Bronze Ingot Arcanum (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Bronze_Ingot_Arcanum_(Level_24)",
+    "name": "Bronze Ingot Arcanum (level 24)",
+    "link": "https://ddowiki.com/page/Item:Bronze_Ingot_Arcanum_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Spellcasting Implement +27",
@@ -1957,8 +1970,8 @@
     ]
   },
   {
-    "name": "Copper Ingot Arcanum (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Copper_Ingot_Arcanum_(Level_24)",
+    "name": "Copper Ingot Arcanum (level 24)",
+    "link": "https://ddowiki.com/page/Item:Copper_Ingot_Arcanum_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Spellcasting Implement +27",
@@ -1983,8 +1996,8 @@
     ]
   },
   {
-    "name": "Silver Ingot Arcanum (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Silver_Ingot_Arcanum_(Level_25)",
+    "name": "Silver Ingot Arcanum (level 25)",
+    "link": "https://ddowiki.com/page/Item:Silver_Ingot_Arcanum_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Spellcasting Implement +30",
@@ -1996,8 +2009,8 @@
     ]
   },
   {
-    "name": "Bronze Ingot Arcanum (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Bronze_Ingot_Arcanum_(Level_25)",
+    "name": "Bronze Ingot Arcanum (level 25)",
+    "link": "https://ddowiki.com/page/Item:Bronze_Ingot_Arcanum_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Spellcasting Implement +30",
@@ -2023,8 +2036,8 @@
     ]
   },
   {
-    "name": "Copper Ingot Arcanum (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Copper_Ingot_Arcanum_(Level_25)",
+    "name": "Copper Ingot Arcanum (level 25)",
+    "link": "https://ddowiki.com/page/Item:Copper_Ingot_Arcanum_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Spellcasting Implement +30",
@@ -3310,6 +3323,20 @@
       "Legendary Electric Storm",
       "Shocking Blast 7",
       "Sealed in Mist",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Quarterstaff",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]

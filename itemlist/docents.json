@@ -193,8 +193,8 @@
     ]
   },
   {
-    "name": "Cyran Guard (Level 26)",
-    "link": "https://ddowiki.com/page/Item:Cyran_Guard_(Level_26)",
+    "name": "Cyran Guard (level 26)",
+    "link": "https://ddowiki.com/page/Item:Cyran_Guard_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "+8 Enhancement Bonus",
@@ -204,8 +204,8 @@
     ]
   },
   {
-    "name": "Cyran Guard (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Cyran_Guard_(Level_27)",
+    "name": "Cyran Guard (level 27)",
+    "link": "https://ddowiki.com/page/Item:Cyran_Guard_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "+9 Enhancement Bonus",
@@ -215,8 +215,8 @@
     ]
   },
   {
-    "name": "Cyran Guard (Level 28)",
-    "link": "https://ddowiki.com/page/Item:Cyran_Guard_(Level_28)",
+    "name": "Cyran Guard (level 28)",
+    "link": "https://ddowiki.com/page/Item:Cyran_Guard_(level_28)",
     "minLevel": "28",
     "enhancements": [
       "+9 Enhancement Bonus",
@@ -741,6 +741,20 @@
     ]
   },
   {
+    "name": "Downcast Docent",
+    "link": "https://ddowiki.com/page/Item:Downcast_Docent",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Competence Elemental Resistance - 5",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Lamordia: Miserable Slot (Accessory): Empty",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
     "name": "Dragoncraft Docent",
     "link": "https://ddowiki.com/page/Item:Dragoncraft_Docent",
     "minLevel": "10",
@@ -1213,6 +1227,22 @@
     ]
   },
   {
+    "name": "Gravekeeper's Docent",
+    "link": "https://ddowiki.com/page/Item:Gravekeeper%27s_Docent",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Natural Armor +5",
+      "Good Luck  +2",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Lamordia: Miserable Slot (Accessory): Empty",
+      "Lamordia: Woeful Slot (Accessory): Empty",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
     "name": "Heartwood",
     "link": "https://ddowiki.com/page/Item:Heartwood",
     "minLevel": "15",
@@ -1257,6 +1287,20 @@
       "False Life +29",
       "Blue Augment Slot",
       "Guardian of the Gates"
+    ]
+  },
+  {
+    "name": "Lamordian Docent",
+    "link": "https://ddowiki.com/page/Item:Lamordian_Docent",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Ghostly",
+      "Fortification  +70%",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
     ]
   },
   {
@@ -1510,6 +1554,21 @@
     ]
   },
   {
+    "name": "Legendary Downcast Docent",
+    "link": "https://ddowiki.com/page/Item:Legendary_Downcast_Docent",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Competence Elemental Resistance - 15",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Lamordia: Miserable Slot (Accessory): Empty",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
     "name": "Legendary Dreadcursed Defender",
     "link": "https://ddowiki.com/page/Item:Legendary_Dreadcursed_Defender",
     "minLevel": "29",
@@ -1634,6 +1693,23 @@
     ]
   },
   {
+    "name": "Legendary Gravekeeper's Docent",
+    "link": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Docent",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Natural Armor +15",
+      "Good Luck  +5",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Lamordia: Miserable Slot (Accessory): Empty",
+      "Lamordia: Woeful Slot (Accessory): Empty",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
     "name": "Legendary Heartwood",
     "link": "https://ddowiki.com/page/Item:Legendary_Heartwood",
     "minLevel": "28",
@@ -1658,6 +1734,21 @@
       "False Life +50",
       "Green Augment Slot",
       "Legendary Guardian of the Gates"
+    ]
+  },
+  {
+    "name": "Legendary Lamordian Docent",
+    "link": "https://ddowiki.com/page/Item:Legendary_Lamordian_Docent",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lesser Displacement",
+      "Fortification  +159%",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
     ]
   },
   {
@@ -1847,8 +1938,8 @@
     ]
   },
   {
-    "name": "Livewood Core (Level 15)",
-    "link": "https://ddowiki.com/page/Item:Livewood_Core_(Level_15)",
+    "name": "Livewood Core (level 15)",
+    "link": "https://ddowiki.com/page/Item:Livewood_Core_(level_15)",
     "minLevel": "15",
     "enhancements": [
       "+4 Enhancement Bonus",
@@ -1858,8 +1949,8 @@
     ]
   },
   {
-    "name": "Livewood Core (Level 16)",
-    "link": "https://ddowiki.com/page/Item:Livewood_Core_(Level_16)",
+    "name": "Livewood Core (level 16)",
+    "link": "https://ddowiki.com/page/Item:Livewood_Core_(level_16)",
     "minLevel": "16",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -1869,8 +1960,8 @@
     ]
   },
   {
-    "name": "Livewood Core (Level 17)",
-    "link": "https://ddowiki.com/page/Item:Livewood_Core_(Level_17)",
+    "name": "Livewood Core (level 17)",
+    "link": "https://ddowiki.com/page/Item:Livewood_Core_(level_17)",
     "minLevel": "17",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -1880,8 +1971,8 @@
     ]
   },
   {
-    "name": "Livewood Core (Level 22)",
-    "link": "https://ddowiki.com/page/Item:Livewood_Core_(Level_22)",
+    "name": "Livewood Core (level 22)",
+    "link": "https://ddowiki.com/page/Item:Livewood_Core_(level_22)",
     "minLevel": "22",
     "enhancements": [
       "+6 Enhancement Bonus",
@@ -1893,8 +1984,8 @@
     ]
   },
   {
-    "name": "Livewood Core (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Livewood_Core_(Level_23)",
+    "name": "Livewood Core (level 23)",
+    "link": "https://ddowiki.com/page/Item:Livewood_Core_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "+6 Enhancement Bonus",
@@ -1906,8 +1997,8 @@
     ]
   },
   {
-    "name": "Livewood Core (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Livewood_Core_(Level_24)",
+    "name": "Livewood Core (level 24)",
+    "link": "https://ddowiki.com/page/Item:Livewood_Core_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "+7 Enhancement Bonus",
@@ -1988,26 +2079,26 @@
     ]
   },
   {
-    "name": "Mournlode Docent (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Mournlode_Docent_(Level_12)",
+    "name": "Mournlode Docent (level 12)",
+    "link": "https://ddowiki.com/page/Item:Mournlode_Docent_(level_12)",
     "minLevel": "12",
     "enhancements": []
   },
   {
-    "name": "Mournlode Docent (Level 16)",
-    "link": "https://ddowiki.com/page/Item:Mournlode_Docent_(Level_16)",
+    "name": "Mournlode Docent (level 16)",
+    "link": "https://ddowiki.com/page/Item:Mournlode_Docent_(level_16)",
     "minLevel": "16",
     "enhancements": []
   },
   {
-    "name": "Mournlode Docent (Level 4)",
-    "link": "https://ddowiki.com/page/Item:Mournlode_Docent_(Level_4)",
+    "name": "Mournlode Docent (level 4)",
+    "link": "https://ddowiki.com/page/Item:Mournlode_Docent_(level_4)",
     "minLevel": "4",
     "enhancements": []
   },
   {
-    "name": "Mournlode Docent (Level 8)",
-    "link": "https://ddowiki.com/page/Item:Mournlode_Docent_(Level_8)",
+    "name": "Mournlode Docent (level 8)",
+    "link": "https://ddowiki.com/page/Item:Mournlode_Docent_(level_8)",
     "minLevel": "8",
     "enhancements": []
   },
@@ -2023,8 +2114,8 @@
     ]
   },
   {
-    "name": "Outsider's Furs (Level 16)",
-    "link": "https://ddowiki.com/page/Item:Outsider%27s_Furs_(Level_16)",
+    "name": "Outsider's Furs (level 16)",
+    "link": "https://ddowiki.com/page/Item:Outsider%27s_Furs_(level_16)",
     "minLevel": "16",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -2032,8 +2123,8 @@
     ]
   },
   {
-    "name": "Outsider's Furs (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Outsider%27s_Furs_(Level_27)",
+    "name": "Outsider's Furs (level 27)",
+    "link": "https://ddowiki.com/page/Item:Outsider%27s_Furs_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "+10 Enhancement Bonus",

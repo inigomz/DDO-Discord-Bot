@@ -176,8 +176,20 @@
     ]
   },
   {
-    "name": "Horseshoe Crab Shield (Level 26)",
-    "link": "https://ddowiki.com/page/Item:Horseshoe_Crab_Shield_(Level_26)",
+    "name": "Frostforged Small Shield",
+    "link": "https://ddowiki.com/page/Item:Frostforged_Small_Shield",
+    "minLevel": "8",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Insightful Physical Sheltering +8",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Horseshoe Crab Shield (level 26)",
+    "link": "https://ddowiki.com/page/Item:Horseshoe_Crab_Shield_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "+11 Enhancement Bonus",
@@ -189,8 +201,8 @@
     ]
   },
   {
-    "name": "Horseshoe Crab Shield (Level 7)",
-    "link": "https://ddowiki.com/page/Item:Horseshoe_Crab_Shield_(Level_7)",
+    "name": "Horseshoe Crab Shield (level 7)",
+    "link": "https://ddowiki.com/page/Item:Horseshoe_Crab_Shield_(level_7)",
     "minLevel": "7",
     "enhancements": [
       "+3 Enhancement Bonus",
@@ -238,6 +250,19 @@
       "Insightful  Diversion +10%",
       "Taint of Evil",
       "Legendary Forbidden Knowledge",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Frostforged Small Shield",
+    "link": "https://ddowiki.com/page/Item:Legendary_Frostforged_Small_Shield",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Insightful Physical Sheltering +18",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
       "Purple Augment Slot",
       "Orange Augment Slot"
     ]
@@ -329,8 +354,8 @@
     ]
   },
   {
-    "name": "Shield of Morning (Level 17)",
-    "link": "https://ddowiki.com/page/Item:Shield_of_Morning_(Level_17)",
+    "name": "Shield of Morning (level 17)",
+    "link": "https://ddowiki.com/page/Item:Shield_of_Morning_(level_17)",
     "minLevel": "17",
     "enhancements": [
       "Shield of Lesser Sunburst",
@@ -348,8 +373,8 @@
     ]
   },
   {
-    "name": "Shield of Morning (Level 18)",
-    "link": "https://ddowiki.com/page/Item:Shield_of_Morning_(Level_18)",
+    "name": "Shield of Morning (level 18)",
+    "link": "https://ddowiki.com/page/Item:Shield_of_Morning_(level_18)",
     "minLevel": "18",
     "enhancements": [
       "Shield of Lesser Sunburst",
@@ -367,8 +392,8 @@
     ]
   },
   {
-    "name": "Shield of Morning (Level 19)",
-    "link": "https://ddowiki.com/page/Item:Shield_of_Morning_(Level_19)",
+    "name": "Shield of Morning (level 19)",
+    "link": "https://ddowiki.com/page/Item:Shield_of_Morning_(level_19)",
     "minLevel": "19",
     "enhancements": [
       "Shield of Lesser Sunburst",
@@ -386,8 +411,8 @@
     ]
   },
   {
-    "name": "Shield of Morning (Level 26)",
-    "link": "https://ddowiki.com/page/Item:Shield_of_Morning_(Level_26)",
+    "name": "Shield of Morning (level 26)",
+    "link": "https://ddowiki.com/page/Item:Shield_of_Morning_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "Shield of Greater Sunburst",
@@ -406,8 +431,8 @@
     ]
   },
   {
-    "name": "Shield of Morning (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Shield_of_Morning_(Level_27)",
+    "name": "Shield of Morning (level 27)",
+    "link": "https://ddowiki.com/page/Item:Shield_of_Morning_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "Shield of Greater Sunburst",
@@ -426,8 +451,8 @@
     ]
   },
   {
-    "name": "Shield of Morning (Level 28)",
-    "link": "https://ddowiki.com/page/Item:Shield_of_Morning_(Level_28)",
+    "name": "Shield of Morning (level 28)",
+    "link": "https://ddowiki.com/page/Item:Shield_of_Morning_(level_28)",
     "minLevel": "28",
     "enhancements": [
       "Shield of Greater Sunburst",

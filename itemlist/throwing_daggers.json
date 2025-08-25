@@ -110,6 +110,20 @@
     ]
   },
   {
+    "name": "Calamitous Throwing Dagger",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Throwing_Dagger",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Returning",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
     "name": "Lynnabel's Bug Killer (level 10)",
     "link": "https://ddowiki.com/page/Item:Lynnabel%27s_Bug_Killer_(level_10)",
     "minLevel": "10",
@@ -697,6 +711,21 @@
       "Sovereign Vorpal",
       "Sealed in Fire",
       "Returning",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Throwing Dagger",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Throwing_Dagger",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Returning",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]

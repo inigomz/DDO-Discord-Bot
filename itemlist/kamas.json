@@ -78,6 +78,19 @@
     ]
   },
   {
+    "name": "Calamitous Kama",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Kama",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
     "name": "Macabre Kama",
     "link": "https://ddowiki.com/page/Item:Macabre_Kama",
     "minLevel": "10",
@@ -159,8 +172,8 @@
     ]
   },
   {
-    "name": "Forester's Brush Hook (Level 15)",
-    "link": "https://ddowiki.com/page/Item:Forester%27s_Brush_Hook_(Level_15)",
+    "name": "Forester's Brush Hook (level 15)",
+    "link": "https://ddowiki.com/page/Item:Forester%27s_Brush_Hook_(level_15)",
     "minLevel": "15",
     "enhancements": [
       "+4 Enhancement Bonus",
@@ -239,8 +252,8 @@
     ]
   },
   {
-    "name": "Forester's Brush Hook (Level 16)",
-    "link": "https://ddowiki.com/page/Item:Forester%27s_Brush_Hook_(Level_16)",
+    "name": "Forester's Brush Hook (level 16)",
+    "link": "https://ddowiki.com/page/Item:Forester%27s_Brush_Hook_(level_16)",
     "minLevel": "16",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -250,8 +263,8 @@
     ]
   },
   {
-    "name": "Forester's Brush Hook (Level 17)",
-    "link": "https://ddowiki.com/page/Item:Forester%27s_Brush_Hook_(Level_17)",
+    "name": "Forester's Brush Hook (level 17)",
+    "link": "https://ddowiki.com/page/Item:Forester%27s_Brush_Hook_(level_17)",
     "minLevel": "17",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -367,8 +380,8 @@
     ]
   },
   {
-    "name": "Forester's Brush Hook (Level 22)",
-    "link": "https://ddowiki.com/page/Item:Forester%27s_Brush_Hook_(Level_22)",
+    "name": "Forester's Brush Hook (level 22)",
+    "link": "https://ddowiki.com/page/Item:Forester%27s_Brush_Hook_(level_22)",
     "minLevel": "22",
     "enhancements": [
       "+6 Enhancement Bonus",
@@ -388,8 +401,8 @@
     ]
   },
   {
-    "name": "Forester's Brush Hook (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Forester%27s_Brush_Hook_(Level_23)",
+    "name": "Forester's Brush Hook (level 23)",
+    "link": "https://ddowiki.com/page/Item:Forester%27s_Brush_Hook_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "+6 Enhancement Bonus",
@@ -399,8 +412,8 @@
     ]
   },
   {
-    "name": "Forester's Brush Hook (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Forester%27s_Brush_Hook_(Level_24)",
+    "name": "Forester's Brush Hook (level 24)",
+    "link": "https://ddowiki.com/page/Item:Forester%27s_Brush_Hook_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "+7 Enhancement Bonus",
@@ -691,6 +704,20 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Kama",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Kama",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]

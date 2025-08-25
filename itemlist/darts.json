@@ -181,6 +181,20 @@
     ]
   },
   {
+    "name": "Calamitous Dart",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Dart",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Returning",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
     "name": "Barovian's Dart",
     "link": "https://ddowiki.com/page/Item:Barovian%27s_Dart",
     "minLevel": "10",
@@ -677,6 +691,21 @@
       "Sovereign Vorpal",
       "Sealed in Fire",
       "Returning",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Dart",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Dart",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Returning",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]

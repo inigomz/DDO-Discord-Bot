@@ -2,7 +2,7 @@
   {
     "name": "Thought Spike",
     "link": "https://ddowiki.com/page/Item:Thought_Spike",
-    "minLevel": "Bound to Character on AcquireBound to Character on Acquire: This item is Bound to Character on Acquire",
+    "minLevel": ".mw-parser-output span.popup.has_tooltip{border-bottom:1px dashed #999999;cursor:pointer;position:relative}.mw-parser-output span.popup.has_tooltip>span.popup.tooltip{background-color:#EEEEEE;background-color:var(--background-color-neutral,#EEEEEE);color:#202122;color:var(--color-base,#202122);border:1px solid #333333;border-radius:3px;box-shadow:3px 5px 10px;cursor:text;display:none;left:-125px;margin:0px;max-width:450px;padding:5px;top:14px;z-index:10000}.mw-parser-output span.popup.has_tooltip:hover>span.popup.tooltip{display:block;left:13px;position:absolute;top:9px;width:200%}Bound to Character on AcquireBound to Character on Acquire: This item is Bound to Character on Acquire",
     "enhancements": []
   },
   {
@@ -150,6 +150,18 @@
     "enhancements": []
   },
   {
+    "name": "Frozen Contraption",
+    "link": "https://ddowiki.com/page/Item:Frozen_Contraption",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Unbridled Power",
+    "link": "https://ddowiki.com/page/Item:Unbridled_Power",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
     "name": "Recoyle",
     "link": "https://ddowiki.com/page/Item:Recoyle",
     "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
@@ -192,14 +204,14 @@
     "enhancements": []
   },
   {
-    "name": "Arcing Sky (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Arcing_Sky_(Level_13)",
+    "name": "Arcing Sky (level 13)",
+    "link": "https://ddowiki.com/page/Item:Arcing_Sky_(level_13)",
     "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
     "enhancements": []
   },
   {
-    "name": "Chill of Winter (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Chill_of_Winter_(Level_13)",
+    "name": "Chill of Winter (level 13)",
+    "link": "https://ddowiki.com/page/Item:Chill_of_Winter_(level_13)",
     "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
     "enhancements": []
   },
@@ -210,8 +222,8 @@
     "enhancements": []
   },
   {
-    "name": "The Turmoil Within (Level 13)",
-    "link": "https://ddowiki.com/page/Item:The_Turmoil_Within_(Level_13)",
+    "name": "The Turmoil Within (level 13)",
+    "link": "https://ddowiki.com/page/Item:The_Turmoil_Within_(level_13)",
     "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
     "enhancements": []
   },
@@ -282,8 +294,8 @@
     "enhancements": []
   },
   {
-    "name": "Corruption of Nature (Level 15)",
-    "link": "https://ddowiki.com/page/Item:Corruption_of_Nature_(Level_15)",
+    "name": "Corruption of Nature (level 15)",
+    "link": "https://ddowiki.com/page/Item:Corruption_of_Nature_(level_15)",
     "minLevel": "Bound to Character on EquipBound to Character on Equip: This item is Bound to Character on Equip",
     "enhancements": []
   },
@@ -312,8 +324,8 @@
     "enhancements": []
   },
   {
-    "name": "Corruption of Nature (Level 16)",
-    "link": "https://ddowiki.com/page/Item:Corruption_of_Nature_(Level_16)",
+    "name": "Corruption of Nature (level 16)",
+    "link": "https://ddowiki.com/page/Item:Corruption_of_Nature_(level_16)",
     "minLevel": "Bound to Character on EquipBound to Character on Equip: This item is Bound to Character on Equip",
     "enhancements": []
   },
@@ -324,8 +336,8 @@
     "enhancements": []
   },
   {
-    "name": "Corruption of Nature (Level 17)",
-    "link": "https://ddowiki.com/page/Item:Corruption_of_Nature_(Level_17)",
+    "name": "Corruption of Nature (level 17)",
+    "link": "https://ddowiki.com/page/Item:Corruption_of_Nature_(level_17)",
     "minLevel": "Bound to Character on EquipBound to Character on Equip: This item is Bound to Character on Equip",
     "enhancements": []
   },
@@ -426,20 +438,20 @@
     "enhancements": []
   },
   {
-    "name": "The Turmoil Within (Level 23)",
-    "link": "https://ddowiki.com/page/Item:The_Turmoil_Within_(Level_23)",
+    "name": "The Turmoil Within (level 23)",
+    "link": "https://ddowiki.com/page/Item:The_Turmoil_Within_(level_23)",
     "minLevel": "Bound to Character on EquipBound to Character on Equip: This item is Bound to Character on Equip",
     "enhancements": []
   },
   {
-    "name": "Arcing Sky (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Arcing_Sky_(Level_23)",
+    "name": "Arcing Sky (level 23)",
+    "link": "https://ddowiki.com/page/Item:Arcing_Sky_(level_23)",
     "minLevel": "Bound to Character on EquipBound to Character on Equip: This item is Bound to Character on Equip",
     "enhancements": []
   },
   {
-    "name": "Chill of Winter (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Chill_of_Winter_(Level_23)",
+    "name": "Chill of Winter (level 23)",
+    "link": "https://ddowiki.com/page/Item:Chill_of_Winter_(level_23)",
     "minLevel": "Bound to Character on EquipBound to Character on Equip: This item is Bound to Character on Equip",
     "enhancements": []
   },
@@ -456,20 +468,20 @@
     "enhancements": []
   },
   {
-    "name": "Arcing Sky (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Arcing_Sky_(Level_24)",
+    "name": "Arcing Sky (level 24)",
+    "link": "https://ddowiki.com/page/Item:Arcing_Sky_(level_24)",
     "minLevel": "Bound to Character on EquipBound to Character on Equip: This item is Bound to Character on Equip",
     "enhancements": []
   },
   {
-    "name": "The Turmoil Within (Level 24)",
-    "link": "https://ddowiki.com/page/Item:The_Turmoil_Within_(Level_24)",
+    "name": "The Turmoil Within (level 24)",
+    "link": "https://ddowiki.com/page/Item:The_Turmoil_Within_(level_24)",
     "minLevel": "Bound to Character on EquipBound to Character on Equip: This item is Bound to Character on Equip",
     "enhancements": []
   },
   {
-    "name": "Chill of Winter (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Chill_of_Winter_(Level_24)",
+    "name": "Chill of Winter (level 24)",
+    "link": "https://ddowiki.com/page/Item:Chill_of_Winter_(level_24)",
     "minLevel": "Bound to Character on EquipBound to Character on Equip: This item is Bound to Character on Equip",
     "enhancements": []
   },
@@ -504,20 +516,20 @@
     "enhancements": []
   },
   {
-    "name": "The Turmoil Within (Level 25)",
-    "link": "https://ddowiki.com/page/Item:The_Turmoil_Within_(Level_25)",
+    "name": "The Turmoil Within (level 25)",
+    "link": "https://ddowiki.com/page/Item:The_Turmoil_Within_(level_25)",
     "minLevel": "Bound to Character on EquipBound to Character on Equip: This item is Bound to Character on Equip",
     "enhancements": []
   },
   {
-    "name": "Arcing Sky (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Arcing_Sky_(Level_25)",
+    "name": "Arcing Sky (level 25)",
+    "link": "https://ddowiki.com/page/Item:Arcing_Sky_(level_25)",
     "minLevel": "Bound to Character on EquipBound to Character on Equip: This item is Bound to Character on Equip",
     "enhancements": []
   },
   {
-    "name": "Chill of Winter (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Chill_of_Winter_(Level_25)",
+    "name": "Chill of Winter (level 25)",
+    "link": "https://ddowiki.com/page/Item:Chill_of_Winter_(level_25)",
     "minLevel": "Bound to Character on EquipBound to Character on Equip: This item is Bound to Character on Equip",
     "enhancements": []
   },
@@ -716,6 +728,18 @@
   {
     "name": "Legendary Echoes of Night",
     "link": "https://ddowiki.com/page/Item:Legendary_Echoes_of_Night",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Legendary Frozen Contraption",
+    "link": "https://ddowiki.com/page/Item:Legendary_Frozen_Contraption",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Legendary Unbridled Power",
+    "link": "https://ddowiki.com/page/Item:Legendary_Unbridled_Power",
     "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
     "enhancements": []
   }

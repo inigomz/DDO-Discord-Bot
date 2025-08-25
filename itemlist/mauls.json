@@ -61,8 +61,8 @@
     ]
   },
   {
-    "name": "Mournlode Maul (Level 4)",
-    "link": "https://ddowiki.com/page/Item:Mournlode_Maul_(Level_4)",
+    "name": "Mournlode Maul (level 4)",
+    "link": "https://ddowiki.com/page/Item:Mournlode_Maul_(level_4)",
     "minLevel": "4",
     "enhancements": [
       "+1 Enhancement Bonus",
@@ -189,6 +189,19 @@
       "Staggering Blow",
       "Earthgrab",
       "Animal Bane 2",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Calamitous Maul",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Maul",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
       "Red Augment Slot"
     ]
   },
@@ -382,8 +395,8 @@
     ]
   },
   {
-    "name": "Giant's Fist (Level 17)",
-    "link": "https://ddowiki.com/page/Item:Giant%27s_Fist_(Level_17)",
+    "name": "Giant's Fist (level 17)",
+    "link": "https://ddowiki.com/page/Item:Giant%27s_Fist_(level_17)",
     "minLevel": "17",
     "enhancements": [
       "+4 Enhancement Bonus",
@@ -407,8 +420,8 @@
     ]
   },
   {
-    "name": "Giant's Fist (Level 18)",
-    "link": "https://ddowiki.com/page/Item:Giant%27s_Fist_(Level_18)",
+    "name": "Giant's Fist (level 18)",
+    "link": "https://ddowiki.com/page/Item:Giant%27s_Fist_(level_18)",
     "minLevel": "18",
     "enhancements": [
       "+4 Enhancement Bonus",
@@ -459,8 +472,8 @@
     ]
   },
   {
-    "name": "Giant's Fist (Level 19)",
-    "link": "https://ddowiki.com/page/Item:Giant%27s_Fist_(Level_19)",
+    "name": "Giant's Fist (level 19)",
+    "link": "https://ddowiki.com/page/Item:Giant%27s_Fist_(level_19)",
     "minLevel": "19",
     "enhancements": [
       "+4 Enhancement Bonus",
@@ -615,8 +628,8 @@
     ]
   },
   {
-    "name": "Giant's Fist (Level 26)",
-    "link": "https://ddowiki.com/page/Item:Giant%27s_Fist_(Level_26)",
+    "name": "Giant's Fist (level 26)",
+    "link": "https://ddowiki.com/page/Item:Giant%27s_Fist_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "+4 Enhancement Bonus",
@@ -636,8 +649,8 @@
     ]
   },
   {
-    "name": "Giant's Fist (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Giant%27s_Fist_(Level_27)",
+    "name": "Giant's Fist (level 27)",
+    "link": "https://ddowiki.com/page/Item:Giant%27s_Fist_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "+4 Enhancement Bonus",
@@ -648,8 +661,8 @@
     ]
   },
   {
-    "name": "Giant's Fist (Level 28)",
-    "link": "https://ddowiki.com/page/Item:Giant%27s_Fist_(Level_28)",
+    "name": "Giant's Fist (level 28)",
+    "link": "https://ddowiki.com/page/Item:Giant%27s_Fist_(level_28)",
     "minLevel": "28",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -944,6 +957,20 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Maul",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Maul",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]

@@ -97,8 +97,8 @@
     ]
   },
   {
-    "name": "Calomel Scimitar (Level 4)",
-    "link": "https://ddowiki.com/page/Item:Calomel_Scimitar_(Level_4)",
+    "name": "Calomel Scimitar (level 4)",
+    "link": "https://ddowiki.com/page/Item:Calomel_Scimitar_(level_4)",
     "minLevel": "4",
     "enhancements": [
       "+1 Enhancement Bonus",
@@ -228,6 +228,19 @@
     ]
   },
   {
+    "name": "Calamitous Scimitar",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Scimitar",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
     "name": "Mirage",
     "link": "https://ddowiki.com/page/Item:Mirage",
     "minLevel": "10",
@@ -311,8 +324,8 @@
     ]
   },
   {
-    "name": "Royal Scimitar (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Royal_Scimitar_(Level_12)",
+    "name": "Royal Scimitar (level 12)",
+    "link": "https://ddowiki.com/page/Item:Royal_Scimitar_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "+3 Enhancement Bonus",
@@ -340,8 +353,8 @@
     ]
   },
   {
-    "name": "Royal Scimitar (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Royal_Scimitar_(Level_13)",
+    "name": "Royal Scimitar (level 13)",
+    "link": "https://ddowiki.com/page/Item:Royal_Scimitar_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "+4 Enhancement Bonus",
@@ -377,8 +390,8 @@
     ]
   },
   {
-    "name": "Royal Scimitar (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Royal_Scimitar_(Level_14)",
+    "name": "Royal Scimitar (level 14)",
+    "link": "https://ddowiki.com/page/Item:Royal_Scimitar_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -402,8 +415,8 @@
     ]
   },
   {
-    "name": "Swailing Blade (Level 15)",
-    "link": "https://ddowiki.com/page/Item:Swailing_Blade_(Level_15)",
+    "name": "Swailing Blade (level 15)",
+    "link": "https://ddowiki.com/page/Item:Swailing_Blade_(level_15)",
     "minLevel": "15",
     "enhancements": [
       "Spellcasting Implement +12",
@@ -454,8 +467,8 @@
     ]
   },
   {
-    "name": "Swailing Blade (Level 16)",
-    "link": "https://ddowiki.com/page/Item:Swailing_Blade_(Level_16)",
+    "name": "Swailing Blade (level 16)",
+    "link": "https://ddowiki.com/page/Item:Swailing_Blade_(level_16)",
     "minLevel": "16",
     "enhancements": [
       "Spellcasting Implement +15",
@@ -497,8 +510,8 @@
     ]
   },
   {
-    "name": "Swailing Blade (Level 17)",
-    "link": "https://ddowiki.com/page/Item:Swailing_Blade_(Level_17)",
+    "name": "Swailing Blade (level 17)",
+    "link": "https://ddowiki.com/page/Item:Swailing_Blade_(level_17)",
     "minLevel": "17",
     "enhancements": [
       "Spellcasting Implement +15",
@@ -509,8 +522,8 @@
     ]
   },
   {
-    "name": "Frostbite Blade (Level 17)",
-    "link": "https://ddowiki.com/page/Item:Frostbite_Blade_(Level_17)",
+    "name": "Frostbite Blade (level 17)",
+    "link": "https://ddowiki.com/page/Item:Frostbite_Blade_(level_17)",
     "minLevel": "17",
     "enhancements": [
       "+4 Enhancement Bonus",
@@ -520,8 +533,8 @@
     ]
   },
   {
-    "name": "Frostbite Blade (Level 18)",
-    "link": "https://ddowiki.com/page/Item:Frostbite_Blade_(Level_18)",
+    "name": "Frostbite Blade (level 18)",
+    "link": "https://ddowiki.com/page/Item:Frostbite_Blade_(level_18)",
     "minLevel": "18",
     "enhancements": [
       "+4 Enhancement Bonus",
@@ -557,8 +570,8 @@
     ]
   },
   {
-    "name": "Frostbite Blade (Level 19)",
-    "link": "https://ddowiki.com/page/Item:Frostbite_Blade_(Level_19)",
+    "name": "Frostbite Blade (level 19)",
+    "link": "https://ddowiki.com/page/Item:Frostbite_Blade_(level_19)",
     "minLevel": "19",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -687,8 +700,8 @@
     ]
   },
   {
-    "name": "Swailing Blade (Level 22)",
-    "link": "https://ddowiki.com/page/Item:Swailing_Blade_(Level_22)",
+    "name": "Swailing Blade (level 22)",
+    "link": "https://ddowiki.com/page/Item:Swailing_Blade_(level_22)",
     "minLevel": "22",
     "enhancements": [
       "Spellcasting Implement +18",
@@ -709,8 +722,8 @@
     ]
   },
   {
-    "name": "Swailing Blade (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Swailing_Blade_(Level_23)",
+    "name": "Swailing Blade (level 23)",
+    "link": "https://ddowiki.com/page/Item:Swailing_Blade_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "Spellcasting Implement +18",
@@ -721,8 +734,8 @@
     ]
   },
   {
-    "name": "Royal Scimitar (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Royal_Scimitar_(Level_23)",
+    "name": "Royal Scimitar (level 23)",
+    "link": "https://ddowiki.com/page/Item:Royal_Scimitar_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "+6 Enhancement Bonus",
@@ -732,8 +745,8 @@
     ]
   },
   {
-    "name": "Swailing Blade (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Swailing_Blade_(Level_24)",
+    "name": "Swailing Blade (level 24)",
+    "link": "https://ddowiki.com/page/Item:Swailing_Blade_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Spellcasting Implement +21",
@@ -744,8 +757,8 @@
     ]
   },
   {
-    "name": "Royal Scimitar (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Royal_Scimitar_(Level_24)",
+    "name": "Royal Scimitar (level 24)",
+    "link": "https://ddowiki.com/page/Item:Royal_Scimitar_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "+7 Enhancement Bonus",
@@ -785,8 +798,8 @@
     ]
   },
   {
-    "name": "Royal Scimitar (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Royal_Scimitar_(Level_25)",
+    "name": "Royal Scimitar (level 25)",
+    "link": "https://ddowiki.com/page/Item:Royal_Scimitar_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "+7 Enhancement Bonus",
@@ -817,8 +830,8 @@
     ]
   },
   {
-    "name": "Frostbite Blade (Level 26)",
-    "link": "https://ddowiki.com/page/Item:Frostbite_Blade_(Level_26)",
+    "name": "Frostbite Blade (level 26)",
+    "link": "https://ddowiki.com/page/Item:Frostbite_Blade_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "+6 Enhancement Bonus",
@@ -829,8 +842,8 @@
     ]
   },
   {
-    "name": "Frostbite Blade (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Frostbite_Blade_(Level_27)",
+    "name": "Frostbite Blade (level 27)",
+    "link": "https://ddowiki.com/page/Item:Frostbite_Blade_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "+6 Enhancement Bonus",
@@ -841,8 +854,8 @@
     ]
   },
   {
-    "name": "Frostbite Blade (Level 28)",
-    "link": "https://ddowiki.com/page/Item:Frostbite_Blade_(Level_28)",
+    "name": "Frostbite Blade (level 28)",
+    "link": "https://ddowiki.com/page/Item:Frostbite_Blade_(level_28)",
     "minLevel": "28",
     "enhancements": [
       "+7 Enhancement Bonus",
@@ -1197,6 +1210,20 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Scimitar",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Scimitar",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]

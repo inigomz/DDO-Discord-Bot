@@ -84,6 +84,20 @@
     ]
   },
   {
+    "name": "Calamitous Shuriken",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Shuriken",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Returning",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
     "name": "Macabre Shuriken",
     "link": "https://ddowiki.com/page/Item:Macabre_Shuriken",
     "minLevel": "10",
@@ -174,8 +188,8 @@
     ]
   },
   {
-    "name": "The Morning Star (Level 14)",
-    "link": "https://ddowiki.com/page/Item:The_Morning_Star_(Level_14)",
+    "name": "The Morning Star (level 14)",
+    "link": "https://ddowiki.com/page/Item:The_Morning_Star_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Returning",
@@ -187,8 +201,8 @@
     ]
   },
   {
-    "name": "The Morning Star (Level 15)",
-    "link": "https://ddowiki.com/page/Item:The_Morning_Star_(Level_15)",
+    "name": "The Morning Star (level 15)",
+    "link": "https://ddowiki.com/page/Item:The_Morning_Star_(level_15)",
     "minLevel": "15",
     "enhancements": [
       "Returning",
@@ -228,8 +242,8 @@
     ]
   },
   {
-    "name": "The Morning Star (Level 16)",
-    "link": "https://ddowiki.com/page/Item:The_Morning_Star_(Level_16)",
+    "name": "The Morning Star (level 16)",
+    "link": "https://ddowiki.com/page/Item:The_Morning_Star_(level_16)",
     "minLevel": "16",
     "enhancements": [
       "Returning",
@@ -308,8 +322,8 @@
     ]
   },
   {
-    "name": "The Morning Star (Level 25)",
-    "link": "https://ddowiki.com/page/Item:The_Morning_Star_(Level_25)",
+    "name": "The Morning Star (level 25)",
+    "link": "https://ddowiki.com/page/Item:The_Morning_Star_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Returning",
@@ -321,8 +335,8 @@
     ]
   },
   {
-    "name": "The Morning Star (Level 26)",
-    "link": "https://ddowiki.com/page/Item:The_Morning_Star_(Level_26)",
+    "name": "The Morning Star (level 26)",
+    "link": "https://ddowiki.com/page/Item:The_Morning_Star_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "Returning",
@@ -344,8 +358,8 @@
     ]
   },
   {
-    "name": "The Morning Star (Level 27)",
-    "link": "https://ddowiki.com/page/Item:The_Morning_Star_(Level_27)",
+    "name": "The Morning Star (level 27)",
+    "link": "https://ddowiki.com/page/Item:The_Morning_Star_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "Returning",
@@ -618,6 +632,21 @@
       "Sovereign Vorpal",
       "Sealed in Fire",
       "Returning",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Shuriken",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Shuriken",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Returning",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]

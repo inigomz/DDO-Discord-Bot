@@ -109,6 +109,19 @@
     ]
   },
   {
+    "name": "Calamitous Bastard Sword",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Bastard_Sword",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
     "name": "Prysuul's Bane",
     "link": "https://ddowiki.com/page/Item:Prysuul%27s_Bane",
     "minLevel": "10",
@@ -173,8 +186,8 @@
     ]
   },
   {
-    "name": "Charoush's Inferno (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Charoush%27s_Inferno_(Level_12)",
+    "name": "Charoush's Inferno (level 12)",
+    "link": "https://ddowiki.com/page/Item:Charoush%27s_Inferno_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "+4 Enhancement Bonus",
@@ -183,8 +196,8 @@
     ]
   },
   {
-    "name": "Charoush's Inferno (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Charoush%27s_Inferno_(Level_13)",
+    "name": "Charoush's Inferno (level 13)",
+    "link": "https://ddowiki.com/page/Item:Charoush%27s_Inferno_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -231,8 +244,8 @@
     ]
   },
   {
-    "name": "First Blood (Level 14)",
-    "link": "https://ddowiki.com/page/Item:First_Blood_(Level_14)",
+    "name": "First Blood (level 14)",
+    "link": "https://ddowiki.com/page/Item:First_Blood_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "+4 Enhancement Bonus",
@@ -242,8 +255,8 @@
     ]
   },
   {
-    "name": "Charoush's Inferno (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Charoush%27s_Inferno_(Level_14)",
+    "name": "Charoush's Inferno (level 14)",
+    "link": "https://ddowiki.com/page/Item:Charoush%27s_Inferno_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -253,8 +266,8 @@
     ]
   },
   {
-    "name": "First Blood (Level 15)",
-    "link": "https://ddowiki.com/page/Item:First_Blood_(Level_15)",
+    "name": "First Blood (level 15)",
+    "link": "https://ddowiki.com/page/Item:First_Blood_(level_15)",
     "minLevel": "15",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -303,8 +316,8 @@
     ]
   },
   {
-    "name": "First Blood (Level 16)",
-    "link": "https://ddowiki.com/page/Item:First_Blood_(Level_16)",
+    "name": "First Blood (level 16)",
+    "link": "https://ddowiki.com/page/Item:First_Blood_(level_16)",
     "minLevel": "16",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -459,8 +472,8 @@
     ]
   },
   {
-    "name": "Charoush's Inferno (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Charoush%27s_Inferno_(Level_23)",
+    "name": "Charoush's Inferno (level 23)",
+    "link": "https://ddowiki.com/page/Item:Charoush%27s_Inferno_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "+6 Enhancement Bonus",
@@ -483,8 +496,8 @@
     ]
   },
   {
-    "name": "Charoush's Inferno (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Charoush%27s_Inferno_(Level_24)",
+    "name": "Charoush's Inferno (level 24)",
+    "link": "https://ddowiki.com/page/Item:Charoush%27s_Inferno_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "+6 Enhancement Bonus",
@@ -493,8 +506,8 @@
     ]
   },
   {
-    "name": "Charoush's Inferno (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Charoush%27s_Inferno_(Level_25)",
+    "name": "Charoush's Inferno (level 25)",
+    "link": "https://ddowiki.com/page/Item:Charoush%27s_Inferno_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "+7 Enhancement Bonus",
@@ -504,8 +517,8 @@
     ]
   },
   {
-    "name": "First Blood (Level 25)",
-    "link": "https://ddowiki.com/page/Item:First_Blood_(Level_25)",
+    "name": "First Blood (level 25)",
+    "link": "https://ddowiki.com/page/Item:First_Blood_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "+7 Enhancement Bonus",
@@ -528,8 +541,8 @@
     ]
   },
   {
-    "name": "First Blood (Level 26)",
-    "link": "https://ddowiki.com/page/Item:First_Blood_(Level_26)",
+    "name": "First Blood (level 26)",
+    "link": "https://ddowiki.com/page/Item:First_Blood_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "+8 Enhancement Bonus",
@@ -548,8 +561,8 @@
     ]
   },
   {
-    "name": "First Blood (Level 27)",
-    "link": "https://ddowiki.com/page/Item:First_Blood_(Level_27)",
+    "name": "First Blood (level 27)",
+    "link": "https://ddowiki.com/page/Item:First_Blood_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "+8 Enhancement Bonus",
@@ -866,6 +879,20 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Bastard Sword",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Bastard_Sword",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]

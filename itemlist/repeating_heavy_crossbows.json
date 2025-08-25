@@ -80,6 +80,19 @@
     ]
   },
   {
+    "name": "Calamitous Repeating Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Repeating_Heavy_Crossbow",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
     "name": "Barovian's Repeating Heavy Crossbow",
     "link": "https://ddowiki.com/page/Item:Barovian%27s_Repeating_Heavy_Crossbow",
     "minLevel": "10",
@@ -156,8 +169,8 @@
     ]
   },
   {
-    "name": "Trapsmith's Crossbow (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Trapsmith%27s_Crossbow_(Level_14)",
+    "name": "Trapsmith's Crossbow (level 14)",
+    "link": "https://ddowiki.com/page/Item:Trapsmith%27s_Crossbow_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Poison IV",
@@ -179,8 +192,8 @@
     ]
   },
   {
-    "name": "Trapsmith's Crossbow (Level 15)",
-    "link": "https://ddowiki.com/page/Item:Trapsmith%27s_Crossbow_(Level_15)",
+    "name": "Trapsmith's Crossbow (level 15)",
+    "link": "https://ddowiki.com/page/Item:Trapsmith%27s_Crossbow_(level_15)",
     "minLevel": "15",
     "enhancements": [
       "Poison V",
@@ -241,8 +254,8 @@
     ]
   },
   {
-    "name": "Trapsmith's Crossbow (Level 16)",
-    "link": "https://ddowiki.com/page/Item:Trapsmith%27s_Crossbow_(Level_16)",
+    "name": "Trapsmith's Crossbow (level 16)",
+    "link": "https://ddowiki.com/page/Item:Trapsmith%27s_Crossbow_(level_16)",
     "minLevel": "16",
     "enhancements": [
       "Poison V",
@@ -368,8 +381,8 @@
     ]
   },
   {
-    "name": "Trapsmith's Crossbow (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Trapsmith%27s_Crossbow_(Level_25)",
+    "name": "Trapsmith's Crossbow (level 25)",
+    "link": "https://ddowiki.com/page/Item:Trapsmith%27s_Crossbow_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Poison VII",
@@ -378,8 +391,8 @@
     ]
   },
   {
-    "name": "Trapsmith's Crossbow (Level 26)",
-    "link": "https://ddowiki.com/page/Item:Trapsmith%27s_Crossbow_(Level_26)",
+    "name": "Trapsmith's Crossbow (level 26)",
+    "link": "https://ddowiki.com/page/Item:Trapsmith%27s_Crossbow_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "Poison VIII",
@@ -397,8 +410,8 @@
     ]
   },
   {
-    "name": "Trapsmith's Crossbow (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Trapsmith%27s_Crossbow_(Level_27)",
+    "name": "Trapsmith's Crossbow (level 27)",
+    "link": "https://ddowiki.com/page/Item:Trapsmith%27s_Crossbow_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "Poison VIII",
@@ -726,6 +739,20 @@
       "Sparkscale",
       "Legendary Armor-Piercing - 5%",
       "Sealed in Mist",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Repeating Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Repeating_Heavy_Crossbow",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]

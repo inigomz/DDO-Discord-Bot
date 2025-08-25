@@ -346,6 +346,20 @@
     ]
   },
   {
+    "name": "Downcast Gambeson",
+    "link": "https://ddowiki.com/page/Item:Downcast_Gambeson",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Competence Elemental Resistance - 5",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Lamordia: Miserable Slot (Accessory): Empty",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
     "name": "Dragoncraft Breastplate",
     "link": "https://ddowiki.com/page/Item:Dragoncraft_Breastplate",
     "minLevel": "10",
@@ -745,6 +759,22 @@
     ]
   },
   {
+    "name": "Gravekeeper's Gambeson",
+    "link": "https://ddowiki.com/page/Item:Gravekeeper%27s_Gambeson",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Natural Armor +5",
+      "Good Luck  +2",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Lamordia: Miserable Slot (Accessory): Empty",
+      "Lamordia: Woeful Slot (Accessory): Empty",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
     "name": "Hardened Hide Armor",
     "link": "https://ddowiki.com/page/Item:Hardened_Hide_Armor",
     "minLevel": "17",
@@ -758,8 +788,8 @@
     ]
   },
   {
-    "name": "Hero's Breastplate (Level 16)",
-    "link": "https://ddowiki.com/page/Item:Hero%27s_Breastplate_(Level_16)",
+    "name": "Hero's Breastplate (level 16)",
+    "link": "https://ddowiki.com/page/Item:Hero%27s_Breastplate_(level_16)",
     "minLevel": "16",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -767,8 +797,8 @@
     ]
   },
   {
-    "name": "Hero's Breastplate (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Hero%27s_Breastplate_(Level_27)",
+    "name": "Hero's Breastplate (level 27)",
+    "link": "https://ddowiki.com/page/Item:Hero%27s_Breastplate_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "+10 Enhancement Bonus",
@@ -832,8 +862,22 @@
     ]
   },
   {
-    "name": "Leaves of the Forest (Level 15)",
-    "link": "https://ddowiki.com/page/Item:Leaves_of_the_Forest_(Level_15)",
+    "name": "Lamordian Gambeson",
+    "link": "https://ddowiki.com/page/Item:Lamordian_Gambeson",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Natural Armor +5",
+      "Good Luck  +2",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Leaves of the Forest (level 15)",
+    "link": "https://ddowiki.com/page/Item:Leaves_of_the_Forest_(level_15)",
     "minLevel": "15",
     "enhancements": [
       "+4 Enhancement Bonus",
@@ -843,8 +887,8 @@
     ]
   },
   {
-    "name": "Leaves of the Forest (Level 16)",
-    "link": "https://ddowiki.com/page/Item:Leaves_of_the_Forest_(Level_16)",
+    "name": "Leaves of the Forest (level 16)",
+    "link": "https://ddowiki.com/page/Item:Leaves_of_the_Forest_(level_16)",
     "minLevel": "16",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -854,8 +898,8 @@
     ]
   },
   {
-    "name": "Leaves of the Forest (Level 17)",
-    "link": "https://ddowiki.com/page/Item:Leaves_of_the_Forest_(Level_17)",
+    "name": "Leaves of the Forest (level 17)",
+    "link": "https://ddowiki.com/page/Item:Leaves_of_the_Forest_(level_17)",
     "minLevel": "17",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -865,8 +909,8 @@
     ]
   },
   {
-    "name": "Leaves of the Forest (Level 22)",
-    "link": "https://ddowiki.com/page/Item:Leaves_of_the_Forest_(Level_22)",
+    "name": "Leaves of the Forest (level 22)",
+    "link": "https://ddowiki.com/page/Item:Leaves_of_the_Forest_(level_22)",
     "minLevel": "22",
     "enhancements": [
       "+6 Enhancement Bonus",
@@ -878,8 +922,8 @@
     ]
   },
   {
-    "name": "Leaves of the Forest (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Leaves_of_the_Forest_(Level_23)",
+    "name": "Leaves of the Forest (level 23)",
+    "link": "https://ddowiki.com/page/Item:Leaves_of_the_Forest_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "+6 Enhancement Bonus",
@@ -891,8 +935,8 @@
     ]
   },
   {
-    "name": "Leaves of the Forest (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Leaves_of_the_Forest_(Level_24)",
+    "name": "Leaves of the Forest (level 24)",
+    "link": "https://ddowiki.com/page/Item:Leaves_of_the_Forest_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "+7 Enhancement Bonus",
@@ -902,6 +946,12 @@
       "Exceptional Fortification (+50%)",
       "Insightful Wisdom +3"
     ]
+  },
+  {
+    "name": "Leaves of the Forest",
+    "link": "https://ddowiki.com/page/Item:Leaves_of_the_Forest",
+    "minLevel": "1",
+    "enhancements": []
   },
   {
     "name": "Legendary Armor of Midday",
@@ -990,6 +1040,21 @@
     ]
   },
   {
+    "name": "Legendary Downcast Gambeson",
+    "link": "https://ddowiki.com/page/Item:Legendary_Downcast_Gambeson",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Competence Elemental Resistance - 15",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Lamordia: Miserable Slot (Accessory): Empty",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
     "name": "Legendary Enforcer's Coat",
     "link": "https://ddowiki.com/page/Item:Legendary_Enforcer%27s_Coat",
     "minLevel": "29",
@@ -1001,6 +1066,23 @@
       "False Life +50",
       "Green Augment Slot",
       "Legendary Part of the Family"
+    ]
+  },
+  {
+    "name": "Legendary Gravekeeper's Gambeson",
+    "link": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Gambeson",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Natural Armor +15",
+      "Good Luck  +5",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Lamordia: Miserable Slot (Accessory): Empty",
+      "Lamordia: Woeful Slot (Accessory): Empty",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
     ]
   },
   {
@@ -1030,6 +1112,21 @@
       "Spell Resistance +41",
       "Blue Augment Slot",
       "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Lamordian Gambeson",
+    "link": "https://ddowiki.com/page/Item:Legendary_Lamordian_Gambeson",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lesser Displacement",
+      "Fortification  +159%",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
     ]
   },
   {
@@ -1723,8 +1820,8 @@
     ]
   },
   {
-    "name": "Shadowmail (Level 16)",
-    "link": "https://ddowiki.com/page/Item:Shadowmail_(Level_16)",
+    "name": "Shadowmail (level 16)",
+    "link": "https://ddowiki.com/page/Item:Shadowmail_(level_16)",
     "minLevel": "16",
     "enhancements": [
       "+4 Enhancement Bonus",
@@ -1739,8 +1836,8 @@
     ]
   },
   {
-    "name": "Shadowmail (Level 17)",
-    "link": "https://ddowiki.com/page/Item:Shadowmail_(Level_17)",
+    "name": "Shadowmail (level 17)",
+    "link": "https://ddowiki.com/page/Item:Shadowmail_(level_17)",
     "minLevel": "17",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -1755,8 +1852,8 @@
     ]
   },
   {
-    "name": "Shadowmail (Level 18)",
-    "link": "https://ddowiki.com/page/Item:Shadowmail_(Level_18)",
+    "name": "Shadowmail (level 18)",
+    "link": "https://ddowiki.com/page/Item:Shadowmail_(level_18)",
     "minLevel": "18",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -1771,8 +1868,8 @@
     ]
   },
   {
-    "name": "Shadowmail (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Shadowmail_(Level_23)",
+    "name": "Shadowmail (level 23)",
+    "link": "https://ddowiki.com/page/Item:Shadowmail_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "+6 Enhancement Bonus",
@@ -1787,8 +1884,8 @@
     ]
   },
   {
-    "name": "Shadowmail (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Shadowmail_(Level_24)",
+    "name": "Shadowmail (level 24)",
+    "link": "https://ddowiki.com/page/Item:Shadowmail_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "+7 Enhancement Bonus",
@@ -1803,8 +1900,8 @@
     ]
   },
   {
-    "name": "Shadowmail (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Shadowmail_(Level_25)",
+    "name": "Shadowmail (level 25)",
+    "link": "https://ddowiki.com/page/Item:Shadowmail_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "+7 Enhancement Bonus",

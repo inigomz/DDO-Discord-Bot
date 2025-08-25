@@ -361,6 +361,20 @@
     ]
   },
   {
+    "name": "Downcast Armor",
+    "link": "https://ddowiki.com/page/Item:Downcast_Armor",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Competence Elemental Resistance - 5",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Lamordia: Miserable Slot (Accessory): Empty",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
     "name": "Dragoncraft Plate Armor",
     "link": "https://ddowiki.com/page/Item:Dragoncraft_Plate_Armor",
     "minLevel": "10",
@@ -897,6 +911,22 @@
     ]
   },
   {
+    "name": "Gravekeeper's Armor",
+    "link": "https://ddowiki.com/page/Item:Gravekeeper%27s_Armor",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Natural Armor +5",
+      "Good Luck  +2",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Lamordia: Miserable Slot (Accessory): Empty",
+      "Lamordia: Woeful Slot (Accessory): Empty",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
     "name": "Grudgebearer's Plate",
     "link": "https://ddowiki.com/page/Item:Grudgebearer%27s_Plate",
     "minLevel": "6",
@@ -1061,8 +1091,8 @@
     ]
   },
   {
-    "name": "Hero's Plate (Level 16)",
-    "link": "https://ddowiki.com/page/Item:Hero%27s_Plate_(Level_16)",
+    "name": "Hero's Plate (level 16)",
+    "link": "https://ddowiki.com/page/Item:Hero%27s_Plate_(level_16)",
     "minLevel": "16",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -1070,8 +1100,8 @@
     ]
   },
   {
-    "name": "Hero's Plate (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Hero%27s_Plate_(Level_27)",
+    "name": "Hero's Plate (level 27)",
+    "link": "https://ddowiki.com/page/Item:Hero%27s_Plate_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "+10 Enhancement Bonus",
@@ -1089,6 +1119,20 @@
       "Sheltering +8",
       "DR",
       "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Lamordian Armor",
+    "link": "https://ddowiki.com/page/Item:Lamordian_Armor",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Ghostly",
+      "Fortification  +70%",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
     ]
   },
   {
@@ -1192,6 +1236,21 @@
     ]
   },
   {
+    "name": "Legendary Downcast Armor",
+    "link": "https://ddowiki.com/page/Item:Legendary_Downcast_Armor",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Competence Elemental Resistance - 15",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Lamordia: Miserable Slot (Accessory): Empty",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
     "name": "Legendary Enforcer's Plate",
     "link": "https://ddowiki.com/page/Item:Legendary_Enforcer%27s_Plate",
     "minLevel": "29",
@@ -1274,6 +1333,23 @@
       "Natural Armor +14",
       "Blue Augment Slot",
       "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Gravekeeper's Armor",
+    "link": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Armor",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Natural Armor +15",
+      "Good Luck  +5",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Lamordia: Miserable Slot (Accessory): Empty",
+      "Lamordia: Woeful Slot (Accessory): Empty",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
     ]
   },
   {
@@ -1391,6 +1467,21 @@
       "Spell Resistance +41",
       "Blue Augment Slot",
       "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Lamordian Armor",
+    "link": "https://ddowiki.com/page/Item:Legendary_Lamordian_Armor",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lesser Displacement",
+      "Fortification  +159%",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
     ]
   },
   {
@@ -1578,12 +1669,6 @@
     ]
   },
   {
-    "name": "Mournlode Fullplate (Level 4)",
-    "link": "https://ddowiki.com/page/Item:Mournlode_Fullplate_(Level_4)",
-    "minLevel": "4",
-    "enhancements": []
-  },
-  {
     "name": "Mournlode Fullplate (level 12)",
     "link": "https://ddowiki.com/page/Item:Mournlode_Fullplate_(level_12)",
     "minLevel": "12",
@@ -1593,6 +1678,12 @@
     "name": "Mournlode Fullplate (level 16)",
     "link": "https://ddowiki.com/page/Item:Mournlode_Fullplate_(level_16)",
     "minLevel": "16",
+    "enhancements": []
+  },
+  {
+    "name": "Mournlode Fullplate (level 4)",
+    "link": "https://ddowiki.com/page/Item:Mournlode_Fullplate_(level_4)",
+    "minLevel": "4",
     "enhancements": []
   },
   {

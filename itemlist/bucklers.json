@@ -273,6 +273,18 @@
     ]
   },
   {
+    "name": "Frostforged Buckler",
+    "link": "https://ddowiki.com/page/Item:Frostforged_Buckler",
+    "minLevel": "8",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Insightful Physical Sheltering +8",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
     "name": "Hector's Bracer",
     "link": "https://ddowiki.com/page/Item:Hector%27s_Bracer",
     "minLevel": "21",
@@ -392,6 +404,19 @@
       "Insightful  Diversion +10%",
       "Taint of Evil",
       "Legendary Forbidden Knowledge",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Frostforged Buckler",
+    "link": "https://ddowiki.com/page/Item:Legendary_Frostforged_Buckler",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Insightful Physical Sheltering +18",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
       "Purple Augment Slot",
       "Orange Augment Slot"
     ]

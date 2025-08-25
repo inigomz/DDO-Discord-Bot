@@ -58,6 +58,19 @@
     ]
   },
   {
+    "name": "Calamitous Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Dwarven_Waraxe",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
     "name": "Barovian's Dwarven Waraxe",
     "link": "https://ddowiki.com/page/Item:Barovian%27s_Dwarven_Waraxe",
     "minLevel": "10",
@@ -102,8 +115,8 @@
     ]
   },
   {
-    "name": "The Mountain's Fist (Level 12)",
-    "link": "https://ddowiki.com/page/Item:The_Mountain%27s_Fist_(Level_12)",
+    "name": "The Mountain's Fist (level 12)",
+    "link": "https://ddowiki.com/page/Item:The_Mountain%27s_Fist_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "+3 Enhancement Bonus",
@@ -112,8 +125,8 @@
     ]
   },
   {
-    "name": "The Mountain's Fist (Level 13)",
-    "link": "https://ddowiki.com/page/Item:The_Mountain%27s_Fist_(Level_13)",
+    "name": "The Mountain's Fist (level 13)",
+    "link": "https://ddowiki.com/page/Item:The_Mountain%27s_Fist_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "+4 Enhancement Bonus",
@@ -172,8 +185,8 @@
     ]
   },
   {
-    "name": "The Mountain's Fist (Level 14)",
-    "link": "https://ddowiki.com/page/Item:The_Mountain%27s_Fist_(Level_14)",
+    "name": "The Mountain's Fist (level 14)",
+    "link": "https://ddowiki.com/page/Item:The_Mountain%27s_Fist_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "+4 Enhancement Bonus",
@@ -182,8 +195,8 @@
     ]
   },
   {
-    "name": "Prison Break (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Prison_Break_(Level_14)",
+    "name": "Prison Break (level 14)",
+    "link": "https://ddowiki.com/page/Item:Prison_Break_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "+4 Enhancement Bonus",
@@ -218,8 +231,8 @@
     ]
   },
   {
-    "name": "Prison Break (Level 15)",
-    "link": "https://ddowiki.com/page/Item:Prison_Break_(Level_15)",
+    "name": "Prison Break (level 15)",
+    "link": "https://ddowiki.com/page/Item:Prison_Break_(level_15)",
     "minLevel": "15",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -279,8 +292,8 @@
     ]
   },
   {
-    "name": "Prison Break (Level 16)",
-    "link": "https://ddowiki.com/page/Item:Prison_Break_(Level_16)",
+    "name": "Prison Break (level 16)",
+    "link": "https://ddowiki.com/page/Item:Prison_Break_(level_16)",
     "minLevel": "16",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -391,8 +404,8 @@
     ]
   },
   {
-    "name": "The Mountain's Fist (Level 23)",
-    "link": "https://ddowiki.com/page/Item:The_Mountain%27s_Fist_(Level_23)",
+    "name": "The Mountain's Fist (level 23)",
+    "link": "https://ddowiki.com/page/Item:The_Mountain%27s_Fist_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "+6 Enhancement Bonus",
@@ -402,8 +415,8 @@
     ]
   },
   {
-    "name": "The Mountain's Fist (Level 24)",
-    "link": "https://ddowiki.com/page/Item:The_Mountain%27s_Fist_(Level_24)",
+    "name": "The Mountain's Fist (level 24)",
+    "link": "https://ddowiki.com/page/Item:The_Mountain%27s_Fist_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "+7 Enhancement Bonus",
@@ -413,8 +426,8 @@
     ]
   },
   {
-    "name": "The Mountain's Fist (Level 25)",
-    "link": "https://ddowiki.com/page/Item:The_Mountain%27s_Fist_(Level_25)",
+    "name": "The Mountain's Fist (level 25)",
+    "link": "https://ddowiki.com/page/Item:The_Mountain%27s_Fist_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "+7 Enhancement Bonus",
@@ -424,8 +437,8 @@
     ]
   },
   {
-    "name": "Prison Break (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Prison_Break_(Level_25)",
+    "name": "Prison Break (level 25)",
+    "link": "https://ddowiki.com/page/Item:Prison_Break_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "+6 Enhancement Bonus",
@@ -446,8 +459,8 @@
     ]
   },
   {
-    "name": "Prison Break (Level 26)",
-    "link": "https://ddowiki.com/page/Item:Prison_Break_(Level_26)",
+    "name": "Prison Break (level 26)",
+    "link": "https://ddowiki.com/page/Item:Prison_Break_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "+7 Enhancement Bonus",
@@ -477,8 +490,8 @@
     ]
   },
   {
-    "name": "Prison Break (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Prison_Break_(Level_27)",
+    "name": "Prison Break (level 27)",
+    "link": "https://ddowiki.com/page/Item:Prison_Break_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "+7 Enhancement Bonus",
@@ -773,6 +786,20 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Dwarven_Waraxe",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]

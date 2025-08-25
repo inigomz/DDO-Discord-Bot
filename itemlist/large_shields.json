@@ -248,8 +248,17 @@
     ]
   },
   {
-    "name": "Bulwark of the Storm's Fist (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Bulwark_of_the_Storm%27s_Fist_(Level_12)",
+    "name": "Bulwark of the Storm's Fist (historic)",
+    "link": "https://ddowiki.com/page/Item:Bulwark_of_the_Storm%27s_Fist_(historic)",
+    "minLevel": "12",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Constitution +5"
+    ]
+  },
+  {
+    "name": "Bulwark of the Storm's Fist (level 12)",
+    "link": "https://ddowiki.com/page/Item:Bulwark_of_the_Storm%27s_Fist_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "+4 Enhancement Bonus",
@@ -258,8 +267,8 @@
     ]
   },
   {
-    "name": "Bulwark of the Storm's Fist (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Bulwark_of_the_Storm%27s_Fist_(Level_13)",
+    "name": "Bulwark of the Storm's Fist (level 13)",
+    "link": "https://ddowiki.com/page/Item:Bulwark_of_the_Storm%27s_Fist_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -268,8 +277,8 @@
     ]
   },
   {
-    "name": "Bulwark of the Storm's Fist (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Bulwark_of_the_Storm%27s_Fist_(Level_14)",
+    "name": "Bulwark of the Storm's Fist (level 14)",
+    "link": "https://ddowiki.com/page/Item:Bulwark_of_the_Storm%27s_Fist_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -278,8 +287,8 @@
     ]
   },
   {
-    "name": "Bulwark of the Storm's Fist (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Bulwark_of_the_Storm%27s_Fist_(Level_23)",
+    "name": "Bulwark of the Storm's Fist (level 23)",
+    "link": "https://ddowiki.com/page/Item:Bulwark_of_the_Storm%27s_Fist_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "+6 Enhancement Bonus",
@@ -290,8 +299,8 @@
     ]
   },
   {
-    "name": "Bulwark of the Storm's Fist (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Bulwark_of_the_Storm%27s_Fist_(Level_24)",
+    "name": "Bulwark of the Storm's Fist (level 24)",
+    "link": "https://ddowiki.com/page/Item:Bulwark_of_the_Storm%27s_Fist_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "+7 Enhancement Bonus",
@@ -302,8 +311,8 @@
     ]
   },
   {
-    "name": "Bulwark of the Storm's Fist (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Bulwark_of_the_Storm%27s_Fist_(Level_25)",
+    "name": "Bulwark of the Storm's Fist (level 25)",
+    "link": "https://ddowiki.com/page/Item:Bulwark_of_the_Storm%27s_Fist_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "+7 Enhancement Bonus",
@@ -311,15 +320,6 @@
       "Insightful Constitution +3",
       "Purple Augment Slot",
       "Blue Augment Slot"
-    ]
-  },
-  {
-    "name": "Bulwark of the Storm's Fist (historic)",
-    "link": "https://ddowiki.com/page/Item:Bulwark_of_the_Storm%27s_Fist_(historic)",
-    "minLevel": "12",
-    "enhancements": [
-      "+3 Enhancement Bonus",
-      "Constitution +5"
     ]
   },
   {
@@ -655,6 +655,18 @@
     ]
   },
   {
+    "name": "Frostforged Large Shield",
+    "link": "https://ddowiki.com/page/Item:Frostforged_Large_Shield",
+    "minLevel": "8",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Insightful Physical Sheltering +8",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
     "name": "Giant's Platter",
     "link": "https://ddowiki.com/page/Item:Giant%27s_Platter",
     "minLevel": "14",
@@ -843,6 +855,19 @@
       "Crystal",
       "Purple Augment Slot",
       "Eminence of Summer"
+    ]
+  },
+  {
+    "name": "Legendary Frostforged Large Shield",
+    "link": "https://ddowiki.com/page/Item:Legendary_Frostforged_Large_Shield",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Insightful Physical Sheltering +18",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
     ]
   },
   {

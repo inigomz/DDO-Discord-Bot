@@ -21,17 +21,6 @@
     ]
   },
   {
-    "name": "Linen Handwraps",
-    "link": "https://ddowiki.com/page/Item:Linen_Handwraps",
-    "minLevel": "7",
-    "enhancements": [
-      "Strength +4",
-      "Curse of Clumsiness",
-      "Proof Against Disease +6",
-      "Colorless Augment Slot"
-    ]
-  },
-  {
     "name": "Gloves of the Poet",
     "link": "https://ddowiki.com/page/Item:Gloves_of_the_Poet",
     "minLevel": "None",
@@ -137,15 +126,6 @@
     "minLevel": "None",
     "enhancements": [
       "Spell Penetration I"
-    ]
-  },
-  {
-    "name": "Backstabber's Gloves (historic)",
-    "link": "https://ddowiki.com/page/Item:Backstabber%27s_Gloves_(historic)",
-    "minLevel": "11",
-    "enhancements": [
-      "Bluff +10",
-      "Sneak Attack Bonus +2"
     ]
   },
   {
@@ -401,60 +381,6 @@
     ]
   },
   {
-    "name": "Brawling Gloves (legacy) (level 12)",
-    "link": "https://ddowiki.com/page/Item:Brawling_Gloves_(legacy)_(level_12)",
-    "minLevel": "12",
-    "enhancements": [
-      "Upgradeable - Tier 1",
-      "Strength +4",
-      "Spike-Studded",
-      "Glass Jaw Strike",
-      "Upgradeable - Tier 2",
-      "Sneak Attack Bonus +3",
-      "Upgradeable - Tier 3"
-    ]
-  },
-  {
-    "name": "Brawling Gloves (legacy) (level 16)",
-    "link": "https://ddowiki.com/page/Item:Brawling_Gloves_(legacy)_(level_16)",
-    "minLevel": "16",
-    "enhancements": [
-      "Upgradeable - Tier 1",
-      "Spike-Studded",
-      "Strength +5",
-      "Glass Jaw Strike",
-      "Upgradeable - Tier 2",
-      "Sneak Attack Bonus +4",
-      "Upgradeable - Tier 3"
-    ]
-  },
-  {
-    "name": "Brawling Gloves (legacy) (level 4)",
-    "link": "https://ddowiki.com/page/Item:Brawling_Gloves_(legacy)_(level_4)",
-    "minLevel": "4",
-    "enhancements": [
-      "Upgradeable - Tier 1",
-      "Strength +2",
-      "Spike-Studded",
-      "Upgradeable - Tier 2",
-      "Sneak Attack Bonus +1",
-      "Upgradeable - Tier 3"
-    ]
-  },
-  {
-    "name": "Brawling Gloves (legacy) (level 8)",
-    "link": "https://ddowiki.com/page/Item:Brawling_Gloves_(legacy)_(level_8)",
-    "minLevel": "8",
-    "enhancements": [
-      "Upgradeable - Tier 1",
-      "Strength +3",
-      "Spike-Studded",
-      "Upgradeable - Tier 2",
-      "Sneak Attack Bonus +2",
-      "Upgradeable - Tier 3"
-    ]
-  },
-  {
     "name": "Epic Raven's Talons",
     "link": "https://ddowiki.com/page/Item:Epic_Raven%27s_Talons",
     "minLevel": "20",
@@ -509,21 +435,6 @@
     ]
   },
   {
-    "name": "Epic Brawling Gloves (legacy) (level 20)",
-    "link": "https://ddowiki.com/page/Item:Epic_Brawling_Gloves_(legacy)_(level_20)",
-    "minLevel": "20",
-    "enhancements": [
-      "Upgradeable - Tier 1",
-      "Spike-Studded",
-      "Strength +6",
-      "Glass Jaw Strike",
-      "Sneak Attack Bonus +4",
-      "Upgradeable - Tier 2",
-      "Upgradeable - Tier 3",
-      "Yellow Augment Slot"
-    ]
-  },
-  {
     "name": "Purple Dragon Gauntlets",
     "link": "https://ddowiki.com/page/Item:Purple_Dragon_Gauntlets",
     "minLevel": "20",
@@ -535,8 +446,8 @@
     ]
   },
   {
-    "name": "Nether Grasps (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Nether_Grasps_(Level_23)",
+    "name": "Nether Grasps (level 23)",
+    "link": "https://ddowiki.com/page/Item:Nether_Grasps_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "Diversion 20% (Insight)",
@@ -547,8 +458,8 @@
     ]
   },
   {
-    "name": "Nether Grasps (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Nether_Grasps_(Level_24)",
+    "name": "Nether Grasps (level 24)",
+    "link": "https://ddowiki.com/page/Item:Nether_Grasps_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Diversion 20% (Insight)",
@@ -559,8 +470,8 @@
     ]
   },
   {
-    "name": "Nether Grasps (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Nether_Grasps_(Level_25)",
+    "name": "Nether Grasps (level 25)",
+    "link": "https://ddowiki.com/page/Item:Nether_Grasps_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Diversion 20% (Insight)",
@@ -571,8 +482,8 @@
     ]
   },
   {
-    "name": "Gloves of Forgotten Craft (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Gloves_of_Forgotten_Craft_(Level_25)",
+    "name": "Gloves of Forgotten Craft (level 25)",
+    "link": "https://ddowiki.com/page/Item:Gloves_of_Forgotten_Craft_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Disable Device +20",
@@ -583,8 +494,8 @@
     ]
   },
   {
-    "name": "Backstabber's Gloves (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Backstabber%27s_Gloves_(Level_25)",
+    "name": "Backstabber's Gloves (level 25)",
+    "link": "https://ddowiki.com/page/Item:Backstabber%27s_Gloves_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Bluff +20",
@@ -607,8 +518,8 @@
     ]
   },
   {
-    "name": "Gloves of Forgotten Craft (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Gloves_of_Forgotten_Craft_(Level_14)",
+    "name": "Gloves of Forgotten Craft (level 14)",
+    "link": "https://ddowiki.com/page/Item:Gloves_of_Forgotten_Craft_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Disable Device +15",
@@ -617,8 +528,8 @@
     ]
   },
   {
-    "name": "Gloves of Forgotten Craft (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Gloves_of_Forgotten_Craft_(Level_24)",
+    "name": "Gloves of Forgotten Craft (level 24)",
+    "link": "https://ddowiki.com/page/Item:Gloves_of_Forgotten_Craft_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Disable Device +20",
@@ -629,8 +540,8 @@
     ]
   },
   {
-    "name": "Backstabber's Gloves (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Backstabber%27s_Gloves_(Level_23)",
+    "name": "Backstabber's Gloves (level 23)",
+    "link": "https://ddowiki.com/page/Item:Backstabber%27s_Gloves_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "Bluff +17",
@@ -641,8 +552,8 @@
     ]
   },
   {
-    "name": "Backstabber's Gloves (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Backstabber%27s_Gloves_(Level_12)",
+    "name": "Backstabber's Gloves (level 12)",
+    "link": "https://ddowiki.com/page/Item:Backstabber%27s_Gloves_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "Bluff +10",
@@ -651,18 +562,8 @@
     ]
   },
   {
-    "name": "Gloves of Forgotten Craft (historic)",
-    "link": "https://ddowiki.com/page/Item:Gloves_of_Forgotten_Craft_(historic)",
-    "minLevel": "13",
-    "enhancements": [
-      "Disable Device +13",
-      "Weapon Focus",
-      "Dexterity +3"
-    ]
-  },
-  {
-    "name": "Gloves of Forgotten Craft (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Gloves_of_Forgotten_Craft_(Level_23)",
+    "name": "Gloves of Forgotten Craft (level 23)",
+    "link": "https://ddowiki.com/page/Item:Gloves_of_Forgotten_Craft_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "Disable Device +17",
@@ -673,8 +574,8 @@
     ]
   },
   {
-    "name": "Backstabber's Gloves (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Backstabber%27s_Gloves_(Level_24)",
+    "name": "Backstabber's Gloves (level 24)",
+    "link": "https://ddowiki.com/page/Item:Backstabber%27s_Gloves_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Bluff +20",
@@ -685,8 +586,8 @@
     ]
   },
   {
-    "name": "Backstabber's Gloves (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Backstabber%27s_Gloves_(Level_14)",
+    "name": "Backstabber's Gloves (level 14)",
+    "link": "https://ddowiki.com/page/Item:Backstabber%27s_Gloves_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Bluff +13",
@@ -696,8 +597,8 @@
     ]
   },
   {
-    "name": "Gloves of Forgotten Craft (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Gloves_of_Forgotten_Craft_(Level_13)",
+    "name": "Gloves of Forgotten Craft (level 13)",
+    "link": "https://ddowiki.com/page/Item:Gloves_of_Forgotten_Craft_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "Disable Device +15",
@@ -706,8 +607,8 @@
     ]
   },
   {
-    "name": "Gloves of Forgotten Craft (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Gloves_of_Forgotten_Craft_(Level_12)",
+    "name": "Gloves of Forgotten Craft (level 12)",
+    "link": "https://ddowiki.com/page/Item:Gloves_of_Forgotten_Craft_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "Disable Device +13",
@@ -725,8 +626,8 @@
     ]
   },
   {
-    "name": "Backstabber's Gloves (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Backstabber%27s_Gloves_(Level_13)",
+    "name": "Backstabber's Gloves (level 13)",
+    "link": "https://ddowiki.com/page/Item:Backstabber%27s_Gloves_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "Bluff +11",
@@ -744,16 +645,16 @@
     ]
   },
   {
-    "name": "Guardian's Gauntlets (Level 15)",
-    "link": "https://ddowiki.com/page/Item:Guardian%27s_Gauntlets_(Level_15)",
+    "name": "Guardian's Gauntlets (level 15)",
+    "link": "https://ddowiki.com/page/Item:Guardian%27s_Gauntlets_(level_15)",
     "minLevel": "15",
     "enhancements": [
       "Constitution +8"
     ]
   },
   {
-    "name": "Skirmisher's Gloves (Level 15)",
-    "link": "https://ddowiki.com/page/Item:Skirmisher%27s_Gloves_(Level_15)",
+    "name": "Skirmisher's Gloves (level 15)",
+    "link": "https://ddowiki.com/page/Item:Skirmisher%27s_Gloves_(level_15)",
     "minLevel": "15",
     "enhancements": [
       "Strength +8"
@@ -778,8 +679,8 @@
     ]
   },
   {
-    "name": "Sage's Gloves (Level 17)",
-    "link": "https://ddowiki.com/page/Item:Sage%27s_Gloves_(Level_17)",
+    "name": "Sage's Gloves (level 17)",
+    "link": "https://ddowiki.com/page/Item:Sage%27s_Gloves_(level_17)",
     "minLevel": "17",
     "enhancements": [
       "Healing Lore V",
@@ -787,8 +688,8 @@
     ]
   },
   {
-    "name": "Guardian's Gauntlets (Level 26)",
-    "link": "https://ddowiki.com/page/Item:Guardian%27s_Gauntlets_(Level_26)",
+    "name": "Guardian's Gauntlets (level 26)",
+    "link": "https://ddowiki.com/page/Item:Guardian%27s_Gauntlets_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "Constitution +9",
@@ -796,8 +697,8 @@
     ]
   },
   {
-    "name": "Sage's Gloves (Level 26)",
-    "link": "https://ddowiki.com/page/Item:Sage%27s_Gloves_(Level_26)",
+    "name": "Sage's Gloves (level 26)",
+    "link": "https://ddowiki.com/page/Item:Sage%27s_Gloves_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "Healing Lore IX",
@@ -805,8 +706,8 @@
     ]
   },
   {
-    "name": "Skirmisher's Gloves (Level 26)",
-    "link": "https://ddowiki.com/page/Item:Skirmisher%27s_Gloves_(Level_26)",
+    "name": "Skirmisher's Gloves (level 26)",
+    "link": "https://ddowiki.com/page/Item:Skirmisher%27s_Gloves_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "Strength +9",
@@ -814,8 +715,8 @@
     ]
   },
   {
-    "name": "Gloves of the Master Illusionist (Level 26)",
-    "link": "https://ddowiki.com/page/Item:Gloves_of_the_Master_Illusionist_(Level_26)",
+    "name": "Gloves of the Master Illusionist (level 26)",
+    "link": "https://ddowiki.com/page/Item:Gloves_of_the_Master_Illusionist_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "Intelligence +10",
@@ -824,8 +725,8 @@
     ]
   },
   {
-    "name": "Gloves of the Master Illusionist (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Gloves_of_the_Master_Illusionist_(Level_27)",
+    "name": "Gloves of the Master Illusionist (level 27)",
+    "link": "https://ddowiki.com/page/Item:Gloves_of_the_Master_Illusionist_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "Intelligence +10",
@@ -834,8 +735,8 @@
     ]
   },
   {
-    "name": "Gloves of the Master Illusionist (Level 28)",
-    "link": "https://ddowiki.com/page/Item:Gloves_of_the_Master_Illusionist_(Level_28)",
+    "name": "Gloves of the Master Illusionist (level 28)",
+    "link": "https://ddowiki.com/page/Item:Gloves_of_the_Master_Illusionist_(level_28)",
     "minLevel": "28",
     "enhancements": [
       "Intelligence +11",
@@ -844,8 +745,8 @@
     ]
   },
   {
-    "name": "Nether Grasps (Level 18)",
-    "link": "https://ddowiki.com/page/Item:Nether_Grasps_(Level_18)",
+    "name": "Nether Grasps (level 18)",
+    "link": "https://ddowiki.com/page/Item:Nether_Grasps_(level_18)",
     "minLevel": "18",
     "enhancements": [
       "Diversion 20% (Insight)",
@@ -855,8 +756,8 @@
     ]
   },
   {
-    "name": "Gloves of the Master Illusionist (Level 19)",
-    "link": "https://ddowiki.com/page/Item:Gloves_of_the_Master_Illusionist_(Level_19)",
+    "name": "Gloves of the Master Illusionist (level 19)",
+    "link": "https://ddowiki.com/page/Item:Gloves_of_the_Master_Illusionist_(level_19)",
     "minLevel": "19",
     "enhancements": [
       "Intelligence +8",
@@ -865,8 +766,8 @@
     ]
   },
   {
-    "name": "Nether Grasps (Level 16)",
-    "link": "https://ddowiki.com/page/Item:Nether_Grasps_(Level_16)",
+    "name": "Nether Grasps (level 16)",
+    "link": "https://ddowiki.com/page/Item:Nether_Grasps_(level_16)",
     "minLevel": "16",
     "enhancements": [
       "Diversion 20% (Insight)",
@@ -915,23 +816,8 @@
     ]
   },
   {
-    "name": "Epic Brawling Gloves (legacy) (level 24)",
-    "link": "https://ddowiki.com/page/Item:Epic_Brawling_Gloves_(legacy)_(level_24)",
-    "minLevel": "24",
-    "enhancements": [
-      "Upgradeable - Tier 1",
-      "Spike-Studded",
-      "Strength +7",
-      "Glass Jaw Strike",
-      "Sneak Attack Bonus +4",
-      "Upgradeable - Tier 2",
-      "Upgradeable - Tier 3",
-      "Yellow Augment Slot"
-    ]
-  },
-  {
-    "name": "Nether Grasps (Level 17)",
-    "link": "https://ddowiki.com/page/Item:Nether_Grasps_(Level_17)",
+    "name": "Nether Grasps (level 17)",
+    "link": "https://ddowiki.com/page/Item:Nether_Grasps_(level_17)",
     "minLevel": "17",
     "enhancements": [
       "Diversion 20% (Insight)",
@@ -1961,8 +1847,8 @@
     ]
   },
   {
-    "name": "Gloves of the Master Illusionist (Level 18)",
-    "link": "https://ddowiki.com/page/Item:Gloves_of_the_Master_Illusionist_(Level_18)",
+    "name": "Gloves of the Master Illusionist (level 18)",
+    "link": "https://ddowiki.com/page/Item:Gloves_of_the_Master_Illusionist_(level_18)",
     "minLevel": "18",
     "enhancements": [
       "Intelligence +7",
@@ -1971,8 +1857,8 @@
     ]
   },
   {
-    "name": "Gloves of the Master Illusionist (Level 17)",
-    "link": "https://ddowiki.com/page/Item:Gloves_of_the_Master_Illusionist_(Level_17)",
+    "name": "Gloves of the Master Illusionist (level 17)",
+    "link": "https://ddowiki.com/page/Item:Gloves_of_the_Master_Illusionist_(level_17)",
     "minLevel": "17",
     "enhancements": [
       "Intelligence +7",
@@ -2780,6 +2666,33 @@
     "enhancements": [
       "Spellcraft +14",
       "Fortification  +81%"
+    ]
+  },
+  {
+    "name": "Legendary Grick-skin Gauntlets",
+    "link": "https://ddowiki.com/page/Item:Legendary_Grick-skin_Gauntlets",
+    "minLevel": "34",
+    "enhancements": [
+      "Reflex Save +13",
+      "Quality Magical Sheltering +9",
+      "Lamordia: Melancholic Slot (Accessory): Empty",
+      "Lamordia: Dolorous Slot (Accessory): Empty",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Moon Augment Slot"
+    ]
+  },
+  {
+    "name": "Grick-skin Gauntlets",
+    "link": "https://ddowiki.com/page/Item:Grick-skin_Gauntlets",
+    "minLevel": "8",
+    "enhancements": [
+      "Reflex Save +5",
+      "Quality Magical Sheltering +2",
+      "Lamordia: Melancholic Slot (Accessory): Empty",
+      "Lamordia: Dolorous Slot (Accessory): Empty",
+      "Blue Augment Slot",
+      "Moon Augment Slot"
     ]
   }
 ]

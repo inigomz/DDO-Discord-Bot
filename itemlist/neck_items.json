@@ -129,14 +129,6 @@
     ]
   },
   {
-    "name": "Jorgundal's Collar (historic)",
-    "link": "https://ddowiki.com/page/Item:Jorgundal%27s_Collar_(historic)",
-    "minLevel": "13",
-    "enhancements": [
-      "Melee Alacrity 10%"
-    ]
-  },
-  {
     "name": "Noxious Embers",
     "link": "https://ddowiki.com/page/Item:Noxious_Embers",
     "minLevel": "13",
@@ -399,15 +391,6 @@
     ]
   },
   {
-    "name": "Death's Locket (historic)",
-    "link": "https://ddowiki.com/page/Item:Death%27s_Locket_(historic)",
-    "minLevel": "11",
-    "enhancements": [
-      "Cause Fear",
-      "Deathblock"
-    ]
-  },
-  {
     "name": "Draconic Necklace",
     "link": "https://ddowiki.com/page/Item:Draconic_Necklace",
     "minLevel": "18",
@@ -493,15 +476,6 @@
       "Yellow Augment Slot",
       "Colorless Augment Slot",
       "The Desert's Starless Nights"
-    ]
-  },
-  {
-    "name": "Iron Beads (historic)",
-    "link": "https://ddowiki.com/page/Item:Iron_Beads_(historic)",
-    "minLevel": "11",
-    "enhancements": [
-      "Magnetism +72",
-      "Lightning Lore III"
     ]
   },
   {
@@ -1029,8 +1003,8 @@
     ]
   },
   {
-    "name": "Jorgundal's Collar (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Jorgundal%27s_Collar_(Level_25)",
+    "name": "Jorgundal's Collar (level 25)",
+    "link": "https://ddowiki.com/page/Item:Jorgundal%27s_Collar_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Melee Alacrity 15%",
@@ -1040,8 +1014,8 @@
     ]
   },
   {
-    "name": "Iron Beads (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Iron_Beads_(Level_25)",
+    "name": "Iron Beads (level 25)",
+    "link": "https://ddowiki.com/page/Item:Iron_Beads_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Magnetism +120",
@@ -1051,8 +1025,8 @@
     ]
   },
   {
-    "name": "Death's Locket (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Death%27s_Locket_(Level_25)",
+    "name": "Death's Locket (level 25)",
+    "link": "https://ddowiki.com/page/Item:Death%27s_Locket_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Deathblock",
@@ -1073,8 +1047,8 @@
     ]
   },
   {
-    "name": "Jorgundal's Collar (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Jorgundal%27s_Collar_(Level_24)",
+    "name": "Jorgundal's Collar (level 24)",
+    "link": "https://ddowiki.com/page/Item:Jorgundal%27s_Collar_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Melee Alacrity 14%",
@@ -1084,8 +1058,8 @@
     ]
   },
   {
-    "name": "Iron Beads (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Iron_Beads_(Level_24)",
+    "name": "Iron Beads (level 24)",
+    "link": "https://ddowiki.com/page/Item:Iron_Beads_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Magnetism +114",
@@ -1094,8 +1068,8 @@
     ]
   },
   {
-    "name": "Iron Beads (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Iron_Beads_(Level_23)",
+    "name": "Iron Beads (level 23)",
+    "link": "https://ddowiki.com/page/Item:Iron_Beads_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "Magnetism +108",
@@ -1104,8 +1078,8 @@
     ]
   },
   {
-    "name": "Iron Beads (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Iron_Beads_(Level_14)",
+    "name": "Iron Beads (level 14)",
+    "link": "https://ddowiki.com/page/Item:Iron_Beads_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Magnetism +72",
@@ -1114,8 +1088,8 @@
     ]
   },
   {
-    "name": "Iron Beads (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Iron_Beads_(Level_13)",
+    "name": "Iron Beads (level 13)",
+    "link": "https://ddowiki.com/page/Item:Iron_Beads_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "Magnetism +72",
@@ -1124,8 +1098,8 @@
     ]
   },
   {
-    "name": "Iron Beads (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Iron_Beads_(Level_12)",
+    "name": "Iron Beads (level 12)",
+    "link": "https://ddowiki.com/page/Item:Iron_Beads_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "Magnetism +66",
@@ -1134,8 +1108,8 @@
     ]
   },
   {
-    "name": "Death's Locket (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Death%27s_Locket_(Level_14)",
+    "name": "Death's Locket (level 14)",
+    "link": "https://ddowiki.com/page/Item:Death%27s_Locket_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Deathblock",
@@ -1144,8 +1118,8 @@
     ]
   },
   {
-    "name": "Jorgundal's Collar (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Jorgundal%27s_Collar_(Level_23)",
+    "name": "Jorgundal's Collar (level 23)",
+    "link": "https://ddowiki.com/page/Item:Jorgundal%27s_Collar_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "Melee Alacrity 13%",
@@ -1154,8 +1128,8 @@
     ]
   },
   {
-    "name": "Death's Locket (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Death%27s_Locket_(Level_23)",
+    "name": "Death's Locket (level 23)",
+    "link": "https://ddowiki.com/page/Item:Death%27s_Locket_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "Deathblock",
@@ -1164,8 +1138,8 @@
     ]
   },
   {
-    "name": "Death's Locket (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Death%27s_Locket_(Level_24)",
+    "name": "Death's Locket (level 24)",
+    "link": "https://ddowiki.com/page/Item:Death%27s_Locket_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Deathblock",
@@ -1175,8 +1149,8 @@
     ]
   },
   {
-    "name": "Jorgundal's Collar (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Jorgundal%27s_Collar_(Level_14)",
+    "name": "Jorgundal's Collar (level 14)",
+    "link": "https://ddowiki.com/page/Item:Jorgundal%27s_Collar_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Melee Alacrity 12%",
@@ -1185,8 +1159,8 @@
     ]
   },
   {
-    "name": "Death's Locket (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Death%27s_Locket_(Level_12)",
+    "name": "Death's Locket (level 12)",
+    "link": "https://ddowiki.com/page/Item:Death%27s_Locket_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "Deathblock",
@@ -1194,8 +1168,8 @@
     ]
   },
   {
-    "name": "Jorgundal's Collar (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Jorgundal%27s_Collar_(Level_13)",
+    "name": "Jorgundal's Collar (level 13)",
+    "link": "https://ddowiki.com/page/Item:Jorgundal%27s_Collar_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "Melee Alacrity 11%",
@@ -1204,8 +1178,8 @@
     ]
   },
   {
-    "name": "Jorgundal's Collar (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Jorgundal%27s_Collar_(Level_12)",
+    "name": "Jorgundal's Collar (level 12)",
+    "link": "https://ddowiki.com/page/Item:Jorgundal%27s_Collar_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "Melee Alacrity 10%",
@@ -1213,8 +1187,8 @@
     ]
   },
   {
-    "name": "Death's Locket (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Death%27s_Locket_(Level_13)",
+    "name": "Death's Locket (level 13)",
+    "link": "https://ddowiki.com/page/Item:Death%27s_Locket_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "Deathblock",
@@ -1258,8 +1232,8 @@
     ]
   },
   {
-    "name": "Stolen Necklace (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Stolen_Necklace_(Level_25)",
+    "name": "Stolen Necklace (level 25)",
+    "link": "https://ddowiki.com/page/Item:Stolen_Necklace_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Charisma +8",
@@ -1281,16 +1255,16 @@
     ]
   },
   {
-    "name": "Guardian's Locket (Level 15)",
-    "link": "https://ddowiki.com/page/Item:Guardian%27s_Locket_(Level_15)",
+    "name": "Guardian's Locket (level 15)",
+    "link": "https://ddowiki.com/page/Item:Guardian%27s_Locket_(level_15)",
     "minLevel": "15",
     "enhancements": [
       "Natural Armor +8"
     ]
   },
   {
-    "name": "Guardian's Locket (Level 26)",
-    "link": "https://ddowiki.com/page/Item:Guardian%27s_Locket_(Level_26)",
+    "name": "Guardian's Locket (level 26)",
+    "link": "https://ddowiki.com/page/Item:Guardian%27s_Locket_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "Natural Armor +9",
@@ -1298,8 +1272,8 @@
     ]
   },
   {
-    "name": "Sage's Locket (Level 26)",
-    "link": "https://ddowiki.com/page/Item:Sage%27s_Locket_(Level_26)",
+    "name": "Sage's Locket (level 26)",
+    "link": "https://ddowiki.com/page/Item:Sage%27s_Locket_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "Evocation Focus V",
@@ -1307,8 +1281,8 @@
     ]
   },
   {
-    "name": "Skirmisher's Locket (Level 26)",
-    "link": "https://ddowiki.com/page/Item:Skirmisher%27s_Locket_(Level_26)",
+    "name": "Skirmisher's Locket (level 26)",
+    "link": "https://ddowiki.com/page/Item:Skirmisher%27s_Locket_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "Dodge +9%",
@@ -1316,8 +1290,8 @@
     ]
   },
   {
-    "name": "Stolen Necklace (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Stolen_Necklace_(Level_14)",
+    "name": "Stolen Necklace (level 14)",
+    "link": "https://ddowiki.com/page/Item:Stolen_Necklace_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Charisma +6",
@@ -1339,8 +1313,8 @@
     ]
   },
   {
-    "name": "Stolen Necklace (Level 16)",
-    "link": "https://ddowiki.com/page/Item:Stolen_Necklace_(Level_16)",
+    "name": "Stolen Necklace (level 16)",
+    "link": "https://ddowiki.com/page/Item:Stolen_Necklace_(level_16)",
     "minLevel": "16",
     "enhancements": [
       "Charisma +7",
@@ -1362,8 +1336,8 @@
     ]
   },
   {
-    "name": "Stolen Necklace (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Stolen_Necklace_(Level_27)",
+    "name": "Stolen Necklace (level 27)",
+    "link": "https://ddowiki.com/page/Item:Stolen_Necklace_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "Charisma +10",
@@ -1385,8 +1359,8 @@
     ]
   },
   {
-    "name": "Stolen Necklace (Level 26)",
-    "link": "https://ddowiki.com/page/Item:Stolen_Necklace_(Level_26)",
+    "name": "Stolen Necklace (level 26)",
+    "link": "https://ddowiki.com/page/Item:Stolen_Necklace_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "Charisma +9",
@@ -1408,16 +1382,16 @@
     ]
   },
   {
-    "name": "Sage's Locket (Level 15)",
-    "link": "https://ddowiki.com/page/Item:Sage%27s_Locket_(Level_15)",
+    "name": "Sage's Locket (level 15)",
+    "link": "https://ddowiki.com/page/Item:Sage%27s_Locket_(level_15)",
     "minLevel": "15",
     "enhancements": [
       "Evocation Focus IV"
     ]
   },
   {
-    "name": "Skirmisher's Locket (Level 15)",
-    "link": "https://ddowiki.com/page/Item:Skirmisher%27s_Locket_(Level_15)",
+    "name": "Skirmisher's Locket (level 15)",
+    "link": "https://ddowiki.com/page/Item:Skirmisher%27s_Locket_(level_15)",
     "minLevel": "15",
     "enhancements": [
       "Dodge +8%"
@@ -1459,8 +1433,8 @@
     ]
   },
   {
-    "name": "Stolen Necklace (Level 15)",
-    "link": "https://ddowiki.com/page/Item:Stolen_Necklace_(Level_15)",
+    "name": "Stolen Necklace (level 15)",
+    "link": "https://ddowiki.com/page/Item:Stolen_Necklace_(level_15)",
     "minLevel": "15",
     "enhancements": [
       "Charisma +6",
@@ -1556,18 +1530,6 @@
       "Greater False Life",
       "Greater Heroism",
       "Natural Armor +6",
-      "Green Augment Slot"
-    ]
-  },
-  {
-    "name": "Mythic Vim and Vigor",
-    "link": "https://ddowiki.com/page/Item:Mythic_Vim_and_Vigor",
-    "minLevel": "26",
-    "enhancements": [
-      "Strength +11",
-      "Epic False Life",
-      "Greater Heroism",
-      "Natural Armor +10",
       "Green Augment Slot"
     ]
   },
@@ -2019,8 +1981,8 @@
     ]
   },
   {
-    "name": "Necklace of Glib Tongue (Level 28)",
-    "link": "https://ddowiki.com/page/Item:Necklace_of_Glib_Tongue_(Level_28)",
+    "name": "Necklace of Glib Tongue (level 28)",
+    "link": "https://ddowiki.com/page/Item:Necklace_of_Glib_Tongue_(level_28)",
     "minLevel": "28",
     "enhancements": [
       "Exceptional Alluring Skills Bonus",
@@ -2031,8 +1993,8 @@
     ]
   },
   {
-    "name": "Necklace of Glib Tongue (Level 4)",
-    "link": "https://ddowiki.com/page/Item:Necklace_of_Glib_Tongue_(Level_4)",
+    "name": "Necklace of Glib Tongue (level 4)",
+    "link": "https://ddowiki.com/page/Item:Necklace_of_Glib_Tongue_(level_4)",
     "minLevel": "4",
     "enhancements": [
       "Exceptional Alluring Skills Bonus",
@@ -2043,8 +2005,8 @@
     ]
   },
   {
-    "name": "Necklace of Glib Tongue (Level 8)",
-    "link": "https://ddowiki.com/page/Item:Necklace_of_Glib_Tongue_(Level_8)",
+    "name": "Necklace of Glib Tongue (level 8)",
+    "link": "https://ddowiki.com/page/Item:Necklace_of_Glib_Tongue_(level_8)",
     "minLevel": "8",
     "enhancements": [
       "Exceptional Alluring Skills Bonus",
@@ -2055,8 +2017,8 @@
     ]
   },
   {
-    "name": "Necklace of Glib Tongue (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Necklace_of_Glib_Tongue_(Level_12)",
+    "name": "Necklace of Glib Tongue (level 12)",
+    "link": "https://ddowiki.com/page/Item:Necklace_of_Glib_Tongue_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "Exceptional Alluring Skills Bonus",
@@ -2067,8 +2029,8 @@
     ]
   },
   {
-    "name": "Necklace of Glib Tongue (Level 16)",
-    "link": "https://ddowiki.com/page/Item:Necklace_of_Glib_Tongue_(Level_16)",
+    "name": "Necklace of Glib Tongue (level 16)",
+    "link": "https://ddowiki.com/page/Item:Necklace_of_Glib_Tongue_(level_16)",
     "minLevel": "16",
     "enhancements": [
       "Exceptional Alluring Skills Bonus",
@@ -2079,8 +2041,8 @@
     ]
   },
   {
-    "name": "Necklace of Glib Tongue (Level 20)",
-    "link": "https://ddowiki.com/page/Item:Necklace_of_Glib_Tongue_(Level_20)",
+    "name": "Necklace of Glib Tongue (level 20)",
+    "link": "https://ddowiki.com/page/Item:Necklace_of_Glib_Tongue_(level_20)",
     "minLevel": "20",
     "enhancements": [
       "Exceptional Alluring Skills Bonus",
@@ -2091,8 +2053,8 @@
     ]
   },
   {
-    "name": "Necklace of Glib Tongue (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Necklace_of_Glib_Tongue_(Level_24)",
+    "name": "Necklace of Glib Tongue (level 24)",
+    "link": "https://ddowiki.com/page/Item:Necklace_of_Glib_Tongue_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Exceptional Alluring Skills Bonus",
@@ -3801,6 +3763,33 @@
       "Magical Sheltering +15",
       "Exceptional Healing Amplification +20",
       "Profane Negative Amplification +1"
+    ]
+  },
+  {
+    "name": "Legendary Baron Aubrecker's Family Amulet",
+    "link": "https://ddowiki.com/page/Item:Legendary_Baron_Aubrecker%27s_Family_Amulet",
+    "minLevel": "34",
+    "enhancements": [
+      "Power in Pact +3",
+      "Spell Focus Mastery +5",
+      "Lamordia: Melancholic Slot (Accessory): Empty",
+      "Lamordia: Dolorous Slot (Accessory): Empty",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Moon Augment Slot"
+    ]
+  },
+  {
+    "name": "Baron Aubrecker's Family Amulet",
+    "link": "https://ddowiki.com/page/Item:Baron_Aubrecker%27s_Family_Amulet",
+    "minLevel": "8",
+    "enhancements": [
+      "Power in Pact +1",
+      "Spell Focus Mastery +2",
+      "Lamordia: Melancholic Slot (Accessory): Empty",
+      "Lamordia: Dolorous Slot (Accessory): Empty",
+      "Blue Augment Slot",
+      "Moon Augment Slot"
     ]
   }
 ]

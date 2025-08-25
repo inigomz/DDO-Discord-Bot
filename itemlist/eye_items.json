@@ -173,15 +173,6 @@
     ]
   },
   {
-    "name": "Dream Visor (historic)",
-    "link": "https://ddowiki.com/page/Item:Dream_Visor_(historic)",
-    "minLevel": "11",
-    "enhancements": [
-      "Spot +13",
-      "Search -7"
-    ]
-  },
-  {
     "name": "Eyes of Charming",
     "link": "https://ddowiki.com/page/Item:Eyes_of_Charming",
     "minLevel": "5",
@@ -228,16 +219,6 @@
       "Shield",
       "Lesser False Life",
       "Green Augment Slot"
-    ]
-  },
-  {
-    "name": "Intricate Field Optics (historic)",
-    "link": "https://ddowiki.com/page/Item:Intricate_Field_Optics_(historic)",
-    "minLevel": "13",
-    "enhancements": [
-      "Spot +13",
-      "Secret Door Detection",
-      "Wisdom +2"
     ]
   },
   {
@@ -467,8 +448,8 @@
     ]
   },
   {
-    "name": "Intricate Field Optics (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Intricate_Field_Optics_(Level_25)",
+    "name": "Intricate Field Optics (level 25)",
+    "link": "https://ddowiki.com/page/Item:Intricate_Field_Optics_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Spot +20",
@@ -484,8 +465,8 @@
     ]
   },
   {
-    "name": "Dream Visor (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Dream_Visor_(Level_25)",
+    "name": "Dream Visor (level 25)",
+    "link": "https://ddowiki.com/page/Item:Dream_Visor_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Dream Vision +5",
@@ -504,8 +485,8 @@
     ]
   },
   {
-    "name": "Intricate Field Optics (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Intricate_Field_Optics_(Level_24)",
+    "name": "Intricate Field Optics (level 24)",
+    "link": "https://ddowiki.com/page/Item:Intricate_Field_Optics_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Spot +20",
@@ -521,8 +502,8 @@
     ]
   },
   {
-    "name": "Dream Visor (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Dream_Visor_(Level_24)",
+    "name": "Dream Visor (level 24)",
+    "link": "https://ddowiki.com/page/Item:Dream_Visor_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Dream Vision +4",
@@ -531,8 +512,8 @@
     ]
   },
   {
-    "name": "Dream Visor (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Dream_Visor_(Level_23)",
+    "name": "Dream Visor (level 23)",
+    "link": "https://ddowiki.com/page/Item:Dream_Visor_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "Dream Vision +3",
@@ -541,8 +522,8 @@
     ]
   },
   {
-    "name": "Dream Visor (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Dream_Visor_(Level_14)",
+    "name": "Dream Visor (level 14)",
+    "link": "https://ddowiki.com/page/Item:Dream_Visor_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Dream Vision +2",
@@ -551,8 +532,8 @@
     ]
   },
   {
-    "name": "Dream Visor (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Dream_Visor_(Level_12)",
+    "name": "Dream Visor (level 12)",
+    "link": "https://ddowiki.com/page/Item:Dream_Visor_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "Dream Vision +1",
@@ -561,8 +542,8 @@
     ]
   },
   {
-    "name": "Intricate Field Optics (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Intricate_Field_Optics_(Level_23)",
+    "name": "Intricate Field Optics (level 23)",
+    "link": "https://ddowiki.com/page/Item:Intricate_Field_Optics_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "Spot +17",
@@ -578,8 +559,8 @@
     ]
   },
   {
-    "name": "Dream Visor (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Dream_Visor_(Level_13)",
+    "name": "Dream Visor (level 13)",
+    "link": "https://ddowiki.com/page/Item:Dream_Visor_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "Dream Vision +1",
@@ -588,8 +569,8 @@
     ]
   },
   {
-    "name": "Intricate Field Optics (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Intricate_Field_Optics_(Level_14)",
+    "name": "Intricate Field Optics (level 14)",
+    "link": "https://ddowiki.com/page/Item:Intricate_Field_Optics_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Spot +15",
@@ -599,8 +580,8 @@
     ]
   },
   {
-    "name": "Intricate Field Optics (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Intricate_Field_Optics_(Level_13)",
+    "name": "Intricate Field Optics (level 13)",
+    "link": "https://ddowiki.com/page/Item:Intricate_Field_Optics_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "Spot +15",
@@ -609,8 +590,8 @@
     ]
   },
   {
-    "name": "Intricate Field Optics (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Intricate_Field_Optics_(Level_12)",
+    "name": "Intricate Field Optics (level 12)",
+    "link": "https://ddowiki.com/page/Item:Intricate_Field_Optics_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "Spot +13",
@@ -655,8 +636,8 @@
     ]
   },
   {
-    "name": "Guardian's Glasses (Level 19)",
-    "link": "https://ddowiki.com/page/Item:Guardian%27s_Glasses_(Level_19)",
+    "name": "Guardian's Glasses (level 19)",
+    "link": "https://ddowiki.com/page/Item:Guardian%27s_Glasses_(level_19)",
     "minLevel": "19",
     "enhancements": [
       "Vitality +35",
@@ -664,8 +645,8 @@
     ]
   },
   {
-    "name": "Guardian's Glasses (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Guardian%27s_Glasses_(Level_27)",
+    "name": "Guardian's Glasses (level 27)",
+    "link": "https://ddowiki.com/page/Item:Guardian%27s_Glasses_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "Vitality +40",
@@ -674,8 +655,8 @@
     ]
   },
   {
-    "name": "Sage's Spectacles (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Sage%27s_Spectacles_(Level_27)",
+    "name": "Sage's Spectacles (level 27)",
+    "link": "https://ddowiki.com/page/Item:Sage%27s_Spectacles_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "Intelligence +9",
@@ -685,8 +666,8 @@
     ]
   },
   {
-    "name": "Skirmisher's Lenses (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Skirmisher%27s_Lenses_(Level_27)",
+    "name": "Skirmisher's Lenses (level 27)",
+    "link": "https://ddowiki.com/page/Item:Skirmisher%27s_Lenses_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "True Seeing",
@@ -695,8 +676,8 @@
     ]
   },
   {
-    "name": "Shadowsight (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Shadowsight_(Level_25)",
+    "name": "Shadowsight (level 25)",
+    "link": "https://ddowiki.com/page/Item:Shadowsight_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Ethereal",
@@ -706,8 +687,8 @@
     ]
   },
   {
-    "name": "Shadowsight (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Shadowsight_(Level_27)",
+    "name": "Shadowsight (level 27)",
+    "link": "https://ddowiki.com/page/Item:Shadowsight_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "Ethereal",
@@ -717,8 +698,8 @@
     ]
   },
   {
-    "name": "Shadowsight (Level 26)",
-    "link": "https://ddowiki.com/page/Item:Shadowsight_(Level_26)",
+    "name": "Shadowsight (level 26)",
+    "link": "https://ddowiki.com/page/Item:Shadowsight_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "Ethereal",
@@ -728,8 +709,8 @@
     ]
   },
   {
-    "name": "Shadowsight (Level 16)",
-    "link": "https://ddowiki.com/page/Item:Shadowsight_(Level_16)",
+    "name": "Shadowsight (level 16)",
+    "link": "https://ddowiki.com/page/Item:Shadowsight_(level_16)",
     "minLevel": "16",
     "enhancements": [
       "Ethereal",
@@ -739,8 +720,8 @@
     ]
   },
   {
-    "name": "Shadowsight (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Shadowsight_(Level_14)",
+    "name": "Shadowsight (level 14)",
+    "link": "https://ddowiki.com/page/Item:Shadowsight_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Ethereal",
@@ -750,8 +731,8 @@
     ]
   },
   {
-    "name": "Sage's Spectacles (Level 15)",
-    "link": "https://ddowiki.com/page/Item:Sage%27s_Spectacles_(Level_15)",
+    "name": "Sage's Spectacles (level 15)",
+    "link": "https://ddowiki.com/page/Item:Sage%27s_Spectacles_(level_15)",
     "minLevel": "15",
     "enhancements": [
       "Intelligence +8",
@@ -759,8 +740,8 @@
     ]
   },
   {
-    "name": "Skirmisher's Lenses (Level 19)",
-    "link": "https://ddowiki.com/page/Item:Skirmisher%27s_Lenses_(Level_19)",
+    "name": "Skirmisher's Lenses (level 19)",
+    "link": "https://ddowiki.com/page/Item:Skirmisher%27s_Lenses_(level_19)",
     "minLevel": "19",
     "enhancements": [
       "True Seeing",
@@ -768,8 +749,8 @@
     ]
   },
   {
-    "name": "Shadowsight (Level 15)",
-    "link": "https://ddowiki.com/page/Item:Shadowsight_(Level_15)",
+    "name": "Shadowsight (level 15)",
+    "link": "https://ddowiki.com/page/Item:Shadowsight_(level_15)",
     "minLevel": "15",
     "enhancements": [
       "Ethereal",
@@ -2341,6 +2322,35 @@
     "enhancements": [
       "Efficient Metamagic - Maximize II",
       "Blindness Immunity"
+    ]
+  },
+  {
+    "name": "Mining Lenses",
+    "link": "https://ddowiki.com/page/Item:Mining_Lenses",
+    "minLevel": "8",
+    "enhancements": [
+      "Legendary Accuracy +1",
+      "Quality Physical Sheltering +2",
+      "Lamordia: Melancholic Slot (Accessory): Empty",
+      "Lamordia: Dolorous Slot (Accessory): Empty",
+      "Yellow Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Mining Lenses",
+    "link": "https://ddowiki.com/page/Item:Legendary_Mining_Lenses",
+    "minLevel": "34",
+    "enhancements": [
+      "Legendary Accuracy +5",
+      "Quality Physical Sheltering +9",
+      "Lamordia: Melancholic Slot (Accessory): Empty",
+      "Lamordia: Dolorous Slot (Accessory): Empty",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot",
+      "Ability",
+      "Skills"
     ]
   }
 ]

@@ -281,15 +281,6 @@
     ]
   },
   {
-    "name": "Helm of the Black Dragon (historic)",
-    "link": "https://ddowiki.com/page/Item:Helm_of_the_Black_Dragon_(historic)",
-    "minLevel": "13",
-    "enhancements": [
-      "Black Dragon Bolt",
-      "Dexterity +5"
-    ]
-  },
-  {
     "name": "Helm of the Flame",
     "link": "https://ddowiki.com/page/Item:Helm_of_the_Flame",
     "minLevel": "7",
@@ -300,38 +291,11 @@
     ]
   },
   {
-    "name": "Helm of the Blue Dragon (historic)",
-    "link": "https://ddowiki.com/page/Item:Helm_of_the_Blue_Dragon_(historic)",
-    "minLevel": "13",
-    "enhancements": [
-      "Lightning Bolt",
-      "Intelligence +5"
-    ]
-  },
-  {
-    "name": "Helm of the White Dragon (historic)",
-    "link": "https://ddowiki.com/page/Item:Helm_of_the_White_Dragon_(historic)",
-    "minLevel": "13",
-    "enhancements": [
-      "Cone of Cold",
-      "Strength +5"
-    ]
-  },
-  {
     "name": "Minor Circlet of Blasting",
     "link": "https://ddowiki.com/page/Item:Minor_Circlet_of_Blasting",
     "minLevel": "5",
     "enhancements": [
       "Searing Light"
-    ]
-  },
-  {
-    "name": "Rusted Crown",
-    "link": "https://ddowiki.com/page/Item:Rusted_Crown",
-    "minLevel": "5",
-    "enhancements": [
-      "Natural Armor +1",
-      "Unraveling Enchantments"
     ]
   },
   {
@@ -620,15 +584,6 @@
     ]
   },
   {
-    "name": "Battleworn Helm",
-    "link": "https://ddowiki.com/page/Item:Battleworn_Helm",
-    "minLevel": "None",
-    "enhancements": [
-      "Concentration +3",
-      "Fortification  +25%"
-    ]
-  },
-  {
     "name": "Epic Mask of Tragedy",
     "link": "https://ddowiki.com/page/Item:Epic_Mask_of_Tragedy",
     "minLevel": "20",
@@ -868,8 +823,8 @@
     ]
   },
   {
-    "name": "Helm of the Black Dragon (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Helm_of_the_Black_Dragon_(Level_25)",
+    "name": "Helm of the Black Dragon (level 25)",
+    "link": "https://ddowiki.com/page/Item:Helm_of_the_Black_Dragon_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Draconic Ferocity",
@@ -884,8 +839,8 @@
     ]
   },
   {
-    "name": "Helm of the Blue Dragon (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Helm_of_the_Blue_Dragon_(Level_25)",
+    "name": "Helm of the Blue Dragon (level 25)",
+    "link": "https://ddowiki.com/page/Item:Helm_of_the_Blue_Dragon_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Draconic Mind",
@@ -900,8 +855,8 @@
     ]
   },
   {
-    "name": "Helm of the White Dragon (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Helm_of_the_White_Dragon_(Level_25)",
+    "name": "Helm of the White Dragon (level 25)",
+    "link": "https://ddowiki.com/page/Item:Helm_of_the_White_Dragon_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Draconic Resilience",
@@ -916,8 +871,8 @@
     ]
   },
   {
-    "name": "Helm of the Blue Dragon (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Helm_of_the_Blue_Dragon_(Level_24)",
+    "name": "Helm of the Blue Dragon (level 24)",
+    "link": "https://ddowiki.com/page/Item:Helm_of_the_Blue_Dragon_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Draconic Mind",
@@ -932,8 +887,8 @@
     ]
   },
   {
-    "name": "Helm of the White Dragon (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Helm_of_the_White_Dragon_(Level_13)",
+    "name": "Helm of the White Dragon (level 13)",
+    "link": "https://ddowiki.com/page/Item:Helm_of_the_White_Dragon_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "Strength +6",
@@ -941,8 +896,8 @@
     ]
   },
   {
-    "name": "Helm of the Black Dragon (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Helm_of_the_Black_Dragon_(Level_12)",
+    "name": "Helm of the Black Dragon (level 12)",
+    "link": "https://ddowiki.com/page/Item:Helm_of_the_Black_Dragon_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "Dexterity +5",
@@ -950,8 +905,8 @@
     ]
   },
   {
-    "name": "Helm of the Blue Dragon (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Helm_of_the_Blue_Dragon_(Level_13)",
+    "name": "Helm of the Blue Dragon (level 13)",
+    "link": "https://ddowiki.com/page/Item:Helm_of_the_Blue_Dragon_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "Intelligence +6",
@@ -959,8 +914,8 @@
     ]
   },
   {
-    "name": "Helm of the Black Dragon (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Helm_of_the_Black_Dragon_(Level_13)",
+    "name": "Helm of the Black Dragon (level 13)",
+    "link": "https://ddowiki.com/page/Item:Helm_of_the_Black_Dragon_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "Dexterity +6",
@@ -968,8 +923,8 @@
     ]
   },
   {
-    "name": "Helm of the White Dragon (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Helm_of_the_White_Dragon_(Level_12)",
+    "name": "Helm of the White Dragon (level 12)",
+    "link": "https://ddowiki.com/page/Item:Helm_of_the_White_Dragon_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "Strength +5",
@@ -977,8 +932,8 @@
     ]
   },
   {
-    "name": "Helm of the Black Dragon (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Helm_of_the_Black_Dragon_(Level_24)",
+    "name": "Helm of the Black Dragon (level 24)",
+    "link": "https://ddowiki.com/page/Item:Helm_of_the_Black_Dragon_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Draconic Ferocity",
@@ -993,8 +948,8 @@
     ]
   },
   {
-    "name": "Helm of the White Dragon (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Helm_of_the_White_Dragon_(Level_24)",
+    "name": "Helm of the White Dragon (level 24)",
+    "link": "https://ddowiki.com/page/Item:Helm_of_the_White_Dragon_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Draconic Resilience",
@@ -1009,8 +964,8 @@
     ]
   },
   {
-    "name": "Helm of the Blue Dragon (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Helm_of_the_Blue_Dragon_(Level_14)",
+    "name": "Helm of the Blue Dragon (level 14)",
+    "link": "https://ddowiki.com/page/Item:Helm_of_the_Blue_Dragon_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Intelligence +6",
@@ -1018,8 +973,8 @@
     ]
   },
   {
-    "name": "Helm of the Black Dragon (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Helm_of_the_Black_Dragon_(Level_14)",
+    "name": "Helm of the Black Dragon (level 14)",
+    "link": "https://ddowiki.com/page/Item:Helm_of_the_Black_Dragon_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Dexterity +6",
@@ -1027,8 +982,8 @@
     ]
   },
   {
-    "name": "Helm of the Black Dragon (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Helm_of_the_Black_Dragon_(Level_23)",
+    "name": "Helm of the Black Dragon (level 23)",
+    "link": "https://ddowiki.com/page/Item:Helm_of_the_Black_Dragon_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "Draconic Ferocity",
@@ -1043,8 +998,8 @@
     ]
   },
   {
-    "name": "Helm of the Blue Dragon (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Helm_of_the_Blue_Dragon_(Level_12)",
+    "name": "Helm of the Blue Dragon (level 12)",
+    "link": "https://ddowiki.com/page/Item:Helm_of_the_Blue_Dragon_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "Intelligence +5",
@@ -1052,8 +1007,8 @@
     ]
   },
   {
-    "name": "Helm of the White Dragon (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Helm_of_the_White_Dragon_(Level_23)",
+    "name": "Helm of the White Dragon (level 23)",
+    "link": "https://ddowiki.com/page/Item:Helm_of_the_White_Dragon_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "Draconic Resilience",
@@ -1068,8 +1023,8 @@
     ]
   },
   {
-    "name": "Helm of the Blue Dragon (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Helm_of_the_Blue_Dragon_(Level_23)",
+    "name": "Helm of the Blue Dragon (level 23)",
+    "link": "https://ddowiki.com/page/Item:Helm_of_the_Blue_Dragon_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "Draconic Mind",
@@ -1095,8 +1050,8 @@
     ]
   },
   {
-    "name": "Helm of the White Dragon (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Helm_of_the_White_Dragon_(Level_14)",
+    "name": "Helm of the White Dragon (level 14)",
+    "link": "https://ddowiki.com/page/Item:Helm_of_the_White_Dragon_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Strength +6",
@@ -1140,8 +1095,8 @@
     ]
   },
   {
-    "name": "Guardian's Helmet (Level 19)",
-    "link": "https://ddowiki.com/page/Item:Guardian%27s_Helmet_(Level_19)",
+    "name": "Guardian's Helmet (level 19)",
+    "link": "https://ddowiki.com/page/Item:Guardian%27s_Helmet_(level_19)",
     "minLevel": "19",
     "enhancements": [
       "Fortification  +100%",
@@ -1149,8 +1104,8 @@
     ]
   },
   {
-    "name": "Sage's Skullcap (Level 19)",
-    "link": "https://ddowiki.com/page/Item:Sage%27s_Skullcap_(Level_19)",
+    "name": "Sage's Skullcap (level 19)",
+    "link": "https://ddowiki.com/page/Item:Sage%27s_Skullcap_(level_19)",
     "minLevel": "19",
     "enhancements": [
       "Fortification  +100%",
@@ -1159,8 +1114,8 @@
     ]
   },
   {
-    "name": "Skirmisher's Circlet (Level 19)",
-    "link": "https://ddowiki.com/page/Item:Skirmisher%27s_Circlet_(Level_19)",
+    "name": "Skirmisher's Circlet (level 19)",
+    "link": "https://ddowiki.com/page/Item:Skirmisher%27s_Circlet_(level_19)",
     "minLevel": "19",
     "enhancements": [
       "Fortification  +100%",
@@ -1168,8 +1123,8 @@
     ]
   },
   {
-    "name": "Guardian's Helmet (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Guardian%27s_Helmet_(Level_27)",
+    "name": "Guardian's Helmet (level 27)",
+    "link": "https://ddowiki.com/page/Item:Guardian%27s_Helmet_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "Fortification  +120%",
@@ -1178,8 +1133,8 @@
     ]
   },
   {
-    "name": "Sage's Skullcap (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Sage%27s_Skullcap_(Level_27)",
+    "name": "Sage's Skullcap (level 27)",
+    "link": "https://ddowiki.com/page/Item:Sage%27s_Skullcap_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "Fortification  +110%",
@@ -1189,8 +1144,8 @@
     ]
   },
   {
-    "name": "Skirmisher's Circlet (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Skirmisher%27s_Circlet_(Level_27)",
+    "name": "Skirmisher's Circlet (level 27)",
+    "link": "https://ddowiki.com/page/Item:Skirmisher%27s_Circlet_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "Fortification  +120%",
@@ -1199,8 +1154,8 @@
     ]
   },
   {
-    "name": "Shade's Hood (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Shade%27s_Hood_(Level_14)",
+    "name": "Shade's Hood (level 14)",
+    "link": "https://ddowiki.com/page/Item:Shade%27s_Hood_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Shadow Walk",
@@ -1214,8 +1169,8 @@
     ]
   },
   {
-    "name": "Shade's Hood (Level 15)",
-    "link": "https://ddowiki.com/page/Item:Shade%27s_Hood_(Level_15)",
+    "name": "Shade's Hood (level 15)",
+    "link": "https://ddowiki.com/page/Item:Shade%27s_Hood_(level_15)",
     "minLevel": "15",
     "enhancements": [
       "Shadow Walk",
@@ -1230,8 +1185,8 @@
     ]
   },
   {
-    "name": "Shade's Hood (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Shade%27s_Hood_(Level_25)",
+    "name": "Shade's Hood (level 25)",
+    "link": "https://ddowiki.com/page/Item:Shade%27s_Hood_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Shadow Walk",
@@ -1246,8 +1201,8 @@
     ]
   },
   {
-    "name": "Shade's Hood (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Shade%27s_Hood_(Level_27)",
+    "name": "Shade's Hood (level 27)",
+    "link": "https://ddowiki.com/page/Item:Shade%27s_Hood_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "Shadow Walk",
@@ -1262,8 +1217,8 @@
     ]
   },
   {
-    "name": "Shade's Hood (Level 16)",
-    "link": "https://ddowiki.com/page/Item:Shade%27s_Hood_(Level_16)",
+    "name": "Shade's Hood (level 16)",
+    "link": "https://ddowiki.com/page/Item:Shade%27s_Hood_(level_16)",
     "minLevel": "16",
     "enhancements": [
       "Shadow Walk",
@@ -1278,8 +1233,8 @@
     ]
   },
   {
-    "name": "Shade's Hood (Level 26)",
-    "link": "https://ddowiki.com/page/Item:Shade%27s_Hood_(Level_26)",
+    "name": "Shade's Hood (level 26)",
+    "link": "https://ddowiki.com/page/Item:Shade%27s_Hood_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "Shadow Walk",
@@ -1327,39 +1282,6 @@
       "Vitality +40",
       "Insightful Fortitude Save +2",
       "Sheltering +24",
-      "Unbreakable Adamancy",
-      "Upgradeable - Primary Augment",
-      "Upgradeable - Secondary Augment"
-    ]
-  },
-  {
-    "name": "Mythic Emerald Gaze",
-    "link": "https://ddowiki.com/page/Item:Mythic_Emerald_Gaze",
-    "minLevel": "27",
-    "enhancements": [
-      "Intimidate +20",
-      "Shatter +12",
-      "Insightful Will Save +2",
-      "Immunity to Fear",
-      "Strength +11",
-      "Tendon Slice 8%",
-      "Insightful Combat Mastery +5",
-      "Insightful Strength +4",
-      "Upgradeable - Primary Augment",
-      "Upgradeable - Secondary Augment"
-    ]
-  },
-  {
-    "name": "Mythic Seraphim",
-    "link": "https://ddowiki.com/page/Item:Mythic_Seraphim",
-    "minLevel": "27",
-    "enhancements": [
-      "Sacred",
-      "Hallowed +2",
-      "Insightful Faith",
-      "Devotion +144",
-      "Deathblock VIII",
-      "Silver Flame",
       "Unbreakable Adamancy",
       "Upgradeable - Primary Augment",
       "Upgradeable - Secondary Augment"
@@ -1420,37 +1342,6 @@
       "Intelligence +13",
       "Wisdom +13",
       "Charisma +13",
-      "Upgradeable - Primary Augment",
-      "Upgradeable - Secondary Augment"
-    ]
-  },
-  {
-    "name": "Mythic Minos Legens",
-    "link": "https://ddowiki.com/page/Item:Mythic_Minos_Legens",
-    "minLevel": "27",
-    "enhancements": [
-      "Fortification  +150%",
-      "Vitality +45",
-      "Insightful Fortitude Save +2",
-      "Sheltering +30",
-      "Insightful Constitution +3",
-      "Unbreakable Adamancy",
-      "Upgradeable - Primary Augment",
-      "Upgradeable - Secondary Augment"
-    ]
-  },
-  {
-    "name": "Mythic Muffled Veneer",
-    "link": "https://ddowiki.com/page/Item:Mythic_Muffled_Veneer",
-    "minLevel": "27",
-    "enhancements": [
-      "Shadow Walk",
-      "Move Silently +20",
-      "Hide +20",
-      "Spot +20",
-      "Insightful Reflex Save +2",
-      "Assassinate +4",
-      "Doublestrike 9%",
       "Upgradeable - Primary Augment",
       "Upgradeable - Secondary Augment"
     ]
@@ -3645,6 +3536,60 @@
     "enhancements": [
       "Insightful Charisma +2",
       "Speed V"
+    ]
+  },
+  {
+    "name": "Downcast Cowl",
+    "link": "https://ddowiki.com/page/Item:Downcast_Cowl",
+    "minLevel": "8",
+    "enhancements": [
+      "Insightful Sonic Absorption +4%",
+      "Insightful Physical Sheltering +5",
+      "Lamordia: Melancholic Slot (Accessory): Empty",
+      "Lamordia: Dolorous Slot (Accessory): Empty",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Gravekeeper's Cowl",
+    "link": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Cowl",
+    "minLevel": "34",
+    "enhancements": [
+      "Sonic Resistance +57",
+      "Insightful Physical Sheltering +18",
+      "Lamordia: Melancholic Slot (Accessory): Empty",
+      "Lamordia: Dolorous Slot (Accessory): Empty",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Gravekeeper's Cowl",
+    "link": "https://ddowiki.com/page/Item:Gravekeeper%27s_Cowl",
+    "minLevel": "8",
+    "enhancements": [
+      "Sonic Resistance +18",
+      "Insightful Physical Sheltering +5",
+      "Lamordia: Melancholic Slot (Accessory): Empty",
+      "Lamordia: Dolorous Slot (Accessory): Empty",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Lamordian Cowl",
+    "link": "https://ddowiki.com/page/Item:Legendary_Lamordian_Cowl",
+    "minLevel": "34",
+    "enhancements": [
+      "Insightful Charisma +7",
+      "Insightful Physical Sheltering +18",
+      "Lamordia: Melancholic Slot (Accessory): Empty",
+      "Lamordia: Dolorous Slot (Accessory): Empty",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
     ]
   }
 ]

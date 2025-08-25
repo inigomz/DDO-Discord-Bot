@@ -30,8 +30,8 @@
     ]
   },
   {
-    "name": "Mournlode Light Mace (Level 4)",
-    "link": "https://ddowiki.com/page/Item:Mournlode_Light_Mace_(Level_4)",
+    "name": "Mournlode Light Mace (level 4)",
+    "link": "https://ddowiki.com/page/Item:Mournlode_Light_Mace_(level_4)",
     "minLevel": "4",
     "enhancements": [
       "+1 Enhancement Bonus",
@@ -100,6 +100,19 @@
     ]
   },
   {
+    "name": "Calamitous Light Mace",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Light_Mace",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
     "name": "Adoryn's Malice",
     "link": "https://ddowiki.com/page/Item:Adoryn%27s_Malice",
     "minLevel": "10",
@@ -155,8 +168,8 @@
     ]
   },
   {
-    "name": "Skullsmasher (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Skullsmasher_(Level_12)",
+    "name": "Skullsmasher (level 12)",
+    "link": "https://ddowiki.com/page/Item:Skullsmasher_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -196,8 +209,8 @@
     ]
   },
   {
-    "name": "Skullsmasher (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Skullsmasher_(Level_13)",
+    "name": "Skullsmasher (level 13)",
+    "link": "https://ddowiki.com/page/Item:Skullsmasher_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -233,8 +246,8 @@
     ]
   },
   {
-    "name": "Skullsmasher (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Skullsmasher_(Level_14)",
+    "name": "Skullsmasher (level 14)",
+    "link": "https://ddowiki.com/page/Item:Skullsmasher_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -373,8 +386,8 @@
     ]
   },
   {
-    "name": "Skullsmasher (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Skullsmasher_(Level_23)",
+    "name": "Skullsmasher (level 23)",
+    "link": "https://ddowiki.com/page/Item:Skullsmasher_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "+6 Enhancement Bonus",
@@ -384,8 +397,8 @@
     ]
   },
   {
-    "name": "Skullsmasher (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Skullsmasher_(Level_24)",
+    "name": "Skullsmasher (level 24)",
+    "link": "https://ddowiki.com/page/Item:Skullsmasher_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "+7 Enhancement Bonus",
@@ -409,8 +422,8 @@
     ]
   },
   {
-    "name": "Skullsmasher (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Skullsmasher_(Level_25)",
+    "name": "Skullsmasher (level 25)",
+    "link": "https://ddowiki.com/page/Item:Skullsmasher_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "+7 Enhancement Bonus",
@@ -657,6 +670,20 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Light Mace",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Light_Mace",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]

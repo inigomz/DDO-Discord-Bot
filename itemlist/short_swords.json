@@ -99,8 +99,8 @@
     ]
   },
   {
-    "name": "Mournlode Shortsword (Level 4)",
-    "link": "https://ddowiki.com/page/Item:Mournlode_Shortsword_(Level_4)",
+    "name": "Mournlode Shortsword (level 4)",
+    "link": "https://ddowiki.com/page/Item:Mournlode_Shortsword_(level_4)",
     "minLevel": "4",
     "enhancements": [
       "+1 Enhancement Bonus",
@@ -239,6 +239,19 @@
       "Doublestrike 6%",
       "Hide +10",
       "Move Silently +10",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Calamitous Shortsword",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Shortsword",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
       "Red Augment Slot"
     ]
   },
@@ -536,8 +549,8 @@
     ]
   },
   {
-    "name": "Elemental Fury (Level 17)",
-    "link": "https://ddowiki.com/page/Item:Elemental_Fury_(Level_17)",
+    "name": "Elemental Fury (level 17)",
+    "link": "https://ddowiki.com/page/Item:Elemental_Fury_(level_17)",
     "minLevel": "17",
     "enhancements": [
       "+2 Enhancement Bonus",
@@ -548,8 +561,8 @@
     ]
   },
   {
-    "name": "Elemental Fury (Level 18)",
-    "link": "https://ddowiki.com/page/Item:Elemental_Fury_(Level_18)",
+    "name": "Elemental Fury (level 18)",
+    "link": "https://ddowiki.com/page/Item:Elemental_Fury_(level_18)",
     "minLevel": "18",
     "enhancements": [
       "+2 Enhancement Bonus",
@@ -586,8 +599,8 @@
     ]
   },
   {
-    "name": "Elemental Fury (Level 19)",
-    "link": "https://ddowiki.com/page/Item:Elemental_Fury_(Level_19)",
+    "name": "Elemental Fury (level 19)",
+    "link": "https://ddowiki.com/page/Item:Elemental_Fury_(level_19)",
     "minLevel": "19",
     "enhancements": [
       "+2 Enhancement Bonus",
@@ -814,8 +827,8 @@
     ]
   },
   {
-    "name": "Elemental Fury (Level 26)",
-    "link": "https://ddowiki.com/page/Item:Elemental_Fury_(Level_26)",
+    "name": "Elemental Fury (level 26)",
+    "link": "https://ddowiki.com/page/Item:Elemental_Fury_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -835,8 +848,8 @@
     ]
   },
   {
-    "name": "Elemental Fury (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Elemental_Fury_(Level_27)",
+    "name": "Elemental Fury (level 27)",
+    "link": "https://ddowiki.com/page/Item:Elemental_Fury_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -860,8 +873,8 @@
     ]
   },
   {
-    "name": "Elemental Fury (Level 28)",
-    "link": "https://ddowiki.com/page/Item:Elemental_Fury_(Level_28)",
+    "name": "Elemental Fury (level 28)",
+    "link": "https://ddowiki.com/page/Item:Elemental_Fury_(level_28)",
     "minLevel": "28",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -1293,6 +1306,20 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Shortsword",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Shortsword",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]

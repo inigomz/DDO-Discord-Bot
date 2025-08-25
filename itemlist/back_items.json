@@ -279,30 +279,12 @@
     ]
   },
   {
-    "name": "Ghost-Waking Cloak (historic)",
-    "link": "https://ddowiki.com/page/Item:Ghost-Waking_Cloak_(historic)",
-    "minLevel": "11",
-    "enhancements": [
-      "Charisma +3",
-      "Resistance +3"
-    ]
-  },
-  {
     "name": "Mantle of Stria",
     "link": "https://ddowiki.com/page/Item:Mantle_of_Stria",
     "minLevel": "5",
     "enhancements": [
       "Axeblock III",
       "Yellow Augment Slot"
-    ]
-  },
-  {
-    "name": "Mantle of the Dragonfriend (historic)",
-    "link": "https://ddowiki.com/page/Item:Mantle_of_the_Dragonfriend_(historic)",
-    "minLevel": "13",
-    "enhancements": [
-      "Charisma +5",
-      "Diplomacy +7"
     ]
   },
   {
@@ -651,8 +633,8 @@
     ]
   },
   {
-    "name": "Mantle of the Dragonfriend (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Mantle_of_the_Dragonfriend_(Level_25)",
+    "name": "Mantle of the Dragonfriend (level 25)",
+    "link": "https://ddowiki.com/page/Item:Mantle_of_the_Dragonfriend_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Charisma +8",
@@ -662,8 +644,8 @@
     ]
   },
   {
-    "name": "Ghost-Waking Cloak (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Ghost-Waking_Cloak_(Level_25)",
+    "name": "Ghost-Waking Cloak (level 25)",
+    "link": "https://ddowiki.com/page/Item:Ghost-Waking_Cloak_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Charisma +8",
@@ -673,8 +655,8 @@
     ]
   },
   {
-    "name": "Jeweled Cloak (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Jeweled_Cloak_(Level_25)",
+    "name": "Jeweled Cloak (level 25)",
+    "link": "https://ddowiki.com/page/Item:Jeweled_Cloak_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Competence Elemental Resistance - 10",
@@ -695,8 +677,8 @@
     ]
   },
   {
-    "name": "Jeweled Cloak (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Jeweled_Cloak_(Level_24)",
+    "name": "Jeweled Cloak (level 24)",
+    "link": "https://ddowiki.com/page/Item:Jeweled_Cloak_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Competence Elemental Resistance - 10",
@@ -706,8 +688,8 @@
     ]
   },
   {
-    "name": "Mantle of the Dragonfriend (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Mantle_of_the_Dragonfriend_(Level_12)",
+    "name": "Mantle of the Dragonfriend (level 12)",
+    "link": "https://ddowiki.com/page/Item:Mantle_of_the_Dragonfriend_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "Charisma +5",
@@ -716,8 +698,8 @@
     ]
   },
   {
-    "name": "Ghost-Waking Cloak (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Ghost-Waking_Cloak_(Level_24)",
+    "name": "Ghost-Waking Cloak (level 24)",
+    "link": "https://ddowiki.com/page/Item:Ghost-Waking_Cloak_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Charisma +8",
@@ -727,8 +709,8 @@
     ]
   },
   {
-    "name": "Ghost-Waking Cloak (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Ghost-Waking_Cloak_(Level_23)",
+    "name": "Ghost-Waking Cloak (level 23)",
+    "link": "https://ddowiki.com/page/Item:Ghost-Waking_Cloak_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "Charisma +8",
@@ -738,8 +720,8 @@
     ]
   },
   {
-    "name": "Mantle of the Dragonfriend (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Mantle_of_the_Dragonfriend_(Level_24)",
+    "name": "Mantle of the Dragonfriend (level 24)",
+    "link": "https://ddowiki.com/page/Item:Mantle_of_the_Dragonfriend_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Charisma +8",
@@ -749,8 +731,8 @@
     ]
   },
   {
-    "name": "Jeweled Cloak (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Jeweled_Cloak_(Level_23)",
+    "name": "Jeweled Cloak (level 23)",
+    "link": "https://ddowiki.com/page/Item:Jeweled_Cloak_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "Competence Elemental Resistance - 10",
@@ -761,8 +743,8 @@
     ]
   },
   {
-    "name": "Jeweled Cloak (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Jeweled_Cloak_(Level_13)",
+    "name": "Jeweled Cloak (level 13)",
+    "link": "https://ddowiki.com/page/Item:Jeweled_Cloak_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "Competence Elemental Resistance - 5",
@@ -771,8 +753,8 @@
     ]
   },
   {
-    "name": "Mantle of the Dragonfriend (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Mantle_of_the_Dragonfriend_(Level_23)",
+    "name": "Mantle of the Dragonfriend (level 23)",
+    "link": "https://ddowiki.com/page/Item:Mantle_of_the_Dragonfriend_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "Charisma +8",
@@ -781,8 +763,8 @@
     ]
   },
   {
-    "name": "Mantle of the Dragonfriend (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Mantle_of_the_Dragonfriend_(Level_13)",
+    "name": "Mantle of the Dragonfriend (level 13)",
+    "link": "https://ddowiki.com/page/Item:Mantle_of_the_Dragonfriend_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "Charisma +6",
@@ -791,8 +773,8 @@
     ]
   },
   {
-    "name": "Mantle of the Dragonfriend (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Mantle_of_the_Dragonfriend_(Level_14)",
+    "name": "Mantle of the Dragonfriend (level 14)",
+    "link": "https://ddowiki.com/page/Item:Mantle_of_the_Dragonfriend_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Charisma +6",
@@ -801,8 +783,8 @@
     ]
   },
   {
-    "name": "Jeweled Cloak (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Jeweled_Cloak_(Level_14)",
+    "name": "Jeweled Cloak (level 14)",
+    "link": "https://ddowiki.com/page/Item:Jeweled_Cloak_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Competence Elemental Resistance - 5",
@@ -812,8 +794,8 @@
     ]
   },
   {
-    "name": "Ghost-Waking Cloak (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Ghost-Waking_Cloak_(Level_12)",
+    "name": "Ghost-Waking Cloak (level 12)",
+    "link": "https://ddowiki.com/page/Item:Ghost-Waking_Cloak_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "Charisma +5",
@@ -822,8 +804,8 @@
     ]
   },
   {
-    "name": "Jeweled Cloak (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Jeweled_Cloak_(Level_12)",
+    "name": "Jeweled Cloak (level 12)",
+    "link": "https://ddowiki.com/page/Item:Jeweled_Cloak_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "Competence Elemental Resistance - 5",
@@ -833,8 +815,8 @@
     ]
   },
   {
-    "name": "Ghost-Waking Cloak (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Ghost-Waking_Cloak_(Level_14)",
+    "name": "Ghost-Waking Cloak (level 14)",
+    "link": "https://ddowiki.com/page/Item:Ghost-Waking_Cloak_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Charisma +6",
@@ -844,8 +826,8 @@
     ]
   },
   {
-    "name": "Nightsinger's Mantle (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Nightsinger%27s_Mantle_(Level_13)",
+    "name": "Nightsinger's Mantle (level 13)",
+    "link": "https://ddowiki.com/page/Item:Nightsinger%27s_Mantle_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "Perform +13",
@@ -856,8 +838,8 @@
     ]
   },
   {
-    "name": "Nightsinger's Mantle (Level 15)",
-    "link": "https://ddowiki.com/page/Item:Nightsinger%27s_Mantle_(Level_15)",
+    "name": "Nightsinger's Mantle (level 15)",
+    "link": "https://ddowiki.com/page/Item:Nightsinger%27s_Mantle_(level_15)",
     "minLevel": "15",
     "enhancements": [
       "Perform +15",
@@ -868,8 +850,8 @@
     ]
   },
   {
-    "name": "Nightsinger's Mantle (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Nightsinger%27s_Mantle_(Level_14)",
+    "name": "Nightsinger's Mantle (level 14)",
+    "link": "https://ddowiki.com/page/Item:Nightsinger%27s_Mantle_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Perform +15",
@@ -907,8 +889,8 @@
     ]
   },
   {
-    "name": "Ghost-Waking Cloak (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Ghost-Waking_Cloak_(Level_13)",
+    "name": "Ghost-Waking Cloak (level 13)",
+    "link": "https://ddowiki.com/page/Item:Ghost-Waking_Cloak_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "Charisma +5",
@@ -935,8 +917,8 @@
     ]
   },
   {
-    "name": "Guardian's Cloak (Level 19)",
-    "link": "https://ddowiki.com/page/Item:Guardian%27s_Cloak_(Level_19)",
+    "name": "Guardian's Cloak (level 19)",
+    "link": "https://ddowiki.com/page/Item:Guardian%27s_Cloak_(level_19)",
     "minLevel": "19",
     "enhancements": [
       "Axeblock V",
@@ -944,8 +926,8 @@
     ]
   },
   {
-    "name": "Sage's Mantle (Level 19)",
-    "link": "https://ddowiki.com/page/Item:Sage%27s_Mantle_(Level_19)",
+    "name": "Sage's Mantle (level 19)",
+    "link": "https://ddowiki.com/page/Item:Sage%27s_Mantle_(level_19)",
     "minLevel": "19",
     "enhancements": [
       "Enchantment Focus III",
@@ -953,8 +935,8 @@
     ]
   },
   {
-    "name": "Skirmisher's Cloak (Level 19)",
-    "link": "https://ddowiki.com/page/Item:Skirmisher%27s_Cloak_(Level_19)",
+    "name": "Skirmisher's Cloak (level 19)",
+    "link": "https://ddowiki.com/page/Item:Skirmisher%27s_Cloak_(level_19)",
     "minLevel": "19",
     "enhancements": [
       "Acid Resistance +25",
@@ -971,8 +953,8 @@
     ]
   },
   {
-    "name": "Guardian's Cloak (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Guardian%27s_Cloak_(Level_27)",
+    "name": "Guardian's Cloak (level 27)",
+    "link": "https://ddowiki.com/page/Item:Guardian%27s_Cloak_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "Axeblock VI",
@@ -981,8 +963,8 @@
     ]
   },
   {
-    "name": "Sage's Mantle (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Sage%27s_Mantle_(Level_27)",
+    "name": "Sage's Mantle (level 27)",
+    "link": "https://ddowiki.com/page/Item:Sage%27s_Mantle_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "Enchantment Focus V",
@@ -990,8 +972,8 @@
     ]
   },
   {
-    "name": "Skirmisher's Cloak (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Skirmisher%27s_Cloak_(Level_25)",
+    "name": "Skirmisher's Cloak (level 25)",
+    "link": "https://ddowiki.com/page/Item:Skirmisher%27s_Cloak_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Acid Resistance +40",
@@ -999,8 +981,8 @@
     ]
   },
   {
-    "name": "Prismatic Cloak, Violet (Level 19)",
-    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Violet_(Level_19)",
+    "name": "Prismatic Cloak, Violet (level 19)",
+    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Violet_(level_19)",
     "minLevel": "19",
     "enhancements": [
       "Electric Absorption +20%",
@@ -1022,8 +1004,8 @@
     ]
   },
   {
-    "name": "Prismatic Cloak, Blue (Level 18)",
-    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Blue_(Level_18)",
+    "name": "Prismatic Cloak, Blue (level 18)",
+    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Blue_(level_18)",
     "minLevel": "18",
     "enhancements": [
       "Cold Absorption +18%",
@@ -1045,8 +1027,8 @@
     ]
   },
   {
-    "name": "Prismatic Cloak, Green (Level 19)",
-    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Green_(Level_19)",
+    "name": "Prismatic Cloak, Green (level 19)",
+    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Green_(level_19)",
     "minLevel": "19",
     "enhancements": [
       "Acid Absorption +20%",
@@ -1068,8 +1050,8 @@
     ]
   },
   {
-    "name": "Prismatic Cloak, Green (Level 28)",
-    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Green_(Level_28)",
+    "name": "Prismatic Cloak, Green (level 28)",
+    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Green_(level_28)",
     "minLevel": "28",
     "enhancements": [
       "Acid Absorption +30%",
@@ -1091,8 +1073,8 @@
     ]
   },
   {
-    "name": "Prismatic Cloak, Grey (Level 28)",
-    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Grey_(Level_28)",
+    "name": "Prismatic Cloak, Grey (level 28)",
+    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Grey_(level_28)",
     "minLevel": "28",
     "enhancements": [
       "Sonic Absorption +30%",
@@ -1114,8 +1096,8 @@
     ]
   },
   {
-    "name": "Prismatic Cloak, Grey (Level 19)",
-    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Grey_(Level_19)",
+    "name": "Prismatic Cloak, Grey (level 19)",
+    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Grey_(level_19)",
     "minLevel": "19",
     "enhancements": [
       "Sonic Absorption +20%",
@@ -1137,8 +1119,8 @@
     ]
   },
   {
-    "name": "Prismatic Cloak, Red (Level 28)",
-    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Red_(Level_28)",
+    "name": "Prismatic Cloak, Red (level 28)",
+    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Red_(level_28)",
     "minLevel": "28",
     "enhancements": [
       "Fire Absorption +30%",
@@ -1160,8 +1142,8 @@
     ]
   },
   {
-    "name": "Prismatic Cloak, Red (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Red_(Level_27)",
+    "name": "Prismatic Cloak, Red (level 27)",
+    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Red_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "Fire Absorption +28%",
@@ -1183,8 +1165,8 @@
     ]
   },
   {
-    "name": "Prismatic Cloak, Violet (Level 26)",
-    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Violet_(Level_26)",
+    "name": "Prismatic Cloak, Violet (level 26)",
+    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Violet_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "Electric Absorption +26%",
@@ -1206,8 +1188,8 @@
     ]
   },
   {
-    "name": "Prismatic Cloak, Blue (Level 28)",
-    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Blue_(Level_28)",
+    "name": "Prismatic Cloak, Blue (level 28)",
+    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Blue_(level_28)",
     "minLevel": "28",
     "enhancements": [
       "Cold Absorption +30%",
@@ -1229,8 +1211,8 @@
     ]
   },
   {
-    "name": "Prismatic Cloak, Violet (Level 28)",
-    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Violet_(Level_28)",
+    "name": "Prismatic Cloak, Violet (level 28)",
+    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Violet_(level_28)",
     "minLevel": "28",
     "enhancements": [
       "Electric Absorption +30%",
@@ -1252,8 +1234,8 @@
     ]
   },
   {
-    "name": "Prismatic Cloak, Blue (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Blue_(Level_27)",
+    "name": "Prismatic Cloak, Blue (level 27)",
+    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Blue_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "Cold Absorption +28%",
@@ -1275,8 +1257,8 @@
     ]
   },
   {
-    "name": "Prismatic Cloak, Green (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Green_(Level_27)",
+    "name": "Prismatic Cloak, Green (level 27)",
+    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Green_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "Acid Absorption +28%",
@@ -1298,8 +1280,8 @@
     ]
   },
   {
-    "name": "Prismatic Cloak, Grey (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Grey_(Level_27)",
+    "name": "Prismatic Cloak, Grey (level 27)",
+    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Grey_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "Sonic Absorption +28%",
@@ -1321,8 +1303,8 @@
     ]
   },
   {
-    "name": "Prismatic Cloak, Violet (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Violet_(Level_27)",
+    "name": "Prismatic Cloak, Violet (level 27)",
+    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Violet_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "Electric Absorption +28%",
@@ -1344,8 +1326,8 @@
     ]
   },
   {
-    "name": "Prismatic Cloak, Blue (Level 26)",
-    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Blue_(Level_26)",
+    "name": "Prismatic Cloak, Blue (level 26)",
+    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Blue_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "Cold Absorption +26%",
@@ -1367,8 +1349,8 @@
     ]
   },
   {
-    "name": "Prismatic Cloak, Green (Level 26)",
-    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Green_(Level_26)",
+    "name": "Prismatic Cloak, Green (level 26)",
+    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Green_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "Acid Absorption +26%",
@@ -1390,8 +1372,8 @@
     ]
   },
   {
-    "name": "Prismatic Cloak, Grey (Level 26)",
-    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Grey_(Level_26)",
+    "name": "Prismatic Cloak, Grey (level 26)",
+    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Grey_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "Sonic Absorption +26%",
@@ -1413,8 +1395,8 @@
     ]
   },
   {
-    "name": "Prismatic Cloak, Red (Level 26)",
-    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Red_(Level_26)",
+    "name": "Prismatic Cloak, Red (level 26)",
+    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Red_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "Fire Absorption +26%",
@@ -1436,8 +1418,8 @@
     ]
   },
   {
-    "name": "Prismatic Cloak, Blue (Level 19)",
-    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Blue_(Level_19)",
+    "name": "Prismatic Cloak, Blue (level 19)",
+    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Blue_(level_19)",
     "minLevel": "19",
     "enhancements": [
       "Cold Absorption +20%",
@@ -1459,8 +1441,8 @@
     ]
   },
   {
-    "name": "Prismatic Cloak, Red (Level 19)",
-    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Red_(Level_19)",
+    "name": "Prismatic Cloak, Red (level 19)",
+    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Red_(level_19)",
     "minLevel": "19",
     "enhancements": [
       "Fire Absorption +20%",
@@ -1482,8 +1464,8 @@
     ]
   },
   {
-    "name": "Prismatic Cloak, Green (Level 18)",
-    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Green_(Level_18)",
+    "name": "Prismatic Cloak, Green (level 18)",
+    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Green_(level_18)",
     "minLevel": "18",
     "enhancements": [
       "Acid Absorption +18%",
@@ -1505,8 +1487,8 @@
     ]
   },
   {
-    "name": "Prismatic Cloak, Grey (Level 18)",
-    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Grey_(Level_18)",
+    "name": "Prismatic Cloak, Grey (level 18)",
+    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Grey_(level_18)",
     "minLevel": "18",
     "enhancements": [
       "Sonic Absorption +18%",
@@ -1528,8 +1510,8 @@
     ]
   },
   {
-    "name": "Prismatic Cloak, Red (Level 18)",
-    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Red_(Level_18)",
+    "name": "Prismatic Cloak, Red (level 18)",
+    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Red_(level_18)",
     "minLevel": "18",
     "enhancements": [
       "Fire Absorption +18%",
@@ -1551,8 +1533,8 @@
     ]
   },
   {
-    "name": "Prismatic Cloak, Violet (Level 18)",
-    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Violet_(Level_18)",
+    "name": "Prismatic Cloak, Violet (level 18)",
+    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Violet_(level_18)",
     "minLevel": "18",
     "enhancements": [
       "Electric Absorption +18%",
@@ -1574,8 +1556,8 @@
     ]
   },
   {
-    "name": "Prismatic Cloak, Green (Level 17)",
-    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Green_(Level_17)",
+    "name": "Prismatic Cloak, Green (level 17)",
+    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Green_(level_17)",
     "minLevel": "17",
     "enhancements": [
       "Acid Absorption +16%",
@@ -1608,8 +1590,8 @@
     ]
   },
   {
-    "name": "Prismatic Cloak, Grey (Level 17)",
-    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Grey_(Level_17)",
+    "name": "Prismatic Cloak, Grey (level 17)",
+    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Grey_(level_17)",
     "minLevel": "17",
     "enhancements": [
       "Sonic Absorption +16%",
@@ -1631,8 +1613,8 @@
     ]
   },
   {
-    "name": "Prismatic Cloak, Blue (Level 17)",
-    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Blue_(Level_17)",
+    "name": "Prismatic Cloak, Blue (level 17)",
+    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Blue_(level_17)",
     "minLevel": "17",
     "enhancements": [
       "Cold Absorption +16%",
@@ -1667,8 +1649,8 @@
     ]
   },
   {
-    "name": "Mysterious Cloak (Level 7)",
-    "link": "https://ddowiki.com/page/Item:Mysterious_Cloak_(Level_7)",
+    "name": "Mysterious Cloak (level 7)",
+    "link": "https://ddowiki.com/page/Item:Mysterious_Cloak_(level_7)",
     "minLevel": "7",
     "enhancements": [
       "Exceptional Healing Amplification +15",
@@ -1679,8 +1661,8 @@
     ]
   },
   {
-    "name": "Mysterious Cloak (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Mysterious_Cloak_(Level_14)",
+    "name": "Mysterious Cloak (level 14)",
+    "link": "https://ddowiki.com/page/Item:Mysterious_Cloak_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Exceptional Healing Amplification +30",
@@ -1691,8 +1673,8 @@
     ]
   },
   {
-    "name": "Mysterious Cloak (Level 21)",
-    "link": "https://ddowiki.com/page/Item:Mysterious_Cloak_(Level_21)",
+    "name": "Mysterious Cloak (level 21)",
+    "link": "https://ddowiki.com/page/Item:Mysterious_Cloak_(level_21)",
     "minLevel": "21",
     "enhancements": [
       "Exceptional Healing Amplification +45",
@@ -1917,8 +1899,8 @@
     ]
   },
   {
-    "name": "Cloak of the Mimic (Level 28)",
-    "link": "https://ddowiki.com/page/Item:Cloak_of_the_Mimic_(Level_28)",
+    "name": "Cloak of the Mimic (level 28)",
+    "link": "https://ddowiki.com/page/Item:Cloak_of_the_Mimic_(level_28)",
     "minLevel": "28",
     "enhancements": [
       "Sticky Goo Guard",
@@ -1943,8 +1925,8 @@
     ]
   },
   {
-    "name": "Cloak of the Mimic (Level 4)",
-    "link": "https://ddowiki.com/page/Item:Cloak_of_the_Mimic_(Level_4)",
+    "name": "Cloak of the Mimic (level 4)",
+    "link": "https://ddowiki.com/page/Item:Cloak_of_the_Mimic_(level_4)",
     "minLevel": "4",
     "enhancements": [
       "Sticky Goo Guard",
@@ -2149,8 +2131,8 @@
     ]
   },
   {
-    "name": "Cloak of the Mimic (Level 8)",
-    "link": "https://ddowiki.com/page/Item:Cloak_of_the_Mimic_(Level_8)",
+    "name": "Cloak of the Mimic (level 8)",
+    "link": "https://ddowiki.com/page/Item:Cloak_of_the_Mimic_(level_8)",
     "minLevel": "8",
     "enhancements": [
       "Sticky Goo Guard",
@@ -2194,8 +2176,8 @@
     ]
   },
   {
-    "name": "Prismatic Cloak, Red (Level 17)",
-    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Red_(Level_17)",
+    "name": "Prismatic Cloak, Red (level 17)",
+    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Red_(level_17)",
     "minLevel": "17",
     "enhancements": [
       "Fire Absorption +16%",
@@ -2217,8 +2199,8 @@
     ]
   },
   {
-    "name": "Prismatic Cloak, Violet (Level 17)",
-    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Violet_(Level_17)",
+    "name": "Prismatic Cloak, Violet (level 17)",
+    "link": "https://ddowiki.com/page/Item:Prismatic_Cloak,_Violet_(level_17)",
     "minLevel": "17",
     "enhancements": [
       "Electric Absorption +16%",
@@ -2254,8 +2236,8 @@
     ]
   },
   {
-    "name": "Cloak of the Mimic (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Cloak_of_the_Mimic_(Level_12)",
+    "name": "Cloak of the Mimic (level 12)",
+    "link": "https://ddowiki.com/page/Item:Cloak_of_the_Mimic_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "Sticky Goo Guard",
@@ -2267,8 +2249,8 @@
     ]
   },
   {
-    "name": "Cloak of the Mimic (Level 16)",
-    "link": "https://ddowiki.com/page/Item:Cloak_of_the_Mimic_(Level_16)",
+    "name": "Cloak of the Mimic (level 16)",
+    "link": "https://ddowiki.com/page/Item:Cloak_of_the_Mimic_(level_16)",
     "minLevel": "16",
     "enhancements": [
       "Sticky Goo Guard",
@@ -2280,8 +2262,8 @@
     ]
   },
   {
-    "name": "Cloak of the Mimic (Level 20)",
-    "link": "https://ddowiki.com/page/Item:Cloak_of_the_Mimic_(Level_20)",
+    "name": "Cloak of the Mimic (level 20)",
+    "link": "https://ddowiki.com/page/Item:Cloak_of_the_Mimic_(level_20)",
     "minLevel": "20",
     "enhancements": [
       "Sticky Goo Guard",
@@ -2293,8 +2275,8 @@
     ]
   },
   {
-    "name": "Cloak of the Mimic (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Cloak_of_the_Mimic_(Level_24)",
+    "name": "Cloak of the Mimic (level 24)",
+    "link": "https://ddowiki.com/page/Item:Cloak_of_the_Mimic_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Sticky Goo Guard",
@@ -3702,6 +3684,113 @@
       "Hide +14",
       "Quality Physical Sheltering +3",
       "Feather Falling"
+    ]
+  },
+  {
+    "name": "Downcast Stoic Cloak",
+    "link": "https://ddowiki.com/page/Item:Downcast_Stoic_Cloak",
+    "minLevel": "8",
+    "enhancements": [
+      "Quality Cold Absorption +2%",
+      "Insightful Magical Sheltering +5",
+      "Lamordia: Melancholic Slot (Accessory): Empty",
+      "Lamordia: Dolorous Slot (Accessory): Empty",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Lamordian Mystic Cloak",
+    "link": "https://ddowiki.com/page/Item:Lamordian_Mystic_Cloak",
+    "minLevel": "8",
+    "enhancements": [
+      "Force Absorption +12%",
+      "Insightful Magical Sheltering +5",
+      "Lamordia: Melancholic Slot (Accessory): Empty",
+      "Lamordia: Dolorous Slot (Accessory): Empty",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Gravekeeper's Stoic Cloak",
+    "link": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+    "minLevel": "34",
+    "enhancements": [
+      "Insightful Combat Mastery +6",
+      "Insightful Magical Sheltering +18",
+      "Lamordia: Melancholic Slot (Accessory): Empty",
+      "Lamordia: Dolorous Slot (Accessory): Empty",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Gravekeeper's Stoic Cloak",
+    "link": "https://ddowiki.com/page/Item:Gravekeeper%27s_Stoic_Cloak",
+    "minLevel": "8",
+    "enhancements": [
+      "Insightful Combat Mastery +2",
+      "Insightful Magical Sheltering +5",
+      "Lamordia: Melancholic Slot (Accessory): Empty",
+      "Lamordia: Dolorous Slot (Accessory): Empty",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Lamordian Stoic Cloak",
+    "link": "https://ddowiki.com/page/Item:Legendary_Lamordian_Stoic_Cloak",
+    "minLevel": "34",
+    "enhancements": [
+      "Ram's Might",
+      "Insightful Magical Sheltering +18",
+      "Lamordia: Melancholic Slot (Accessory): Empty",
+      "Lamordia: Dolorous Slot (Accessory): Empty",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Lamordian Stoic Cloak",
+    "link": "https://ddowiki.com/page/Item:Lamordian_Stoic_Cloak",
+    "minLevel": "8",
+    "enhancements": [
+      "Ram's Might",
+      "Insightful Magical Sheltering +5",
+      "Lamordia: Melancholic Slot (Accessory): Empty",
+      "Lamordia: Dolorous Slot (Accessory): Empty",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Downcast Heavy Cloak",
+    "link": "https://ddowiki.com/page/Item:Legendary_Downcast_Heavy_Cloak",
+    "minLevel": "34",
+    "enhancements": [
+      "Quality Fire Absorption +7%",
+      "Insightful Magical Sheltering +18",
+      "Lamordia: Melancholic Slot (Accessory): Empty",
+      "Lamordia: Dolorous Slot (Accessory): Empty",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Gravekeeper's Mystic Cloak",
+    "link": "https://ddowiki.com/page/Item:Gravekeeper%27s_Mystic_Cloak",
+    "minLevel": "8",
+    "enhancements": [
+      "Quality Spell Focus Mastery +1",
+      "Insightful Magical Sheltering +5",
+      "Lamordia: Melancholic Slot (Accessory): Empty",
+      "Lamordia: Dolorous Slot (Accessory): Empty",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
     ]
   }
 ]

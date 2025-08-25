@@ -174,6 +174,19 @@
     ]
   },
   {
+    "name": "Calamitous Heavy Mace",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Heavy_Mace",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
     "name": "Scepter of Healing",
     "link": "https://ddowiki.com/page/Item:Scepter_of_Healing",
     "minLevel": "10",
@@ -340,8 +353,8 @@
     ]
   },
   {
-    "name": "Forgotten Light (Level 16)",
-    "link": "https://ddowiki.com/page/Item:Forgotten_Light_(Level_16)",
+    "name": "Forgotten Light (level 16)",
+    "link": "https://ddowiki.com/page/Item:Forgotten_Light_(level_16)",
     "minLevel": "16",
     "enhancements": [
       "Spellcasting Implement +12",
@@ -365,8 +378,8 @@
     ]
   },
   {
-    "name": "Magistrate's Scepter (Level 17)",
-    "link": "https://ddowiki.com/page/Item:Magistrate%27s_Scepter_(Level_17)",
+    "name": "Magistrate's Scepter (level 17)",
+    "link": "https://ddowiki.com/page/Item:Magistrate%27s_Scepter_(level_17)",
     "minLevel": "17",
     "enhancements": [
       "+3 Enhancement Bonus",
@@ -388,8 +401,8 @@
     ]
   },
   {
-    "name": "Forgotten Light (Level 17)",
-    "link": "https://ddowiki.com/page/Item:Forgotten_Light_(Level_17)",
+    "name": "Forgotten Light (level 17)",
+    "link": "https://ddowiki.com/page/Item:Forgotten_Light_(level_17)",
     "minLevel": "17",
     "enhancements": [
       "Spellcasting Implement +15",
@@ -400,8 +413,8 @@
     ]
   },
   {
-    "name": "Magistrate's Scepter (Level 18)",
-    "link": "https://ddowiki.com/page/Item:Magistrate%27s_Scepter_(Level_18)",
+    "name": "Magistrate's Scepter (level 18)",
+    "link": "https://ddowiki.com/page/Item:Magistrate%27s_Scepter_(level_18)",
     "minLevel": "18",
     "enhancements": [
       "+4 Enhancement Bonus",
@@ -423,8 +436,8 @@
     ]
   },
   {
-    "name": "Forgotten Light (Level 18)",
-    "link": "https://ddowiki.com/page/Item:Forgotten_Light_(Level_18)",
+    "name": "Forgotten Light (level 18)",
+    "link": "https://ddowiki.com/page/Item:Forgotten_Light_(level_18)",
     "minLevel": "18",
     "enhancements": [
       "Spellcasting Implement +15",
@@ -461,8 +474,8 @@
     ]
   },
   {
-    "name": "Magistrate's Scepter (Level 19)",
-    "link": "https://ddowiki.com/page/Item:Magistrate%27s_Scepter_(Level_19)",
+    "name": "Magistrate's Scepter (level 19)",
+    "link": "https://ddowiki.com/page/Item:Magistrate%27s_Scepter_(level_19)",
     "minLevel": "19",
     "enhancements": [
       "+4 Enhancement Bonus",
@@ -520,8 +533,8 @@
     ]
   },
   {
-    "name": "Forgotten Light (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Forgotten_Light_(Level_23)",
+    "name": "Forgotten Light (level 23)",
+    "link": "https://ddowiki.com/page/Item:Forgotten_Light_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "Spellcasting Implement +18",
@@ -532,8 +545,8 @@
     ]
   },
   {
-    "name": "Forgotten Light (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Forgotten_Light_(Level_24)",
+    "name": "Forgotten Light (level 24)",
+    "link": "https://ddowiki.com/page/Item:Forgotten_Light_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Spellcasting Implement +21",
@@ -544,8 +557,8 @@
     ]
   },
   {
-    "name": "Forgotten Light (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Forgotten_Light_(Level_25)",
+    "name": "Forgotten Light (level 25)",
+    "link": "https://ddowiki.com/page/Item:Forgotten_Light_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Spellcasting Implement +21",
@@ -556,8 +569,8 @@
     ]
   },
   {
-    "name": "Magistrate's Scepter (Level 26)",
-    "link": "https://ddowiki.com/page/Item:Magistrate%27s_Scepter_(Level_26)",
+    "name": "Magistrate's Scepter (level 26)",
+    "link": "https://ddowiki.com/page/Item:Magistrate%27s_Scepter_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "+6 Enhancement Bonus",
@@ -589,8 +602,8 @@
     ]
   },
   {
-    "name": "Magistrate's Scepter (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Magistrate%27s_Scepter_(Level_27)",
+    "name": "Magistrate's Scepter (level 27)",
+    "link": "https://ddowiki.com/page/Item:Magistrate%27s_Scepter_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "+7 Enhancement Bonus",
@@ -613,8 +626,8 @@
     ]
   },
   {
-    "name": "Magistrate's Scepter (Level 28)",
-    "link": "https://ddowiki.com/page/Item:Magistrate%27s_Scepter_(Level_28)",
+    "name": "Magistrate's Scepter (level 28)",
+    "link": "https://ddowiki.com/page/Item:Magistrate%27s_Scepter_(level_28)",
     "minLevel": "28",
     "enhancements": [
       "+7 Enhancement Bonus",
@@ -912,6 +925,20 @@
       "Impactful 7",
       "Holy Burst 7",
       "Favored Weapon",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Heavy Mace",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Heavy_Mace",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]

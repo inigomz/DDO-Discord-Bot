@@ -222,8 +222,8 @@
     ]
   },
   {
-    "name": "Aquatic Bracers (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Aquatic_Bracers_(Level_12)",
+    "name": "Aquatic Bracers (level 12)",
+    "link": "https://ddowiki.com/page/Item:Aquatic_Bracers_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "Underwater Action",
@@ -287,35 +287,6 @@
     "enhancements": [
       "Dexterity +6",
       "Green Augment Slot"
-    ]
-  },
-  {
-    "name": "Manacles of Ceaseless Toil (historic)",
-    "link": "https://ddowiki.com/page/Item:Manacles_of_Ceaseless_Toil_(historic)",
-    "minLevel": "13",
-    "enhancements": [
-      "Remove Exhaustion",
-      "Strength +3",
-      "Constitution +3"
-    ]
-  },
-  {
-    "name": "Steady Handed Armbands (historic)",
-    "link": "https://ddowiki.com/page/Item:Steady_Handed_Armbands_(historic)",
-    "minLevel": "11",
-    "enhancements": [
-      "Attack Bonus +1",
-      "Dexterity +3"
-    ]
-  },
-  {
-    "name": "Torn Chitin Bracers",
-    "link": "https://ddowiki.com/page/Item:Torn_Chitin_Bracers",
-    "minLevel": "5",
-    "enhancements": [
-      "Armor Bonus +4",
-      "Will Save +1",
-      "Unraveling Enchantments"
     ]
   },
   {
@@ -545,8 +516,8 @@
     "enhancements": []
   },
   {
-    "name": "Bracers of Twisting Shade (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Bracers_of_Twisting_Shade_(Level_24)",
+    "name": "Bracers of Twisting Shade (level 24)",
+    "link": "https://ddowiki.com/page/Item:Bracers_of_Twisting_Shade_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Blurry",
@@ -557,8 +528,8 @@
     ]
   },
   {
-    "name": "Bracers of Twisting Shade (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Bracers_of_Twisting_Shade_(Level_23)",
+    "name": "Bracers of Twisting Shade (level 23)",
+    "link": "https://ddowiki.com/page/Item:Bracers_of_Twisting_Shade_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "Blurry",
@@ -569,8 +540,8 @@
     ]
   },
   {
-    "name": "Bracers of Twisting Shade (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Bracers_of_Twisting_Shade_(Level_25)",
+    "name": "Bracers of Twisting Shade (level 25)",
+    "link": "https://ddowiki.com/page/Item:Bracers_of_Twisting_Shade_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Blurry",
@@ -581,8 +552,8 @@
     ]
   },
   {
-    "name": "Manacles of Ceaseless Toil (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Manacles_of_Ceaseless_Toil_(Level_25)",
+    "name": "Manacles of Ceaseless Toil (level 25)",
+    "link": "https://ddowiki.com/page/Item:Manacles_of_Ceaseless_Toil_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Remove Exhaustion",
@@ -592,8 +563,8 @@
     ]
   },
   {
-    "name": "Aquatic Bracers (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Aquatic_Bracers_(Level_25)",
+    "name": "Aquatic Bracers (level 25)",
+    "link": "https://ddowiki.com/page/Item:Aquatic_Bracers_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Underwater Action",
@@ -605,8 +576,8 @@
     ]
   },
   {
-    "name": "Steady Handed Armbands (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Steady_Handed_Armbands_(Level_25)",
+    "name": "Steady Handed Armbands (level 25)",
+    "link": "https://ddowiki.com/page/Item:Steady_Handed_Armbands_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Attack Bonus +4",
@@ -628,8 +599,8 @@
     ]
   },
   {
-    "name": "Manacles of Ceaseless Toil (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Manacles_of_Ceaseless_Toil_(Level_24)",
+    "name": "Manacles of Ceaseless Toil (level 24)",
+    "link": "https://ddowiki.com/page/Item:Manacles_of_Ceaseless_Toil_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Remove Exhaustion",
@@ -638,8 +609,8 @@
     ]
   },
   {
-    "name": "Steady Handed Armbands (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Steady_Handed_Armbands_(Level_24)",
+    "name": "Steady Handed Armbands (level 24)",
+    "link": "https://ddowiki.com/page/Item:Steady_Handed_Armbands_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Attack Bonus +4",
@@ -649,8 +620,8 @@
     ]
   },
   {
-    "name": "Steady Handed Armbands (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Steady_Handed_Armbands_(Level_23)",
+    "name": "Steady Handed Armbands (level 23)",
+    "link": "https://ddowiki.com/page/Item:Steady_Handed_Armbands_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "Attack Bonus +4",
@@ -660,8 +631,8 @@
     ]
   },
   {
-    "name": "Steady Handed Armbands (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Steady_Handed_Armbands_(Level_14)",
+    "name": "Steady Handed Armbands (level 14)",
+    "link": "https://ddowiki.com/page/Item:Steady_Handed_Armbands_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Attack Bonus +2",
@@ -669,8 +640,8 @@
     ]
   },
   {
-    "name": "Steady Handed Armbands (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Steady_Handed_Armbands_(Level_13)",
+    "name": "Steady Handed Armbands (level 13)",
+    "link": "https://ddowiki.com/page/Item:Steady_Handed_Armbands_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "Attack Bonus +1",
@@ -678,8 +649,8 @@
     ]
   },
   {
-    "name": "Steady Handed Armbands (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Steady_Handed_Armbands_(Level_12)",
+    "name": "Steady Handed Armbands (level 12)",
+    "link": "https://ddowiki.com/page/Item:Steady_Handed_Armbands_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "Attack Bonus +1",
@@ -687,8 +658,8 @@
     ]
   },
   {
-    "name": "Aquatic Bracers (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Aquatic_Bracers_(Level_24)",
+    "name": "Aquatic Bracers (level 24)",
+    "link": "https://ddowiki.com/page/Item:Aquatic_Bracers_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Underwater Action",
@@ -705,8 +676,8 @@
     "enhancements": []
   },
   {
-    "name": "Manacles of Ceaseless Toil (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Manacles_of_Ceaseless_Toil_(Level_14)",
+    "name": "Manacles of Ceaseless Toil (level 14)",
+    "link": "https://ddowiki.com/page/Item:Manacles_of_Ceaseless_Toil_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Remove Exhaustion",
@@ -715,8 +686,8 @@
     ]
   },
   {
-    "name": "Aquatic Bracers (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Aquatic_Bracers_(Level_23)",
+    "name": "Aquatic Bracers (level 23)",
+    "link": "https://ddowiki.com/page/Item:Aquatic_Bracers_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "Underwater Action",
@@ -727,8 +698,8 @@
     ]
   },
   {
-    "name": "Manacles of Ceaseless Toil (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Manacles_of_Ceaseless_Toil_(Level_23)",
+    "name": "Manacles of Ceaseless Toil (level 23)",
+    "link": "https://ddowiki.com/page/Item:Manacles_of_Ceaseless_Toil_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "Remove Exhaustion",
@@ -737,8 +708,8 @@
     ]
   },
   {
-    "name": "Manacles of Ceaseless Toil (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Manacles_of_Ceaseless_Toil_(Level_12)",
+    "name": "Manacles of Ceaseless Toil (level 12)",
+    "link": "https://ddowiki.com/page/Item:Manacles_of_Ceaseless_Toil_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "Remove Exhaustion",
@@ -747,18 +718,8 @@
     ]
   },
   {
-    "name": "Aquatic Bracers (historic)",
-    "link": "https://ddowiki.com/page/Item:Aquatic_Bracers_(historic)",
-    "minLevel": "11",
-    "enhancements": [
-      "Underwater Action",
-      "Swim +13",
-      "Cold Resistance +20"
-    ]
-  },
-  {
-    "name": "Manacles of Ceaseless Toil (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Manacles_of_Ceaseless_Toil_(Level_13)",
+    "name": "Manacles of Ceaseless Toil (level 13)",
+    "link": "https://ddowiki.com/page/Item:Manacles_of_Ceaseless_Toil_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "Remove Exhaustion",
@@ -767,8 +728,8 @@
     ]
   },
   {
-    "name": "Aquatic Bracers (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Aquatic_Bracers_(Level_14)",
+    "name": "Aquatic Bracers (level 14)",
+    "link": "https://ddowiki.com/page/Item:Aquatic_Bracers_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Underwater Action",
@@ -779,8 +740,8 @@
     ]
   },
   {
-    "name": "Aquatic Bracers (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Aquatic_Bracers_(Level_13)",
+    "name": "Aquatic Bracers (level 13)",
+    "link": "https://ddowiki.com/page/Item:Aquatic_Bracers_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "Underwater Action",
@@ -838,16 +799,16 @@
     ]
   },
   {
-    "name": "Guardian's Bracers (Level 15)",
-    "link": "https://ddowiki.com/page/Item:Guardian%27s_Bracers_(Level_15)",
+    "name": "Guardian's Bracers (level 15)",
+    "link": "https://ddowiki.com/page/Item:Guardian%27s_Bracers_(level_15)",
     "minLevel": "15",
     "enhancements": [
       "Riposte VIII"
     ]
   },
   {
-    "name": "Guardian's Bracers (Level 26)",
-    "link": "https://ddowiki.com/page/Item:Guardian%27s_Bracers_(Level_26)",
+    "name": "Guardian's Bracers (level 26)",
+    "link": "https://ddowiki.com/page/Item:Guardian%27s_Bracers_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "Riposte IX",
@@ -855,8 +816,8 @@
     ]
   },
   {
-    "name": "Sage's Cuffs (Level 26)",
-    "link": "https://ddowiki.com/page/Item:Sage%27s_Cuffs_(Level_26)",
+    "name": "Sage's Cuffs (level 26)",
+    "link": "https://ddowiki.com/page/Item:Sage%27s_Cuffs_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "Kinetic Lore X",
@@ -864,8 +825,8 @@
     ]
   },
   {
-    "name": "Skirmisher's Bracers (Level 26)",
-    "link": "https://ddowiki.com/page/Item:Skirmisher%27s_Bracers_(Level_26)",
+    "name": "Skirmisher's Bracers (level 26)",
+    "link": "https://ddowiki.com/page/Item:Skirmisher%27s_Bracers_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "Dexterity +9",
@@ -873,8 +834,8 @@
     ]
   },
   {
-    "name": "Prisoner's Manacles (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Prisoner%27s_Manacles_(Level_14)",
+    "name": "Prisoner's Manacles (level 14)",
+    "link": "https://ddowiki.com/page/Item:Prisoner%27s_Manacles_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Reinforced Fists",
@@ -892,8 +853,8 @@
     ]
   },
   {
-    "name": "Prisoner's Manacles (Level 16)",
-    "link": "https://ddowiki.com/page/Item:Prisoner%27s_Manacles_(Level_16)",
+    "name": "Prisoner's Manacles (level 16)",
+    "link": "https://ddowiki.com/page/Item:Prisoner%27s_Manacles_(level_16)",
     "minLevel": "16",
     "enhancements": [
       "Reinforced Fists",
@@ -912,8 +873,8 @@
     ]
   },
   {
-    "name": "Prisoner's Manacles (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Prisoner%27s_Manacles_(Level_25)",
+    "name": "Prisoner's Manacles (level 25)",
+    "link": "https://ddowiki.com/page/Item:Prisoner%27s_Manacles_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Reinforced Fists",
@@ -932,8 +893,8 @@
     ]
   },
   {
-    "name": "Prisoner's Manacles (Level 26)",
-    "link": "https://ddowiki.com/page/Item:Prisoner%27s_Manacles_(Level_26)",
+    "name": "Prisoner's Manacles (level 26)",
+    "link": "https://ddowiki.com/page/Item:Prisoner%27s_Manacles_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "Reinforced Fists",
@@ -952,8 +913,8 @@
     ]
   },
   {
-    "name": "Prisoner's Manacles (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Prisoner%27s_Manacles_(Level_27)",
+    "name": "Prisoner's Manacles (level 27)",
+    "link": "https://ddowiki.com/page/Item:Prisoner%27s_Manacles_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "Reinforced Fists",
@@ -973,8 +934,8 @@
     ]
   },
   {
-    "name": "Prisoner's Manacles (Level 15)",
-    "link": "https://ddowiki.com/page/Item:Prisoner%27s_Manacles_(Level_15)",
+    "name": "Prisoner's Manacles (level 15)",
+    "link": "https://ddowiki.com/page/Item:Prisoner%27s_Manacles_(level_15)",
     "minLevel": "15",
     "enhancements": [
       "Reinforced Fists",
@@ -992,8 +953,8 @@
     ]
   },
   {
-    "name": "Bracers of Twisting Shade (Level 18)",
-    "link": "https://ddowiki.com/page/Item:Bracers_of_Twisting_Shade_(Level_18)",
+    "name": "Bracers of Twisting Shade (level 18)",
+    "link": "https://ddowiki.com/page/Item:Bracers_of_Twisting_Shade_(level_18)",
     "minLevel": "18",
     "enhancements": [
       "Blurry",
@@ -1004,16 +965,16 @@
     ]
   },
   {
-    "name": "Skirmisher's Bracers (Level 15)",
-    "link": "https://ddowiki.com/page/Item:Skirmisher%27s_Bracers_(Level_15)",
+    "name": "Skirmisher's Bracers (level 15)",
+    "link": "https://ddowiki.com/page/Item:Skirmisher%27s_Bracers_(level_15)",
     "minLevel": "15",
     "enhancements": [
       "Dexterity +8"
     ]
   },
   {
-    "name": "Sage's Cuffs (Level 15)",
-    "link": "https://ddowiki.com/page/Item:Sage%27s_Cuffs_(Level_15)",
+    "name": "Sage's Cuffs (level 15)",
+    "link": "https://ddowiki.com/page/Item:Sage%27s_Cuffs_(level_15)",
     "minLevel": "15",
     "enhancements": [
       "Kinetic Lore VIII"
@@ -1033,8 +994,8 @@
     ]
   },
   {
-    "name": "Bracers of Twisting Shade (Level 16)",
-    "link": "https://ddowiki.com/page/Item:Bracers_of_Twisting_Shade_(Level_16)",
+    "name": "Bracers of Twisting Shade (level 16)",
+    "link": "https://ddowiki.com/page/Item:Bracers_of_Twisting_Shade_(level_16)",
     "minLevel": "16",
     "enhancements": [
       "Disable Device +15",
@@ -1045,8 +1006,8 @@
     ]
   },
   {
-    "name": "Bracers of Twisting Shade (Level 17)",
-    "link": "https://ddowiki.com/page/Item:Bracers_of_Twisting_Shade_(Level_17)",
+    "name": "Bracers of Twisting Shade (level 17)",
+    "link": "https://ddowiki.com/page/Item:Bracers_of_Twisting_Shade_(level_17)",
     "minLevel": "17",
     "enhancements": [
       "Blurry",
@@ -1085,8 +1046,8 @@
     ]
   },
   {
-    "name": "Mysterious Bracers (Level 7)",
-    "link": "https://ddowiki.com/page/Item:Mysterious_Bracers_(Level_7)",
+    "name": "Mysterious Bracers (level 7)",
+    "link": "https://ddowiki.com/page/Item:Mysterious_Bracers_(level_7)",
     "minLevel": "7",
     "enhancements": [
       "Exceptional Healing Amplification +15",
@@ -1097,8 +1058,8 @@
     ]
   },
   {
-    "name": "Mysterious Bracers (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Mysterious_Bracers_(Level_14)",
+    "name": "Mysterious Bracers (level 14)",
+    "link": "https://ddowiki.com/page/Item:Mysterious_Bracers_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Exceptional Healing Amplification +30",
@@ -1109,8 +1070,8 @@
     ]
   },
   {
-    "name": "Mysterious Bracers (Level 21)",
-    "link": "https://ddowiki.com/page/Item:Mysterious_Bracers_(Level_21)",
+    "name": "Mysterious Bracers (level 21)",
+    "link": "https://ddowiki.com/page/Item:Mysterious_Bracers_(level_21)",
     "minLevel": "21",
     "enhancements": [
       "Exceptional Healing Amplification +45",
@@ -2669,12 +2630,6 @@
       "Deathblock",
       "Insightful Fortification  +40%"
     ]
-  },
-  {
-    "name": "Epic Wand Bracelet",
-    "link": "https://ddowiki.com/page/Item:Epic_Wand_Bracelet",
-    "minLevel": "20",
-    "enhancements": []
   },
   {
     "name": "Cuffs of the Forbidden",

@@ -20,8 +20,8 @@
     ]
   },
   {
-    "name": "Elemental Khopesh of Water (Level 4)",
-    "link": "https://ddowiki.com/page/Item:Elemental_Khopesh_of_Water_(Level_4)",
+    "name": "Elemental Khopesh of Water (level 4)",
+    "link": "https://ddowiki.com/page/Item:Elemental_Khopesh_of_Water_(level_4)",
     "minLevel": "4",
     "enhancements": [
       "+1 Enhancement Bonus",
@@ -73,6 +73,19 @@
     "link": "https://ddowiki.com/page/Item:Elemental_Khopesh_of_Water_(level_8)",
     "minLevel": "8",
     "enhancements": []
+  },
+  {
+    "name": "Calamitous Khopesh",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Khopesh",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
   },
   {
     "name": "Dynastic Falcata",
@@ -222,8 +235,8 @@
     ]
   },
   {
-    "name": "Allegiance (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Allegiance_(Level_12)",
+    "name": "Allegiance (level 12)",
+    "link": "https://ddowiki.com/page/Item:Allegiance_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -238,8 +251,8 @@
     "enhancements": []
   },
   {
-    "name": "Allegiance (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Allegiance_(Level_13)",
+    "name": "Allegiance (level 13)",
+    "link": "https://ddowiki.com/page/Item:Allegiance_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -287,8 +300,8 @@
     ]
   },
   {
-    "name": "Allegiance (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Allegiance_(Level_14)",
+    "name": "Allegiance (level 14)",
+    "link": "https://ddowiki.com/page/Item:Allegiance_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -330,8 +343,8 @@
     "enhancements": []
   },
   {
-    "name": "Ironwood Khopesh (Level 16)",
-    "link": "https://ddowiki.com/page/Item:Ironwood_Khopesh_(Level_16)",
+    "name": "Ironwood Khopesh (level 16)",
+    "link": "https://ddowiki.com/page/Item:Ironwood_Khopesh_(level_16)",
     "minLevel": "16",
     "enhancements": [
       "+4 Enhancement Bonus",
@@ -340,8 +353,8 @@
     ]
   },
   {
-    "name": "Ironwood Khopesh (Level 17)",
-    "link": "https://ddowiki.com/page/Item:Ironwood_Khopesh_(Level_17)",
+    "name": "Ironwood Khopesh (level 17)",
+    "link": "https://ddowiki.com/page/Item:Ironwood_Khopesh_(level_17)",
     "minLevel": "17",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -350,8 +363,8 @@
     ]
   },
   {
-    "name": "Ironwood Khopesh (Level 18)",
-    "link": "https://ddowiki.com/page/Item:Ironwood_Khopesh_(Level_18)",
+    "name": "Ironwood Khopesh (level 18)",
+    "link": "https://ddowiki.com/page/Item:Ironwood_Khopesh_(level_18)",
     "minLevel": "18",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -484,8 +497,8 @@
     ]
   },
   {
-    "name": "Ironwood Khopesh (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Ironwood_Khopesh_(Level_23)",
+    "name": "Ironwood Khopesh (level 23)",
+    "link": "https://ddowiki.com/page/Item:Ironwood_Khopesh_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "+6 Enhancement Bonus",
@@ -494,8 +507,8 @@
     ]
   },
   {
-    "name": "Allegiance (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Allegiance_(Level_23)",
+    "name": "Allegiance (level 23)",
+    "link": "https://ddowiki.com/page/Item:Allegiance_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "+6 Enhancement Bonus",
@@ -505,8 +518,8 @@
     ]
   },
   {
-    "name": "Ironwood Khopesh (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Ironwood_Khopesh_(Level_24)",
+    "name": "Ironwood Khopesh (level 24)",
+    "link": "https://ddowiki.com/page/Item:Ironwood_Khopesh_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "+7 Enhancement Bonus",
@@ -515,8 +528,8 @@
     ]
   },
   {
-    "name": "Allegiance (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Allegiance_(Level_24)",
+    "name": "Allegiance (level 24)",
+    "link": "https://ddowiki.com/page/Item:Allegiance_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "+7 Enhancement Bonus",
@@ -526,8 +539,8 @@
     ]
   },
   {
-    "name": "Allegiance (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Allegiance_(Level_25)",
+    "name": "Allegiance (level 25)",
+    "link": "https://ddowiki.com/page/Item:Allegiance_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "+7 Enhancement Bonus",
@@ -537,8 +550,8 @@
     ]
   },
   {
-    "name": "Ironwood Khopesh (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Ironwood_Khopesh_(Level_25)",
+    "name": "Ironwood Khopesh (level 25)",
+    "link": "https://ddowiki.com/page/Item:Ironwood_Khopesh_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "+7 Enhancement Bonus",
@@ -880,6 +893,20 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Khopesh",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Khopesh",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]

@@ -300,6 +300,34 @@
     ]
   },
   {
+    "name": "Downcast Brawler's Garb",
+    "link": "https://ddowiki.com/page/Item:Downcast_Brawler%27s_Garb",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Competence Elemental Resistance - 5",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Lamordia: Miserable Slot (Accessory): Empty",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Downcast Robe",
+    "link": "https://ddowiki.com/page/Item:Downcast_Robe",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Exceptional Spell Lore +3",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Lamordia: Miserable Slot (Accessory): Empty",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
     "name": "Dragoncraft Robe",
     "link": "https://ddowiki.com/page/Item:Dragoncraft_Robe",
     "minLevel": "10",
@@ -761,20 +789,20 @@
     ]
   },
   {
-    "name": "Frozen Tunic (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Frozen_Tunic_(Level_12)",
+    "name": "Frozen Tunic (level 12)",
+    "link": "https://ddowiki.com/page/Item:Frozen_Tunic_(level_12)",
     "minLevel": "12",
     "enhancements": []
   },
   {
-    "name": "Frozen Tunic (Level 16)",
-    "link": "https://ddowiki.com/page/Item:Frozen_Tunic_(Level_16)",
+    "name": "Frozen Tunic (level 16)",
+    "link": "https://ddowiki.com/page/Item:Frozen_Tunic_(level_16)",
     "minLevel": "16",
     "enhancements": []
   },
   {
-    "name": "Frozen Tunic (Level 4)",
-    "link": "https://ddowiki.com/page/Item:Frozen_Tunic_(Level_4)",
+    "name": "Frozen Tunic (level 4)",
+    "link": "https://ddowiki.com/page/Item:Frozen_Tunic_(level_4)",
     "minLevel": "4",
     "enhancements": [
       "Armor Bonus +3",
@@ -784,8 +812,8 @@
     ]
   },
   {
-    "name": "Frozen Tunic (Level 8)",
-    "link": "https://ddowiki.com/page/Item:Frozen_Tunic_(Level_8)",
+    "name": "Frozen Tunic (level 8)",
+    "link": "https://ddowiki.com/page/Item:Frozen_Tunic_(level_8)",
     "minLevel": "8",
     "enhancements": []
   },
@@ -838,6 +866,36 @@
     ]
   },
   {
+    "name": "Gravekeeper's Brawler Garb",
+    "link": "https://ddowiki.com/page/Item:Gravekeeper%27s_Brawler_Garb",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Natural Armor +5",
+      "Good Luck  +2",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Gravekeeper's Robe",
+    "link": "https://ddowiki.com/page/Item:Gravekeeper%27s_Robe",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Natural Armor +5",
+      "Good Luck  +2",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Lamordia: Miserable Slot (Accessory): Empty",
+      "Lamordia: Woeful Slot (Accessory): Empty",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
     "name": "Icy Raiment",
     "link": "https://ddowiki.com/page/Item:Icy_Raiment",
     "minLevel": "14",
@@ -881,6 +939,34 @@
       "Lightning Lore +11%",
       "Magnetism +77",
       "Protection +5"
+    ]
+  },
+  {
+    "name": "Lamordian Brawler's Garb",
+    "link": "https://ddowiki.com/page/Item:Lamordian_Brawler%27s_Garb",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Ghostly",
+      "Fortification  +70%",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Lamordian Robe",
+    "link": "https://ddowiki.com/page/Item:Lamordian_Robe",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Ghostly",
+      "Fortification  +70%",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
     ]
   },
   {
@@ -953,6 +1039,36 @@
       "Blue Augment Slot",
       "Green Augment Slot",
       "Legendary Saltmarsh Explorer"
+    ]
+  },
+  {
+    "name": "Legendary Downcast Brawler's Garb",
+    "link": "https://ddowiki.com/page/Item:Legendary_Downcast_Brawler%27s_Garb",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Competence Elemental Resistance - 15",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Lamordia: Miserable Slot (Accessory): Empty",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Downcast Robe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Downcast_Robe",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Exceptional Spell Lore +3",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Lamordia: Miserable Slot (Accessory): Empty",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
     ]
   },
   {
@@ -1056,6 +1172,38 @@
     ]
   },
   {
+    "name": "Legendary Gravekeeper's Brawler Garb",
+    "link": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Brawler_Garb",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Natural Armor +15",
+      "Good Luck  +5",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Lamordia: Miserable Slot (Accessory): Empty",
+      "Lamordia: Woeful Slot (Accessory): Empty",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Gravekeeper's Robe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Robe",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Natural Armor +15",
+      "Good Luck  +5",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
     "name": "Legendary Illusionist's Garb",
     "link": "https://ddowiki.com/page/Item:Legendary_Illusionist%27s_Garb",
     "minLevel": "30",
@@ -1081,6 +1229,36 @@
       "Magnetism +151",
       "Protection +11",
       "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Lamordian Brawler's Garb",
+    "link": "https://ddowiki.com/page/Item:Legendary_Lamordian_Brawler%27s_Garb",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lesser Displacement",
+      "Fortification  +159%",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Lamordian Robe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Lamordian_Robe",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lesser Displacement",
+      "Fortification  +159%",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
     ]
   },
   {
@@ -1559,8 +1737,8 @@
     ]
   },
   {
-    "name": "Martial Outfit (Level 16)",
-    "link": "https://ddowiki.com/page/Item:Martial_Outfit_(Level_16)",
+    "name": "Martial Outfit (level 16)",
+    "link": "https://ddowiki.com/page/Item:Martial_Outfit_(level_16)",
     "minLevel": "16",
     "enhancements": [
       "Armor Bonus +7",
@@ -1568,8 +1746,8 @@
     ]
   },
   {
-    "name": "Martial Outfit (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Martial_Outfit_(Level_27)",
+    "name": "Martial Outfit (level 27)",
+    "link": "https://ddowiki.com/page/Item:Martial_Outfit_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "Armor Bonus +12",
@@ -2338,8 +2516,8 @@
     ]
   },
   {
-    "name": "Sage's Vestments (Level 16)",
-    "link": "https://ddowiki.com/page/Item:Sage%27s_Vestments_(Level_16)",
+    "name": "Sage's Vestments (level 16)",
+    "link": "https://ddowiki.com/page/Item:Sage%27s_Vestments_(level_16)",
     "minLevel": "16",
     "enhancements": [
       "Armor Bonus +7",
@@ -2347,8 +2525,8 @@
     ]
   },
   {
-    "name": "Sage's Vestments (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Sage%27s_Vestments_(Level_27)",
+    "name": "Sage's Vestments (level 27)",
+    "link": "https://ddowiki.com/page/Item:Sage%27s_Vestments_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "Armor Bonus +12",

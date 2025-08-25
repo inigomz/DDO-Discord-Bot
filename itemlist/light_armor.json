@@ -95,8 +95,8 @@
     ]
   },
   {
-    "name": "Assassin Initiate's Leathers (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Assassin_Initiate%27s_Leathers_(Level_13)",
+    "name": "Assassin Initiate's Leathers (level 13)",
+    "link": "https://ddowiki.com/page/Item:Assassin_Initiate%27s_Leathers_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "+4 Enhancement Bonus",
@@ -106,8 +106,8 @@
     ]
   },
   {
-    "name": "Assassin Initiate's Leathers (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Assassin_Initiate%27s_Leathers_(Level_14)",
+    "name": "Assassin Initiate's Leathers (level 14)",
+    "link": "https://ddowiki.com/page/Item:Assassin_Initiate%27s_Leathers_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -117,8 +117,8 @@
     ]
   },
   {
-    "name": "Assassin Initiate's Leathers (Level 15)",
-    "link": "https://ddowiki.com/page/Item:Assassin_Initiate%27s_Leathers_(Level_15)",
+    "name": "Assassin Initiate's Leathers (level 15)",
+    "link": "https://ddowiki.com/page/Item:Assassin_Initiate%27s_Leathers_(level_15)",
     "minLevel": "15",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -354,6 +354,20 @@
       "Isle of Dread: Set Bonus Slot: Empty",
       "Green Augment Slot",
       "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Downcast Vest",
+    "link": "https://ddowiki.com/page/Item:Downcast_Vest",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Competence Elemental Resistance - 5",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Lamordia: Miserable Slot (Accessory): Empty",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
     ]
   },
   {
@@ -1022,6 +1036,22 @@
     ]
   },
   {
+    "name": "Gravekeeper's Vest",
+    "link": "https://ddowiki.com/page/Item:Gravekeeper%27s_Vest",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Natural Armor +5",
+      "Good Luck  +2",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Lamordia: Miserable Slot (Accessory): Empty",
+      "Lamordia: Woeful Slot (Accessory): Empty",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
     "name": "Graz'zt's Habiliment",
     "link": "https://ddowiki.com/page/Item:Graz%27zt%27s_Habiliment",
     "minLevel": "15",
@@ -1035,8 +1065,8 @@
     ]
   },
   {
-    "name": "Hero's Leathers (Level 16)",
-    "link": "https://ddowiki.com/page/Item:Hero%27s_Leathers_(Level_16)",
+    "name": "Hero's Leathers (level 16)",
+    "link": "https://ddowiki.com/page/Item:Hero%27s_Leathers_(level_16)",
     "minLevel": "16",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -1044,8 +1074,8 @@
     ]
   },
   {
-    "name": "Hero's Leathers (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Hero%27s_Leathers_(Level_27)",
+    "name": "Hero's Leathers (level 27)",
+    "link": "https://ddowiki.com/page/Item:Hero%27s_Leathers_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "+10 Enhancement Bonus",
@@ -1162,6 +1192,20 @@
       "Reflex Save +6",
       "Mithral",
       "Kundarak Delving Equipment"
+    ]
+  },
+  {
+    "name": "Lamordian Vest",
+    "link": "https://ddowiki.com/page/Item:Lamordian_Vest",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Ghostly",
+      "Fortification  +70%",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
     ]
   },
   {
@@ -1317,6 +1361,21 @@
     ]
   },
   {
+    "name": "Legendary Downcast Vest",
+    "link": "https://ddowiki.com/page/Item:Legendary_Downcast_Vest",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Competence Elemental Resistance - 15",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Lamordia: Miserable Slot (Accessory): Empty",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
     "name": "Legendary Drow Outrunner Armor",
     "link": "https://ddowiki.com/page/Item:Legendary_Drow_Outrunner_Armor",
     "minLevel": "28",
@@ -1355,6 +1414,23 @@
       "False Life +50",
       "Green Augment Slot",
       "Legendary Feywild Dreamer"
+    ]
+  },
+  {
+    "name": "Legendary Gravekeeper's Vest",
+    "link": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Vest",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Natural Armor +15",
+      "Good Luck  +5",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Lamordia: Miserable Slot (Accessory): Empty",
+      "Lamordia: Woeful Slot (Accessory): Empty",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
     ]
   },
   {
@@ -1413,6 +1489,21 @@
       "Colorless Augment Slot",
       "Blue Augment Slot",
       "Legendary Kundarak Delving Equipment"
+    ]
+  },
+  {
+    "name": "Legendary Lamordian Vest",
+    "link": "https://ddowiki.com/page/Item:Legendary_Lamordian_Vest",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lesser Displacement",
+      "Fortification  +159%",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
     ]
   },
   {
@@ -2012,12 +2103,6 @@
     ]
   },
   {
-    "name": "Mournlode Chain (Level 4)",
-    "link": "https://ddowiki.com/page/Item:Mournlode_Chain_(Level_4)",
-    "minLevel": "4",
-    "enhancements": []
-  },
-  {
     "name": "Mournlode Chain (level 12)",
     "link": "https://ddowiki.com/page/Item:Mournlode_Chain_(level_12)",
     "minLevel": "12",
@@ -2027,6 +2112,12 @@
     "name": "Mournlode Chain (level 16)",
     "link": "https://ddowiki.com/page/Item:Mournlode_Chain_(level_16)",
     "minLevel": "16",
+    "enhancements": []
+  },
+  {
+    "name": "Mournlode Chain (level 4)",
+    "link": "https://ddowiki.com/page/Item:Mournlode_Chain_(level_4)",
+    "minLevel": "4",
     "enhancements": []
   },
   {
@@ -2560,8 +2651,8 @@
     ]
   },
   {
-    "name": "Whisperchain (Level 16)",
-    "link": "https://ddowiki.com/page/Item:Whisperchain_(Level_16)",
+    "name": "Whisperchain (level 16)",
+    "link": "https://ddowiki.com/page/Item:Whisperchain_(level_16)",
     "minLevel": "16",
     "enhancements": [
       "+4 Enhancement Bonus",
@@ -2573,8 +2664,8 @@
     ]
   },
   {
-    "name": "Whisperchain (Level 17)",
-    "link": "https://ddowiki.com/page/Item:Whisperchain_(Level_17)",
+    "name": "Whisperchain (level 17)",
+    "link": "https://ddowiki.com/page/Item:Whisperchain_(level_17)",
     "minLevel": "17",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -2586,8 +2677,8 @@
     ]
   },
   {
-    "name": "Whisperchain (Level 18)",
-    "link": "https://ddowiki.com/page/Item:Whisperchain_(Level_18)",
+    "name": "Whisperchain (level 18)",
+    "link": "https://ddowiki.com/page/Item:Whisperchain_(level_18)",
     "minLevel": "18",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -2599,8 +2690,8 @@
     ]
   },
   {
-    "name": "Whisperchain (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Whisperchain_(Level_23)",
+    "name": "Whisperchain (level 23)",
+    "link": "https://ddowiki.com/page/Item:Whisperchain_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "+6 Enhancement Bonus",
@@ -2612,8 +2703,8 @@
     ]
   },
   {
-    "name": "Whisperchain (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Whisperchain_(Level_24)",
+    "name": "Whisperchain (level 24)",
+    "link": "https://ddowiki.com/page/Item:Whisperchain_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "+7 Enhancement Bonus",
@@ -2625,8 +2716,8 @@
     ]
   },
   {
-    "name": "Whisperchain (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Whisperchain_(Level_25)",
+    "name": "Whisperchain (level 25)",
+    "link": "https://ddowiki.com/page/Item:Whisperchain_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "+7 Enhancement Bonus",

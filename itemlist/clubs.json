@@ -533,6 +533,32 @@
     ]
   },
   {
+    "name": "Calamitous Club",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Club",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Calamitous Sceptre",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Sceptre",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Quality Mystic Diversion +1%",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
     "name": "Celestial Beacon",
     "link": "https://ddowiki.com/page/Item:Celestial_Beacon",
     "minLevel": "9",
@@ -692,8 +718,8 @@
     ]
   },
   {
-    "name": "Crystalline Scepter (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Crystalline_Scepter_(Level_12)",
+    "name": "Crystalline Scepter (level 12)",
+    "link": "https://ddowiki.com/page/Item:Crystalline_Scepter_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "Spellcasting Implement +12",
@@ -897,8 +923,8 @@
     ]
   },
   {
-    "name": "Crystalline Scepter (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Crystalline_Scepter_(Level_13)",
+    "name": "Crystalline Scepter (level 13)",
+    "link": "https://ddowiki.com/page/Item:Crystalline_Scepter_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "Spellcasting Implement +12",
@@ -976,8 +1002,8 @@
     ]
   },
   {
-    "name": "Crystalline Scepter (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Crystalline_Scepter_(Level_14)",
+    "name": "Crystalline Scepter (level 14)",
+    "link": "https://ddowiki.com/page/Item:Crystalline_Scepter_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "Spellcasting Implement +15",
@@ -1740,8 +1766,8 @@
     ]
   },
   {
-    "name": "Crystalline Scepter (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Crystalline_Scepter_(Level_23)",
+    "name": "Crystalline Scepter (level 23)",
+    "link": "https://ddowiki.com/page/Item:Crystalline_Scepter_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "Spellcasting Implement +18",
@@ -1794,8 +1820,8 @@
     ]
   },
   {
-    "name": "Crystalline Scepter (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Crystalline_Scepter_(Level_24)",
+    "name": "Crystalline Scepter (level 24)",
+    "link": "https://ddowiki.com/page/Item:Crystalline_Scepter_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "Spellcasting Implement +21",
@@ -1807,8 +1833,8 @@
     ]
   },
   {
-    "name": "Crystalline Scepter (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Crystalline_Scepter_(Level_25)",
+    "name": "Crystalline Scepter (level 25)",
+    "link": "https://ddowiki.com/page/Item:Crystalline_Scepter_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "Spellcasting Implement +21",
@@ -2901,6 +2927,34 @@
       "Ice Lore +23%",
       "Insightful Impulse +78",
       "Evocation Focus +6",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Club",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Club",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Sceptre",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Sceptre",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]

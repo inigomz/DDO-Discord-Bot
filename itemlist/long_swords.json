@@ -113,8 +113,8 @@
     ]
   },
   {
-    "name": "Mournlode Longsword (Level 4)",
-    "link": "https://ddowiki.com/page/Item:Mournlode_Longsword_(Level_4)",
+    "name": "Mournlode Longsword (level 4)",
+    "link": "https://ddowiki.com/page/Item:Mournlode_Longsword_(level_4)",
     "minLevel": "4",
     "enhancements": [
       "+1 Enhancement Bonus",
@@ -222,6 +222,19 @@
     "link": "https://ddowiki.com/page/Item:Mournlode_Longsword_(level_8)",
     "minLevel": "8",
     "enhancements": []
+  },
+  {
+    "name": "Calamitous Longsword",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Longsword",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
   },
   {
     "name": "Sirocco",
@@ -756,8 +769,8 @@
     "enhancements": []
   },
   {
-    "name": "Master's Riposte (Level 17)",
-    "link": "https://ddowiki.com/page/Item:Master%27s_Riposte_(Level_17)",
+    "name": "Master's Riposte (level 17)",
+    "link": "https://ddowiki.com/page/Item:Master%27s_Riposte_(level_17)",
     "minLevel": "17",
     "enhancements": [
       "+1 Enhancement Bonus",
@@ -796,8 +809,8 @@
     ]
   },
   {
-    "name": "Master's Riposte (Level 18)",
-    "link": "https://ddowiki.com/page/Item:Master%27s_Riposte_(Level_18)",
+    "name": "Master's Riposte (level 18)",
+    "link": "https://ddowiki.com/page/Item:Master%27s_Riposte_(level_18)",
     "minLevel": "18",
     "enhancements": [
       "+1 Enhancement Bonus",
@@ -892,8 +905,8 @@
     ]
   },
   {
-    "name": "Master's Riposte (Level 19)",
-    "link": "https://ddowiki.com/page/Item:Master%27s_Riposte_(Level_19)",
+    "name": "Master's Riposte (level 19)",
+    "link": "https://ddowiki.com/page/Item:Master%27s_Riposte_(level_19)",
     "minLevel": "19",
     "enhancements": [
       "+1 Enhancement Bonus",
@@ -1045,8 +1058,8 @@
     ]
   },
   {
-    "name": "Master's Riposte (Level 26)",
-    "link": "https://ddowiki.com/page/Item:Master%27s_Riposte_(Level_26)",
+    "name": "Master's Riposte (level 26)",
+    "link": "https://ddowiki.com/page/Item:Master%27s_Riposte_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "+1 Enhancement Bonus",
@@ -1093,8 +1106,8 @@
     ]
   },
   {
-    "name": "Master's Riposte (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Master%27s_Riposte_(Level_27)",
+    "name": "Master's Riposte (level 27)",
+    "link": "https://ddowiki.com/page/Item:Master%27s_Riposte_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "+1 Enhancement Bonus",
@@ -1116,8 +1129,8 @@
     ]
   },
   {
-    "name": "Master's Riposte (Level 28)",
-    "link": "https://ddowiki.com/page/Item:Master%27s_Riposte_(Level_28)",
+    "name": "Master's Riposte (level 28)",
+    "link": "https://ddowiki.com/page/Item:Master%27s_Riposte_(level_28)",
     "minLevel": "28",
     "enhancements": [
       "+1 Enhancement Bonus",
@@ -2034,6 +2047,20 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Longsword",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Longsword",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]

@@ -24,6 +24,20 @@
     ]
   },
   {
+    "name": "Arcane Contraption",
+    "link": "https://ddowiki.com/page/Item:Arcane_Contraption",
+    "minLevel": "8",
+    "enhancements": [
+      "Spellcasting Implement +13",
+      "+4 Orb Bonus",
+      "Insightful Potency +27",
+      "Will Save +7",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Purple Augment Slot"
+    ]
+  },
+  {
     "name": "Blazing Sun",
     "link": "https://ddowiki.com/page/Item:Blazing_Sun",
     "minLevel": "18",
@@ -146,6 +160,20 @@
       "Nullification +115",
       "Insightful Nullification +57",
       "Quality Magical Sheltering +6",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Death's Anchor",
+    "link": "https://ddowiki.com/page/Item:Death%27s_Anchor",
+    "minLevel": "8",
+    "enhancements": [
+      "Spellcasting Implement +8",
+      "+4 Orb Bonus",
+      "Quality Nullification +17",
+      "Necromancy Focus +2",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
       "Purple Augment Slot"
     ]
   },
@@ -319,6 +347,20 @@
     ]
   },
   {
+    "name": "Flickering Divinity",
+    "link": "https://ddowiki.com/page/Item:Flickering_Divinity",
+    "minLevel": "8",
+    "enhancements": [
+      "Spellcasting Implement +13",
+      "+4 Orb Bonus",
+      "Quality Radiance +21",
+      "Spell Penetration +5",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Purple Augment Slot"
+    ]
+  },
+  {
     "name": "Forgotten Tome",
     "link": "https://ddowiki.com/page/Item:Forgotten_Tome",
     "minLevel": "18",
@@ -329,6 +371,18 @@
       "Mystic Diversion +14%",
       "Energy Siphon V",
       "Forbidden Knowledge",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Frostwell",
+    "link": "https://ddowiki.com/page/Item:Frostwell",
+    "minLevel": "8",
+    "enhancements": [
+      "Spellcasting Implement +13",
+      "+4 Orb Bonus",
+      "Quality Glaciation +21",
+      "Spell Penetration +5",
       "Purple Augment Slot"
     ]
   },
@@ -361,8 +415,8 @@
     ]
   },
   {
-    "name": "Golden Orb of Death (Level 26)",
-    "link": "https://ddowiki.com/page/Item:Golden_Orb_of_Death_(Level_26)",
+    "name": "Golden Orb of Death (level 26)",
+    "link": "https://ddowiki.com/page/Item:Golden_Orb_of_Death_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "+10 Orb Bonus",
@@ -374,8 +428,8 @@
     ]
   },
   {
-    "name": "Golden Orb of Death (Level 7)",
-    "link": "https://ddowiki.com/page/Item:Golden_Orb_of_Death_(Level_7)",
+    "name": "Golden Orb of Death (level 7)",
+    "link": "https://ddowiki.com/page/Item:Golden_Orb_of_Death_(level_7)",
     "minLevel": "7",
     "enhancements": [
       "+3 Orb Bonus",
@@ -498,6 +552,21 @@
     ]
   },
   {
+    "name": "Legendary Arcane Contraption",
+    "link": "https://ddowiki.com/page/Item:Legendary_Arcane_Contraption",
+    "minLevel": "34",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Orb Bonus",
+      "Insightful Potency +54",
+      "Will Save +13",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
     "name": "Legendary Bolt Sphere",
     "link": "https://ddowiki.com/page/Item:Legendary_Bolt_Sphere",
     "minLevel": "28",
@@ -558,6 +627,21 @@
     ]
   },
   {
+    "name": "Legendary Death's Anchor",
+    "link": "https://ddowiki.com/page/Item:Legendary_Death%27s_Anchor",
+    "minLevel": "34",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Orb Bonus",
+      "Quality Nullification +38",
+      "Necromancy Focus +6",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
     "name": "Legendary Death's Handiwork",
     "link": "https://ddowiki.com/page/Item:Legendary_Death%27s_Handiwork",
     "minLevel": "29",
@@ -602,6 +686,21 @@
     ]
   },
   {
+    "name": "Legendary Flickering Divinity",
+    "link": "https://ddowiki.com/page/Item:Legendary_Flickering_Divinity",
+    "minLevel": "34",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Orb Bonus",
+      "Quality Radiance +38",
+      "Spell Penetration +9",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
     "name": "Legendary Forgotten Tome",
     "link": "https://ddowiki.com/page/Item:Legendary_Forgotten_Tome",
     "minLevel": "32",
@@ -612,6 +711,21 @@
       "Mystic Diversion +22%",
       "Energy Siphon XII",
       "Legendary Forbidden Knowledge",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Frostwell",
+    "link": "https://ddowiki.com/page/Item:Legendary_Frostwell",
+    "minLevel": "34",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Orb Bonus",
+      "Quality Glaciation +38",
+      "Spell Penetration +9",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
       "Purple Augment Slot",
       "Orange Augment Slot"
     ]
@@ -847,8 +961,8 @@
     ]
   },
   {
-    "name": "Madstone Skull (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Madstone_Skull_(Level_12)",
+    "name": "Madstone Skull (level 12)",
+    "link": "https://ddowiki.com/page/Item:Madstone_Skull_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "+4 Orb Bonus",
@@ -858,8 +972,8 @@
     ]
   },
   {
-    "name": "Madstone Skull (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Madstone_Skull_(Level_13)",
+    "name": "Madstone Skull (level 13)",
+    "link": "https://ddowiki.com/page/Item:Madstone_Skull_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "+4 Orb Bonus",
@@ -869,8 +983,8 @@
     ]
   },
   {
-    "name": "Madstone Skull (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Madstone_Skull_(Level_14)",
+    "name": "Madstone Skull (level 14)",
+    "link": "https://ddowiki.com/page/Item:Madstone_Skull_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "+5 Orb Bonus",
@@ -880,8 +994,8 @@
     ]
   },
   {
-    "name": "Madstone Skull (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Madstone_Skull_(Level_23)",
+    "name": "Madstone Skull (level 23)",
+    "link": "https://ddowiki.com/page/Item:Madstone_Skull_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "+6 Orb Bonus",
@@ -891,8 +1005,8 @@
     ]
   },
   {
-    "name": "Madstone Skull (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Madstone_Skull_(Level_24)",
+    "name": "Madstone Skull (level 24)",
+    "link": "https://ddowiki.com/page/Item:Madstone_Skull_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "+7 Orb Bonus",
@@ -902,8 +1016,8 @@
     ]
   },
   {
-    "name": "Madstone Skull (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Madstone_Skull_(Level_25)",
+    "name": "Madstone Skull (level 25)",
+    "link": "https://ddowiki.com/page/Item:Madstone_Skull_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "+7 Orb Bonus",
@@ -942,8 +1056,8 @@
     ]
   },
   {
-    "name": "Nether Orb (Level 17)",
-    "link": "https://ddowiki.com/page/Item:Nether_Orb_(Level_17)",
+    "name": "Nether Orb (level 17)",
+    "link": "https://ddowiki.com/page/Item:Nether_Orb_(level_17)",
     "minLevel": "17",
     "enhancements": [
       "+4 Orb Bonus",
@@ -958,8 +1072,8 @@
     ]
   },
   {
-    "name": "Nether Orb (Level 18)",
-    "link": "https://ddowiki.com/page/Item:Nether_Orb_(Level_18)",
+    "name": "Nether Orb (level 18)",
+    "link": "https://ddowiki.com/page/Item:Nether_Orb_(level_18)",
     "minLevel": "18",
     "enhancements": [
       "+5 Orb Bonus",
@@ -974,8 +1088,8 @@
     ]
   },
   {
-    "name": "Nether Orb (Level 19)",
-    "link": "https://ddowiki.com/page/Item:Nether_Orb_(Level_19)",
+    "name": "Nether Orb (level 19)",
+    "link": "https://ddowiki.com/page/Item:Nether_Orb_(level_19)",
     "minLevel": "19",
     "enhancements": [
       "+5 Orb Bonus",
@@ -990,8 +1104,8 @@
     ]
   },
   {
-    "name": "Nether Orb (Level 26)",
-    "link": "https://ddowiki.com/page/Item:Nether_Orb_(Level_26)",
+    "name": "Nether Orb (level 26)",
+    "link": "https://ddowiki.com/page/Item:Nether_Orb_(level_26)",
     "minLevel": "26",
     "enhancements": [
       "+7 Orb Bonus",
@@ -1006,8 +1120,8 @@
     ]
   },
   {
-    "name": "Nether Orb (Level 27)",
-    "link": "https://ddowiki.com/page/Item:Nether_Orb_(Level_27)",
+    "name": "Nether Orb (level 27)",
+    "link": "https://ddowiki.com/page/Item:Nether_Orb_(level_27)",
     "minLevel": "27",
     "enhancements": [
       "+8 Orb Bonus",
@@ -1022,8 +1136,8 @@
     ]
   },
   {
-    "name": "Nether Orb (Level 28)",
-    "link": "https://ddowiki.com/page/Item:Nether_Orb_(Level_28)",
+    "name": "Nether Orb (level 28)",
+    "link": "https://ddowiki.com/page/Item:Nether_Orb_(level_28)",
     "minLevel": "28",
     "enhancements": [
       "+8 Orb Bonus",
@@ -1335,8 +1449,8 @@
     ]
   },
   {
-    "name": "Wizard's Ward (Level 16)",
-    "link": "https://ddowiki.com/page/Item:Wizard%27s_Ward_(Level_16)",
+    "name": "Wizard's Ward (level 16)",
+    "link": "https://ddowiki.com/page/Item:Wizard%27s_Ward_(level_16)",
     "minLevel": "16",
     "enhancements": [
       "+4 Orb Bonus",
@@ -1351,8 +1465,8 @@
     ]
   },
   {
-    "name": "Wizard's Ward (Level 17)",
-    "link": "https://ddowiki.com/page/Item:Wizard%27s_Ward_(Level_17)",
+    "name": "Wizard's Ward (level 17)",
+    "link": "https://ddowiki.com/page/Item:Wizard%27s_Ward_(level_17)",
     "minLevel": "17",
     "enhancements": [
       "+5 Orb Bonus",
@@ -1367,8 +1481,8 @@
     ]
   },
   {
-    "name": "Wizard's Ward (Level 18)",
-    "link": "https://ddowiki.com/page/Item:Wizard%27s_Ward_(Level_18)",
+    "name": "Wizard's Ward (level 18)",
+    "link": "https://ddowiki.com/page/Item:Wizard%27s_Ward_(level_18)",
     "minLevel": "18",
     "enhancements": [
       "+5 Orb Bonus",
@@ -1383,8 +1497,8 @@
     ]
   },
   {
-    "name": "Wizard's Ward (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Wizard%27s_Ward_(Level_23)",
+    "name": "Wizard's Ward (level 23)",
+    "link": "https://ddowiki.com/page/Item:Wizard%27s_Ward_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "+6 Orb Bonus",
@@ -1399,8 +1513,8 @@
     ]
   },
   {
-    "name": "Wizard's Ward (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Wizard%27s_Ward_(Level_24)",
+    "name": "Wizard's Ward (level 24)",
+    "link": "https://ddowiki.com/page/Item:Wizard%27s_Ward_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "+6 Orb Bonus",
@@ -1415,8 +1529,8 @@
     ]
   },
   {
-    "name": "Wizard's Ward (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Wizard%27s_Ward_(Level_25)",
+    "name": "Wizard's Ward (level 25)",
+    "link": "https://ddowiki.com/page/Item:Wizard%27s_Ward_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "+7 Orb Bonus",

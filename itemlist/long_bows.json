@@ -135,8 +135,8 @@
     ]
   },
   {
-    "name": "Calomel Strung Long Bow (Level 4)",
-    "link": "https://ddowiki.com/page/Item:Calomel_Strung_Long_Bow_(Level_4)",
+    "name": "Calomel Strung Long Bow (level 4)",
+    "link": "https://ddowiki.com/page/Item:Calomel_Strung_Long_Bow_(level_4)",
     "minLevel": "4",
     "enhancements": [
       "+1 Enhancement Bonus",
@@ -338,6 +338,19 @@
     ]
   },
   {
+    "name": "Calamitous Longbow",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Longbow",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
     "name": "Inferno Sniper",
     "link": "https://ddowiki.com/page/Item:Inferno_Sniper",
     "minLevel": "9",
@@ -527,8 +540,8 @@
     "enhancements": []
   },
   {
-    "name": "Tortured Livewood Bow (Level 12)",
-    "link": "https://ddowiki.com/page/Item:Tortured_Livewood_Bow_(Level_12)",
+    "name": "Tortured Livewood Bow (level 12)",
+    "link": "https://ddowiki.com/page/Item:Tortured_Livewood_Bow_(level_12)",
     "minLevel": "12",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -567,8 +580,8 @@
     ]
   },
   {
-    "name": "Tortured Livewood Bow (Level 13)",
-    "link": "https://ddowiki.com/page/Item:Tortured_Livewood_Bow_(Level_13)",
+    "name": "Tortured Livewood Bow (level 13)",
+    "link": "https://ddowiki.com/page/Item:Tortured_Livewood_Bow_(level_13)",
     "minLevel": "13",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -627,8 +640,8 @@
     ]
   },
   {
-    "name": "Tortured Livewood Bow (Level 14)",
-    "link": "https://ddowiki.com/page/Item:Tortured_Livewood_Bow_(Level_14)",
+    "name": "Tortured Livewood Bow (level 14)",
+    "link": "https://ddowiki.com/page/Item:Tortured_Livewood_Bow_(level_14)",
     "minLevel": "14",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -695,8 +708,8 @@
     "enhancements": []
   },
   {
-    "name": "Roadwatch Bow (Level 16)",
-    "link": "https://ddowiki.com/page/Item:Roadwatch_Bow_(Level_16)",
+    "name": "Roadwatch Bow (level 16)",
+    "link": "https://ddowiki.com/page/Item:Roadwatch_Bow_(level_16)",
     "minLevel": "16",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -737,8 +750,8 @@
     ]
   },
   {
-    "name": "Roadwatch Bow (Level 17)",
-    "link": "https://ddowiki.com/page/Item:Roadwatch_Bow_(Level_17)",
+    "name": "Roadwatch Bow (level 17)",
+    "link": "https://ddowiki.com/page/Item:Roadwatch_Bow_(level_17)",
     "minLevel": "17",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -748,8 +761,8 @@
     ]
   },
   {
-    "name": "Roadwatch Bow (Level 18)",
-    "link": "https://ddowiki.com/page/Item:Roadwatch_Bow_(Level_18)",
+    "name": "Roadwatch Bow (level 18)",
+    "link": "https://ddowiki.com/page/Item:Roadwatch_Bow_(level_18)",
     "minLevel": "18",
     "enhancements": [
       "+5 Enhancement Bonus",
@@ -971,8 +984,8 @@
     ]
   },
   {
-    "name": "Roadwatch Bow (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Roadwatch_Bow_(Level_23)",
+    "name": "Roadwatch Bow (level 23)",
+    "link": "https://ddowiki.com/page/Item:Roadwatch_Bow_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "+6 Enhancement Bonus",
@@ -982,8 +995,8 @@
     ]
   },
   {
-    "name": "Tortured Livewood Bow (Level 23)",
-    "link": "https://ddowiki.com/page/Item:Tortured_Livewood_Bow_(Level_23)",
+    "name": "Tortured Livewood Bow (level 23)",
+    "link": "https://ddowiki.com/page/Item:Tortured_Livewood_Bow_(level_23)",
     "minLevel": "23",
     "enhancements": [
       "+6 Enhancement Bonus",
@@ -992,8 +1005,8 @@
     ]
   },
   {
-    "name": "Tortured Livewood Bow (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Tortured_Livewood_Bow_(Level_24)",
+    "name": "Tortured Livewood Bow (level 24)",
+    "link": "https://ddowiki.com/page/Item:Tortured_Livewood_Bow_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "+7 Enhancement Bonus",
@@ -1002,8 +1015,8 @@
     ]
   },
   {
-    "name": "Roadwatch Bow (Level 24)",
-    "link": "https://ddowiki.com/page/Item:Roadwatch_Bow_(Level_24)",
+    "name": "Roadwatch Bow (level 24)",
+    "link": "https://ddowiki.com/page/Item:Roadwatch_Bow_(level_24)",
     "minLevel": "24",
     "enhancements": [
       "+7 Enhancement Bonus",
@@ -1038,8 +1051,8 @@
     ]
   },
   {
-    "name": "Tortured Livewood Bow (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Tortured_Livewood_Bow_(Level_25)",
+    "name": "Tortured Livewood Bow (level 25)",
+    "link": "https://ddowiki.com/page/Item:Tortured_Livewood_Bow_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "+7 Enhancement Bonus",
@@ -1049,8 +1062,8 @@
     ]
   },
   {
-    "name": "Roadwatch Bow (Level 25)",
-    "link": "https://ddowiki.com/page/Item:Roadwatch_Bow_(Level_25)",
+    "name": "Roadwatch Bow (level 25)",
+    "link": "https://ddowiki.com/page/Item:Roadwatch_Bow_(level_25)",
     "minLevel": "25",
     "enhancements": [
       "+7 Enhancement Bonus",
@@ -1563,6 +1576,20 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Longbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Longbow",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]

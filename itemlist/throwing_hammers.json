@@ -50,6 +50,20 @@
     ]
   },
   {
+    "name": "Calamitous Throwing Hammer",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Throwing_Hammer",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Returning",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
     "name": "Barovian's Throwing Hammer",
     "link": "https://ddowiki.com/page/Item:Barovian%27s_Throwing_Hammer",
     "minLevel": "10",
@@ -418,6 +432,21 @@
       "Sovereign Vorpal",
       "Sealed in Fire",
       "Returning",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Throwing Hammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Throwing_Hammer",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Returning",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]
